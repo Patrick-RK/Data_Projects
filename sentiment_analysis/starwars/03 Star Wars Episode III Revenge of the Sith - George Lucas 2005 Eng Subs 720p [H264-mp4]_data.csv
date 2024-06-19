@@ -1,0 +1,1818 @@
+index,start_time,end_time,text,sentiment_score,cumulative_sentiment
+1,00:03:07.470000,00:03:08.869000,"Lock onto him, R2.",0.0,0.0
+2,00:03:08.972000,00:03:12.408000,"Master, General Grievous's ship is directly ahead...",0.0,0.0
+3,00:03:12.508000,00:03:14.738000,"the one crawling
+with vulture droids.",0.0,0.0
+4,00:03:14.844000,00:03:17.369000,"Oh, I see it.
+Oh, this is going to be easy.",0.0,0.0
+5,00:03:25.021000,00:03:27.581000,"- Oddball, do you copy?
+- Copy, Red Leader.",0.0,0.0
+6,00:03:27.690000,00:03:29.988000,"Mark my position.
+Form your squad up behind me.",0.0,0.0
+7,00:03:30.093000,00:03:31.993000,"We're on your tail,
+General Kenobi.",0.0,0.0
+8,00:03:32.095000,00:03:33.995000,Set S-foils in attack position.,0.0,0.0
+9,00:03:47.944000,00:03:49.935000,This is where the fun begins.,0.0,0.0
+10,00:03:50.046000,00:03:52.071000,Let them pass between us.,0.0,0.0
+11,00:04:08.831000,00:04:12.767000,They're all over me. Get them off my...,0.0,0.0
+12,00:04:12.869000,00:04:14.769000,"- I'm gonna go help them out.
+- No.",0.0,0.0
+13,00:04:14.871000,00:04:17.567000,"No, they are doing their job
+so we can do ours.",0.0,0.0
+14,00:04:31.554000,00:04:34.114000,Missiles. Pull up.,0.0,0.0
+15,00:04:35.558000,00:04:38.083000,"- They overshot us.
+- They're coming around.",0.0,0.0
+16,00:04:42.465000,00:04:45.298000,"All right, R4.",0.0,0.0
+17,00:04:45.401000,00:04:47.926000,"No, no, no, no...
+No, nothing too fancy.",0.0,0.0
+18,00:04:51.207000,00:04:54.938000,"Surge all power units, R2.
+Stand by reverse thrusters.",0.0,0.0
+19,00:05:02.752000,00:05:06.279000,"We got 'em, R2.",0.0,0.0
+20,00:05:14.630000,00:05:16.655000,Flying is for droids.,0.0,0.0
+21,00:05:23.873000,00:05:27.673000,"- I'm hit. Anakin?
+- I see them. Buzz droids.",0.0,0.0
+22,00:05:35.284000,00:05:37.275000,"R4, be careful.
+You have a...",0.0,0.0
+23,00:05:39.589000,00:05:42.319000,"Oh, dear.",0.0,0.0
+24,00:05:44.494000,00:05:46.325000,"They're shutting down
+all the controls.",0.0,0.0
+25,00:05:46.429000,00:05:49.455000,"- Move to the right so I can
+get a clear shot at them.
+- The mission.",0.0,0.0
+26,00:05:49.565000,00:05:53.399000,"Get to the command ship. Get the chancellor.
+I'm running out of tricks here.",0.0,0.0
+27,00:05:56.305000,00:06:00.571000,Oh! In the name of...,0.0,0.0
+28,00:06:02.912000,00:06:06.848000,"- Hold your fire! You're not helping here.
+- I agree. Bad idea.",0.0,0.0
+29,00:06:13.289000,00:06:16.019000,"I can't see a thing.
+My cockpit's fogging.",0.0,0.0
+30,00:06:19.328000,00:06:21.193000,"They're all over me.
+Anakin!",0.0,0.0
+31,00:06:24.267000,00:06:27.930000,"- Move to the right.
+- Hold on, Anakin. You're gonna get us both killed.",0.0,0.0
+32,00:06:30.473000,00:06:32.407000,"Get out of here.
+There's nothing more you can do.",0.0,0.0
+33,00:06:32.508000,00:06:34.669000,"I'm not leaving
+without you, Master.",0.0,0.0
+34,00:06:43.686000,00:06:46.519000,"Get him, R2.",0.0,0.0
+35,00:06:46.622000,00:06:49.955000,Watch out.,0.0,0.0
+36,00:06:54.564000,00:06:56.896000,"R2, hit the buzz droid's
+center eye.",0.0,0.0
+37,00:07:04.140000,00:07:06.438000,"- Yeah, you got him!
+- Great, R2.",0.0,0.0
+38,00:07:08.744000,00:07:10.644000,"The general's command ship
+is dead ahead.",0.0,0.0
+39,00:07:12.748000,00:07:14.807000,"Well, haveyou noticed
+the shields are still up?",0.0,0.0
+40,00:07:14.917000,00:07:16.908000,"Sorry, Master.",0.0,0.0
+41,00:07:24.493000,00:07:26.552000,"Oh, I have a bad feeling
+about this.",0.0,0.0
+42,00:07:41.410000,00:07:43.537000,"There they are.
+Get them.",0.0,0.0
+43,00:07:52.955000,00:07:57.085000,"R2, locate the chancellor.",0.0,0.0
+44,00:08:05.468000,00:08:08.164000,The chancellor's signal is coming from right there...,0.0,0.0
+45,00:08:08.271000,00:08:11.331000,"the observation platform
+at the top of that spire.",0.0,0.0
+46,00:08:11.440000,00:08:13.374000,I sense Count Dooku.,0.0,0.0
+47,00:08:13.476000,00:08:16.741000,"- I sense a trap.
+- Next move?",0.0,0.0
+48,00:08:16.846000,00:08:20.441000,Spring the trap.,0.0,0.0
+49,00:08:20.549000,00:08:23.712000,"R2, go back.
+I need you to stay with the ship.",0.0,0.0
+50,00:08:23.819000,00:08:25.719000,"Here. Take this
+and wait for orders.",0.0,0.0
+51,00:08:40.069000,00:08:43.527000,"What's the situation, Captain?",0.0,0.0
+52,00:08:43.639000,00:08:47.575000,"Two Jedi have landed in the main hangar bay.
+We're tracking them.",0.0,0.0
+53,00:08:47.677000,00:08:51.977000,Just as Count Dooku predicted.,0.0,0.0
+54,00:08:55.418000,00:08:57.181000,Destroyers.,0.0,0.0
+55,00:09:05.428000,00:09:08.261000,"Drop your weapons.
+I said drop 'em.",0.0,0.0
+56,00:09:08.364000,00:09:09.854000,"- Roger.
+- Roger, roger.",0.0,0.0
+57,00:09:09.965000,00:09:11.159000,"Roger, roger.",0.0,0.0
+58,00:09:18.808000,00:09:20.708000,"Those are Jedi fighters
+all right.",0.0,0.0
+59,00:09:25.348000,00:09:27.339000,"- Did you press the stop button?
+- No. Did you?",0.0,0.0
+60,00:09:27.450000,00:09:30.715000,"- No.
+- Well, there's more than one way out of here.",0.0,0.0
+61,00:09:30.820000,00:09:32.617000,We don't want to get out.,0.0,0.0
+62,00:09:32.722000,00:09:38.422000,"We want to get moving.
+R2, activate elevator 31174.",0.0,0.0
+63,00:09:38.527000,00:09:40.722000,"- Come in, R2.
+- What that?",0.0,0.0
+64,00:09:40.830000,00:09:42.730000,"R2, do you copy?",0.0,0.0
+65,00:09:42.832000,00:09:44.732000,"R2, activate
+the elevator number...",0.0,0.0
+66,00:09:44.834000,00:09:47.064000,31174.,0.0,0.0
+67,00:09:47.169000,00:09:50.104000,"Get back to work.
+That nothin'.",0.0,0.0
+68,00:09:50.206000,00:09:53.141000,Activate the elevator 31174.,0.0,0.0
+69,00:09:53.242000,00:09:55.142000,"R2, we...",0.0,0.0
+70,00:10:00.316000,00:10:02.876000,Always on the move.,0.0,0.0
+71,00:10:02.985000,00:10:04.885000,"R2, switch on the comlink.",0.0,0.0
+72,00:10:04.987000,00:10:06.978000,"R2, can you hear me?",0.0,0.0
+73,00:10:07.089000,00:10:09.557000,R2?,0.0,0.0
+74,00:10:09.658000,00:10:10.920000,Whoa!,0.0,0.0
+75,00:10:11.026000,00:10:13.119000,R2! R2!,0.0,0.0
+76,00:10:16.599000,00:10:19.932000,"Stop. Stop.
+R2, we need to be going up.",0.0,0.0
+77,00:10:22.405000,00:10:24.305000,"Hands up, Jedi.",0.0,0.0
+78,00:10:24.407000,00:10:26.602000,"R2, do you copy?",0.0,0.0
+79,00:10:26.709000,00:10:30.668000,"R2, do you hear me?
+R2, we need to be going up, not down.",0.0,0.0
+80,00:10:35.551000,00:10:38.520000,"Hey, you!",0.0,0.0
+81,00:10:41.724000,00:10:43.624000,"Now, that's better.",0.0,0.0
+82,00:10:43.726000,00:10:47.992000,You stupid little astro droid.,0.0,0.0
+83,00:10:48.931000,00:10:51.195000,Uh-oh.,0.0,0.0
+84,00:10:58.207000,00:11:00.107000,"Oh, it's you.",0.0,0.0
+85,00:11:02.244000,00:11:04.041000,My eyes! My eyes!,0.0,0.0
+86,00:11:04.146000,00:11:06.614000,"- What was that all about?
+- Well, R2 has been...",0.0,0.0
+87,00:11:06.715000,00:11:09.650000,"- Uh, no loose wire jokes.
+- Did I say anything?",0.0,0.0
+88,00:11:09.752000,00:11:11.686000,"- He's trying.
+- I didn't say anything.",0.0,0.0
+89,00:11:49.325000,00:11:51.225000,"- Chancellor.
+- Are you all right?",0.0,0.0
+90,00:11:51.327000,00:11:53.921000,Count Dooku.,0.0,0.0
+91,00:11:57.533000,00:12:01.401000,"- This time we will do it together.
+- I was about to say that.",0.0,0.0
+92,00:12:10.346000,00:12:13.543000,"Get help. You're no match for him.
+He's a Sith lord.",0.0,0.0
+93,00:12:13.649000,00:12:17.710000,"Chancellor Palpatine,
+Sith lords are our speciality.",0.0,0.0
+94,00:12:17.820000,00:12:20.721000,"Your swords, please.",0.0,0.0
+95,00:12:20.823000,00:12:24.281000,"We don't want to make a mess of things
+in front of the chancellor.",0.0,0.0
+96,00:12:24.393000,00:12:26.623000,"You won't get away
+this time, Dooku.",0.0,0.0
+97,00:12:37.640000,00:12:39.574000,"I've been looking forward
+to this.",0.0,0.0
+98,00:12:39.675000,00:12:42.872000,"My powers have doubled since
+the last time we met, Count.",0.0,0.0
+99,00:12:42.978000,00:12:46.436000,"Good. Twice the pride,
+double the fall.",0.0,0.0
+100,00:13:06.535000,00:13:07.502000,Get...,0.0,0.0
+101,00:13:32.761000,00:13:37.824000,"I sense great fear
+in you, Skywalker.",0.0,0.0
+102,00:13:37.933000,00:13:41.596000,"You have hate.
+You have anger.",0.0,0.0
+103,00:13:41.704000,00:13:43.604000,Butyou don't use them.,0.0,0.0
+104,00:14:03.258000,00:14:07.024000,"Good, Anakin. Good.",0.0,0.0
+105,00:14:07.129000,00:14:09.120000,Kill him.,0.0,0.0
+106,00:14:10.633000,00:14:12.191000,Kill him now.,0.0,0.0
+107,00:14:17.840000,00:14:19.740000,I shouldn't.,0.0,0.0
+108,00:14:22.611000,00:14:24.772000,Do it.,0.0,0.0
+109,00:14:35.758000,00:14:38.659000,"You did well, Anakin.",0.0,0.0
+110,00:14:38.761000,00:14:42.697000,"He was too dangerous
+to be kept alive.",0.0,0.0
+111,00:14:42.798000,00:14:45.198000,"Yes, but he was
+an unarmed prisoner.",0.0,0.0
+112,00:14:45.300000,00:14:48.167000,"I shouldn't have done that.
+It's not the Jedi way.",0.0,0.0
+113,00:14:48.270000,00:14:53.401000,"It is only natural. He cut off your arm,
+and you wanted revenge.",0.0,0.0
+114,00:14:53.509000,00:14:56.535000,"It wasn't
+the first time, Anakin.",0.0,0.0
+115,00:14:56.645000,00:15:00.411000,"Remember what you told me
+about your mother and the Sand People?",0.0,0.0
+116,00:15:03.185000,00:15:06.780000,"Now we must leave before
+more security droids arrive.",0.0,0.0
+117,00:15:11.193000,00:15:14.185000,"Anakin,
+there's no time.",0.0,0.0
+118,00:15:14.296000,00:15:17.527000,"We must get off this ship
+before it's too late.",0.0,0.0
+119,00:15:17.633000,00:15:21.626000,"- He seems to be all right.
+- Leave him, or we'll never make it.",0.0,0.0
+120,00:15:21.737000,00:15:24.433000,"His fate will be
+the same as ours.",0.0,0.0
+121,00:15:28.877000,00:15:31.038000,Prepare for attack!,0.0,0.0
+122,00:15:32.414000,00:15:35.247000,"All batteries, fire!
+Fire!",0.0,0.0
+123,00:15:45.327000,00:15:47.227000,Elevator's not working.,0.0,0.0
+124,00:15:50.999000,00:15:53.627000,"R2, activate elevator 3224.",0.0,0.0
+125,00:16:12.354000,00:16:15.585000,"- Reverse stabilizers.
+- Reversing stabilizers.",0.0,0.0
+126,00:16:34.877000,00:16:36.970000,"Magnetize!
+Magnetize!",0.0,0.0
+127,00:16:43.585000,00:16:46.884000,"Fire the emergency
+booster engines.",0.0,0.0
+128,00:16:51.927000,00:16:53.792000,"We're leveling out, sir.",0.0,0.0
+129,00:16:56.965000,00:16:59.399000,Oh!,0.0,0.0
+130,00:17:09.578000,00:17:11.739000,Easy. We're in a bit of a situation here.,0.0,0.0
+131,00:17:11.847000,00:17:14.475000,"- Did I miss something?
+- Hold on.",0.0,0.0
+132,00:17:14.583000,00:17:16.744000,"- What is that?
+- Uh, oops.",0.0,0.0
+133,00:17:16.852000,00:17:18.843000,"R2. R2, shut down
+the elevator.",0.0,0.0
+134,00:17:18.954000,00:17:20.888000,Too late. Jump!,0.0,0.0
+135,00:17:34.503000,00:17:38.166000,"Let's see if we can find something
+in the hangar bay that's still flyable.",0.0,0.0
+136,00:17:38.273000,00:17:40.332000,"R2, get down here.",0.0,0.0
+137,00:17:40.442000,00:17:42.706000,"R2, doyou copy?",0.0,0.0
+138,00:17:46.648000,00:17:49.378000,"General, we found the Jedi.",0.0,0.0
+139,00:17:49.484000,00:17:53.887000,"- They're in hallway 328.
+- Activate ray shields.",0.0,0.0
+140,00:17:56.291000,00:17:58.191000,Ray shields.,0.0,0.0
+141,00:17:58.293000,00:18:00.193000,"Wait a minute.
+How did this happen?",0.0,0.0
+142,00:18:00.295000,00:18:02.627000,"- We're smarter than this.
+- Apparently not.",0.0,0.0
+143,00:18:04.633000,00:18:07.796000,"- I say patience.
+- Patience?",0.0,0.0
+144,00:18:07.903000,00:18:11.202000,"Yes. R2 will be along
+in a few moments...",0.0,0.0
+145,00:18:11.306000,00:18:14.571000,"and then... he'll release
+the ray shields.",0.0,0.0
+146,00:18:21.183000,00:18:23.413000,See? No problem.,0.0,0.0
+147,00:18:25.754000,00:18:27.654000,Don't move.,0.0,0.0
+148,00:18:27.756000,00:18:29.587000,Ow!,0.0,0.0
+149,00:18:30.726000,00:18:33.593000,"Doyou have a plan ""B""?",0.0,0.0
+150,00:18:39.268000,00:18:43.830000,"Ah, yes.
+The negotiator.",0.0,0.0
+151,00:18:43.939000,00:18:48.171000,"General Kenobi.
+We've been waiting for you.",0.0,0.0
+152,00:18:48.277000,00:18:50.438000,Excuse me.,0.0,0.0
+153,00:18:50.545000,00:18:53.309000,"- That wasn't much of a rescue.
+- You're welcome.",0.0,0.0
+154,00:18:53.415000,00:18:55.849000,And...,0.0,0.0
+155,00:18:55.951000,00:18:58.749000,Anakin Skywalker.,0.0,0.0
+156,00:18:58.854000,00:19:04.554000,"I was expecting someone with
+your reputation to be a little... older.",0.0,0.0
+157,00:19:06.695000,00:19:10.961000,"General Grievous.
+You're shorter than I expected.",0.0,0.0
+158,00:19:11.066000,00:19:15.594000,Jedi scum.,0.0,0.0
+159,00:19:15.704000,00:19:18.468000,"We have a job to do, Anakin.
+Try not to upset him.",0.0,0.0
+160,00:19:23.278000,00:19:27.942000,"Your lightsabers will make
+a fine addition to my collection.",0.0,0.0
+161,00:19:28.050000,00:19:31.713000,"Not this time.
+And this time, you won't escape.",0.0,0.0
+162,00:19:31.820000,00:19:34.050000,R2.,0.0,0.0
+163,00:19:37.826000,00:19:40.522000,Crush them!,0.0,0.0
+164,00:19:40.629000,00:19:42.688000,Make them suffer!,0.0,0.0
+165,00:19:46.735000,00:19:48.396000,Come. Now!,0.0,0.0
+166,00:19:48.503000,00:19:50.664000,"- Stay at your stations!
+- Whoa!",0.0,0.0
+167,00:19:57.346000,00:19:59.837000,Get him! Get him!,0.0,0.0
+168,00:20:02.284000,00:20:04.184000,Ow!,0.0,0.0
+169,00:20:18.200000,00:20:20.100000,Run!,0.0,0.0
+170,00:20:23.672000,00:20:27.199000,"- Don't bother with them. Keep the ship in orbit.
+- Yes, sir.",0.0,0.0
+171,00:20:38.220000,00:20:40.882000,"You lose, General Kenobi.",0.0,0.0
+172,00:21:04.746000,00:21:06.805000,Get out ofhere! Run!,0.0,0.0
+173,00:21:19.961000,00:21:22.452000,Time to abandon ship.,0.0,0.0
+174,00:21:29.704000,00:21:32.104000,All the escape pods have been launched.,0.0,0.0
+175,00:21:32.207000,00:21:35.267000,Grievous. Can you fly a cruiser like this?,0.0,0.0
+176,00:21:35.377000,00:21:38.369000,"- You mean, do I know how to land
+what's left of this thing?
+- Well?",0.0,0.0
+177,00:21:38.480000,00:21:42.075000,"Well, under the circumstances,
+I'd say the ability to pilot this thing is irrelevant.",0.0,0.0
+178,00:21:42.184000,00:21:45.017000,Strap yourselves in.,0.0,0.0
+179,00:21:45.120000,00:21:47.987000,"Open all hatches.
+Extend all flaps and drag fins.",0.0,0.0
+180,00:22:02.604000,00:22:06.870000,We lost something.,0.0,0.0
+181,00:22:06.975000,00:22:09.443000,"Not to worry. We are still
+flying half a ship.",0.0,0.0
+182,00:22:12.747000,00:22:16.706000,Now we're really picking up speed.,0.0,0.0
+183,00:22:25.393000,00:22:27.156000,Eight plus 60.,0.0,0.0
+184,00:22:27.262000,00:22:31.289000,"- We're in the atmosphere.
+- Grab that. Keep us level.",0.0,0.0
+185,00:22:44.479000,00:22:47.573000,Steady.,0.16666666666666666,0.16666666666666666
+186,00:22:47.682000,00:22:50.310000,"Easy, R2.",0.0,0.16666666666666666
+187,00:22:53.522000,00:22:57.219000,"5000. Fire ships on
+the left and the right.",0.0,0.16666666666666666
+188,00:22:57.325000,00:23:00.021000,"- We'll take you in.
+- Copy that.",0.0,0.16666666666666666
+189,00:23:02.464000,00:23:06.230000,"- Landing strip, straight ahead.
+- We're coming in too hot.",0.0,0.16666666666666666
+190,00:23:37.032000,00:23:39.296000,Another happy landing.,0.0,0.16666666666666666
+191,00:24:09.531000,00:24:13.490000,"- Areyou coming, Master?
+- Oh, no. I'm not brave enough for politics.",0.0,0.16666666666666666
+192,00:24:13.602000,00:24:15.502000,"I have to report
+to the council.",0.0,0.16666666666666666
+193,00:24:15.604000,00:24:18.072000,"Besides, someone needs
+to be the poster boy.",0.0,0.16666666666666666
+194,00:24:18.173000,00:24:22.007000,"Hold on.
+This whole operation was your idea.",0.0,0.16666666666666666
+195,00:24:22.110000,00:24:25.204000,"Let us not forget, Anakin,
+that you rescued me from the buzz droids.",0.0,0.16666666666666666
+196,00:24:25.313000,00:24:27.781000,"And you killed Count Dooku,
+and you rescued the chancellor...",0.0,0.16666666666666666
+197,00:24:27.882000,00:24:29.782000,"carrying me unconscious
+on your back.",0.0,0.16666666666666666
+198,00:24:29.884000,00:24:32.409000,"All because of
+your training.",0.0,0.16666666666666666
+199,00:24:32.520000,00:24:36.012000,"Anakin, let's be fair.
+Today you were the hero...",0.0,0.16666666666666666
+200,00:24:36.124000,00:24:39.184000,"and you deserve your glorious day
+with the politicians.",0.0,0.16666666666666666
+201,00:24:39.294000,00:24:43.355000,"All right. But you owe me one, and not for
+saving your skin for the 10th time.",0.0,0.16666666666666666
+202,00:24:43.465000,00:24:47.697000,"Ninth time. That business
+on Cato Neimoidia doesn't...doesn't count.",0.0,0.16666666666666666
+203,00:24:47.802000,00:24:49.702000,"I'll see you
+at the briefing.",0.0,0.16666666666666666
+204,00:24:55.076000,00:24:57.601000,"Chancellor Palpatine,
+are you all right?",0.0,0.16666666666666666
+205,00:24:57.712000,00:25:00.613000,"Yes. Thanks to your
+two Jedi knights.",0.0,0.16666666666666666
+206,00:25:00.715000,00:25:05.379000,"They killed Count Dooku,
+but General Grievous has escaped once again.",0.0,0.16666666666666666
+207,00:25:05.487000,00:25:09.014000,"General Grievous will run and hide,
+as he always does. He's a coward.",0.0,0.16666666666666666
+208,00:25:09.124000,00:25:13.424000,"But with Count Dooku dead,
+he is the leader of the droid army.",0.0,0.16666666666666666
+209,00:25:13.528000,00:25:19.296000,"And I assure you, the senate will vote
+to continue the war as long as Grievous is alive.",0.0,0.16666666666666666
+210,00:25:19.401000,00:25:23.428000,"Then the Jedi Council will make
+finding Grievous our highest priority.",0.0,0.16666666666666666
+211,00:25:24.906000,00:25:26.840000,"- Watch it.
+- Excuse me.",0.0,0.16666666666666666
+212,00:25:26.941000,00:25:29.910000,"- Come along, R2.
+- The Republic cannot praise you enough.",0.0,0.16666666666666666
+213,00:25:30.011000,00:25:32.138000,"Thank you, Senator Organa.",0.0,0.16666666666666666
+214,00:25:32.247000,00:25:35.808000,"Well, it couldn't possibly be as bad as all that.",0.0,0.16666666666666666
+215,00:25:35.917000,00:25:37.851000,Now there I agree with you.,0.0,0.16666666666666666
+216,00:25:37.952000,00:25:41.319000,"In fact, I could do with a tune-up myself.",0.0,0.16666666666666666
+217,00:25:41.423000,00:25:46.554000,"But the fighting will continue
+until General Grievous is spare parts.",0.0,0.16666666666666666
+218,00:25:46.661000,00:25:49.152000,"Well, I will do everything I can in the senate.",0.0,0.16666666666666666
+219,00:25:49.264000,00:25:51.528000,"- Excuse me.
+- Certainly.",0.0,0.16666666666666666
+220,00:26:02.143000,00:26:04.043000,"Oh, Anakin.",0.0,0.16666666666666666
+221,00:26:05.347000,00:26:08.805000,"I've missed you, PadmšŠ.",0.0,0.16666666666666666
+222,00:26:10.018000,00:26:13.249000,"There were whispers
+that you'd been killed.",0.0,0.16666666666666666
+223,00:26:13.355000,00:26:15.915000,I'm all right.,0.0,0.16666666666666666
+224,00:26:16.024000,00:26:19.016000,"It feels like we've been
+apart for a lifetime.",0.0,0.16666666666666666
+225,00:26:19.127000,00:26:21.925000,"And it might have been,
+ifthe chancellor hadn't been kidnapped.",0.0,0.16666666666666666
+226,00:26:22.030000,00:26:25.295000,"I don't think they would have ever
+brought us back from the outer rim sieges.",0.0,0.16666666666666666
+227,00:26:25.400000,00:26:28.130000,"- Wait. Not here.
+- Yes, here.",0.0,0.16666666666666666
+228,00:26:28.236000,00:26:31.728000,"I'm...I'm tired of all this deception.
+I don't care if they know we're married.",0.0,0.16666666666666666
+229,00:26:31.840000,00:26:34.104000,"Anakin, don't say
+things like that.",0.0,0.16666666666666666
+230,00:26:42.917000,00:26:46.546000,"Areyou all right?
+You're trembling.",0.0,0.16666666666666666
+231,00:26:46.654000,00:26:48.747000,What's going on?,0.0,0.16666666666666666
+232,00:26:50.859000,00:26:53.794000,"Something wonderful
+has happened.",0.0,0.16666666666666666
+233,00:26:53.895000,00:26:58.264000,"Ani, I'm pregnant.",0.0,0.16666666666666666
+234,00:27:02.270000,00:27:04.170000,That's...,0.0,0.16666666666666666
+235,00:27:09.344000,00:27:11.869000,"Well, that's won...
+That's wonderful.",0.0,0.16666666666666666
+236,00:27:13.615000,00:27:16.607000,What are we gonna do?,0.0,0.16666666666666666
+237,00:27:18.119000,00:27:21.520000,"We're not gonna worry
+about anything right now. All right?",0.0,0.16666666666666666
+238,00:27:21.623000,00:27:24.091000,This is a happy moment.,0.0,0.16666666666666666
+239,00:27:26.094000,00:27:28.392000,"The happiest moment
+of my life.",0.0,0.16666666666666666
+240,00:28:34.229000,00:28:37.392000,"Yes, Lord Sidious?",0.0,0.16666666666666666
+241,00:28:37.499000,00:28:39.399000,General Grievous...,0.0,0.16666666666666666
+242,00:28:39.501000,00:28:44.598000,"I suggest you move
+the separatist leaders to Mustafar.",0.0,0.16666666666666666
+243,00:28:44.706000,00:28:48.574000,"It will be done,
+my lord.",0.0,0.16666666666666666
+244,00:28:48.676000,00:28:52.942000,"The end of the war
+is near, General.",0.0,0.16666666666666666
+245,00:28:53.047000,00:28:56.676000,"But the loss
+ofCount Dooku...",0.0,0.16666666666666666
+246,00:28:56.784000,00:29:01.084000,"His death was
+a necessary loss.",0.0,0.16666666666666666
+247,00:29:01.189000,00:29:05.319000,"Soon I will have
+a new apprentice...",0.0,0.16666666666666666
+248,00:29:05.426000,00:29:10.693000,"one far younger
+and more powerful.",0.0,0.16666666666666666
+249,00:29:37.725000,00:29:40.751000,"Ani, I want to have our baby
+back home on Naboo.",0.0,0.16666666666666666
+250,00:29:40.862000,00:29:44.195000,"We can go to the lake country
+where no one will know...",0.0,0.16666666666666666
+251,00:29:44.299000,00:29:46.199000,where we can be safe.,0.0,0.16666666666666666
+252,00:29:47.435000,00:29:50.734000,"I can go early
+and fix up the baby's room.",0.0,0.16666666666666666
+253,00:29:52.774000,00:29:58.041000,"I know the perfect spot.
+Right by the gardens.",0.0,0.16666666666666666
+254,00:30:02.317000,00:30:05.616000,You are so... beautiful.,0.0,0.16666666666666666
+255,00:30:07.255000,00:30:09.280000,"It's only because
+I'm so in love.",0.0,0.16666666666666666
+256,00:30:09.390000,00:30:11.824000,No.,0.0,0.16666666666666666
+257,00:30:11.926000,00:30:15.123000,"No, it's because
+I'm so in love with you.",0.0,0.16666666666666666
+258,00:30:15.229000,00:30:18.756000,So love has blinded you?,0.0,0.16666666666666666
+259,00:30:20.568000,00:30:22.593000,"Well, that's not
+exactly what I meant.",0.0,0.16666666666666666
+260,00:30:24.205000,00:30:26.230000,But it's probably true.,0.0,0.16666666666666666
+261,00:30:33.815000,00:30:37.376000,"Anakin, help me!",0.0,0.16666666666666666
+262,00:31:40.615000,00:31:42.515000,What's bothering you?,0.0,0.16666666666666666
+263,00:31:44.952000,00:31:46.943000,Nothing.,0.0,0.16666666666666666
+264,00:31:48.856000,00:31:51.222000,"I remember when
+I gave this toyou.",0.0,0.16666666666666666
+265,00:31:51.325000,00:31:55.523000,"How long is it gonna take
+for us to be honest with each other?",0.0,0.16666666666666666
+266,00:31:58.132000,00:32:00.032000,It was a dream.,0.0,0.16666666666666666
+267,00:32:00.134000,00:32:02.261000,Bad?,-0.6999999999999998,-0.5333333333333332
+268,00:32:02.370000,00:32:04.804000,"Like the ones I used to have
+about my mother...",0.0,-0.5333333333333332
+269,00:32:04.906000,00:32:06.806000,just before she died.,0.0,-0.5333333333333332
+270,00:32:06.908000,00:32:08.808000,And?,0.0,-0.5333333333333332
+271,00:32:11.679000,00:32:13.613000,And it was about you.,0.0,-0.5333333333333332
+272,00:32:16.184000,00:32:18.084000,Tell me.,0.0,-0.5333333333333332
+273,00:32:19.854000,00:32:21.788000,It was only a dream.,0.0,-0.5333333333333332
+274,00:32:34.736000,00:32:36.670000,You die in childbirth.,0.0,-0.5333333333333332
+275,00:32:36.771000,00:32:39.569000,And the baby?,0.0,-0.5333333333333332
+276,00:32:39.674000,00:32:42.006000,I don't know.,0.0,-0.5333333333333332
+277,00:32:43.511000,00:32:45.411000,It was only a dream.,0.0,-0.5333333333333332
+278,00:32:45.513000,00:32:48.311000,"I won't let this one
+become real.",0.0,-0.5333333333333332
+279,00:32:49.417000,00:32:52.045000,"This baby will change
+our lives.",0.0,-0.5333333333333332
+280,00:32:52.153000,00:32:55.088000,"I doubt the queen will continue
+to allow me to serve in the senate.",0.0,-0.5333333333333332
+281,00:32:55.189000,00:32:57.919000,"And if the council discovers
+you're the father, you'll be expelled...",0.0,-0.5333333333333332
+282,00:32:58.025000,00:33:00.516000,I...I know. I know.,0.0,-0.5333333333333332
+283,00:33:00.628000,00:33:04.291000,"Doyou think Obi-Wan
+might be able to help us?",0.0,-0.5333333333333332
+284,00:33:06.334000,00:33:08.359000,We don't need his help.,0.0,-0.5333333333333332
+285,00:33:09.704000,00:33:12.696000,Our baby is a blessing.,0.0,-0.5333333333333332
+286,00:33:28.923000,00:33:33.053000,"Premonitions?
+Premonitions. Hmm.",0.0,-0.5333333333333332
+287,00:33:33.161000,00:33:36.324000,Thesevisions you have...,0.0,-0.5333333333333332
+288,00:33:36.430000,00:33:40.025000,"They're of pain,
+suffering.",0.0,-0.5333333333333332
+289,00:33:41.969000,00:33:43.869000,Death.,0.0,-0.5333333333333332
+290,00:33:43.971000,00:33:48.340000,"Yourselfyou speak of,
+or someoneyou know?",0.0,-0.5333333333333332
+291,00:33:49.844000,00:33:51.869000,Someone.,0.0,-0.5333333333333332
+292,00:33:51.979000,00:33:53.879000,Close toyou?,0.0,-0.5333333333333332
+293,00:33:55.082000,00:33:57.277000,Yes.,0.0,-0.5333333333333332
+294,00:33:57.385000,00:34:01.253000,"Careful you must be when
+sensing the future, Anakin.",0.0,-0.5333333333333332
+295,00:34:01.355000,00:34:05.655000,"The fear of loss is a path
+to the dark side.",0.0,-0.5333333333333332
+296,00:34:07.929000,00:34:11.194000,"I won't let these visions
+come true, Master Yoda.",0.0,-0.5333333333333332
+297,00:34:11.299000,00:34:14.496000,"Death is
+a natural part of life.",0.0,-0.5333333333333332
+298,00:34:14.602000,00:34:19.266000,"Rejoice for those around you
+who transform into the Force.",0.0,-0.5333333333333332
+299,00:34:19.373000,00:34:22.672000,"Mourn them, do not.
+Miss them, do not.",0.0,-0.5333333333333332
+300,00:34:22.777000,00:34:25.871000,"Attachment leads
+to jealousy.",0.0,-0.5333333333333332
+301,00:34:25.980000,00:34:29.416000,The shadow of greed that is.,0.0,-0.5333333333333332
+302,00:34:29.517000,00:34:32.350000,"What must I do, Master Yoda?",0.0,-0.5333333333333332
+303,00:34:32.453000,00:34:35.479000,"Train yourself
+to let go...",0.0,-0.5333333333333332
+304,00:34:35.590000,00:34:39.026000,"of everything
+you fear to lose.",0.0,-0.5333333333333332
+305,00:34:49.437000,00:34:52.167000,You've missed the report on the outer rim sieges.,0.0,-0.5333333333333332
+306,00:34:53.608000,00:34:56.008000,I'm sorry. I was held up.,0.0,-0.5333333333333332
+307,00:34:56.110000,00:34:59.705000,"- I have no excuse.
+- In short, they are going very well.",0.0,-0.5333333333333332
+308,00:34:59.814000,00:35:05.218000,"Saleucami has fallen, and Master Vos
+has moved his troops to Boz Pity.",0.0,-0.5333333333333332
+309,00:35:05.319000,00:35:07.310000,"What's wrong, then?",0.0,-0.5333333333333332
+310,00:35:07.421000,00:35:10.015000,The senate is expected...,0.0,-0.5333333333333332
+311,00:35:10.124000,00:35:13.616000,"to vote more executive powers
+to the chancellor today.",0.0,-0.5333333333333332
+312,00:35:13.728000,00:35:18.097000,"Well, that can only mean less deliberating
+and more action. Is that bad?",0.0,-0.5333333333333332
+313,00:35:18.199000,00:35:20.599000,"It'll make it easier
+for us to end this war.",0.0,-0.5333333333333332
+314,00:35:22.370000,00:35:24.668000,"Be careful of
+your friend Palpatine.",0.0,-0.5333333333333332
+315,00:35:26.340000,00:35:28.240000,Be careful of what?,0.0,-0.5333333333333332
+316,00:35:28.342000,00:35:30.970000,"- He has requested your presence.
+- What for?",0.0,-0.5333333333333332
+317,00:35:31.078000,00:35:35.708000,"- He would not say.
+- He didn't inform the council?",0.0,-0.5333333333333332
+318,00:35:35.816000,00:35:39.274000,"- That's unusual, isn't it?
+- All of this is unusual.",0.0,-0.5333333333333332
+319,00:35:39.387000,00:35:41.821000,And it's making me feel uneasy.,0.0,-0.5333333333333332
+320,00:35:56.804000,00:35:58.704000,"I hope you trust me, Anakin.",0.0,-0.5333333333333332
+321,00:35:58.806000,00:36:00.933000,Of course.,0.0,-0.5333333333333332
+322,00:36:02.109000,00:36:04.009000,"I need your help, son.",0.0,-0.5333333333333332
+323,00:36:05.146000,00:36:07.171000,What do you mean?,0.0,-0.5333333333333332
+324,00:36:07.281000,00:36:12.480000,"- I'm depending on you.
+- For what? I don't understand.",0.0,-0.5333333333333332
+325,00:36:12.586000,00:36:18.149000,"To be the eyes, ears
+and voice ofthe Republic.",0.0,-0.5333333333333332
+326,00:36:18.259000,00:36:20.386000,Anakin...,0.0,-0.5333333333333332
+327,00:36:20.494000,00:36:24.658000,"I'm appointing you to be my personal
+representative on the Jedi Council.",0.0,-0.5333333333333332
+328,00:36:24.765000,00:36:28.030000,Me? A master?,0.0,-0.5333333333333332
+329,00:36:29.637000,00:36:31.537000,"I'm overwhelmed, sir.",0.0,-0.5333333333333332
+330,00:36:33.441000,00:36:36.535000,"But the council elects its own members.
+They'll never accept this.",0.0,-0.5333333333333332
+331,00:36:36.644000,00:36:40.136000,"I think they will.
+They need you.",0.0,-0.5333333333333332
+332,00:36:40.247000,00:36:42.647000,More than you know.,0.0,-0.5333333333333332
+333,00:36:53.361000,00:36:58.162000,"Allow this appointment lightly
+the council does not.",0.0,-0.5333333333333332
+334,00:36:58.265000,00:37:01.666000,"Disturbing is this move
+by Chancellor Palpatine.",0.0,-0.5333333333333332
+335,00:37:02.870000,00:37:04.428000,I understand.,0.0,-0.5333333333333332
+336,00:37:04.538000,00:37:09.601000,"You are on this council,
+but we do not grant you the rank of master.",0.0,-0.5333333333333332
+337,00:37:09.710000,00:37:11.735000,What?,0.0,-0.5333333333333332
+338,00:37:16.550000,00:37:20.213000,"How can you do this?
+This is outrageous.",0.0,-0.5333333333333332
+339,00:37:20.321000,00:37:22.448000,It's unfair.,0.0,-0.5333333333333332
+340,00:37:23.858000,00:37:27.089000,"How can you be on the council
+and not be a master?",0.0,-0.5333333333333332
+341,00:37:27.194000,00:37:30.686000,"Take a seat,
+young Skywalker.",0.0,-0.5333333333333332
+342,00:37:33.801000,00:37:36.031000,"Forgive me, Master.",0.0,-0.5333333333333332
+343,00:37:39.140000,00:37:42.075000,We have surveyed all systems in the Republic...,0.0,-0.5333333333333332
+344,00:37:42.176000,00:37:45.907000,"but have found no sign
+of General Grievous.",0.0,-0.5333333333333332
+345,00:37:46.013000,00:37:48.777000,"Hiding in the outer rim
+Grievous is.",0.0,-0.5333333333333332
+346,00:37:48.883000,00:37:51.977000,"The outlying systems
+you must sweep.",0.0,-0.5333333333333332
+347,00:37:52.086000,00:37:54.316000,"We do not have
+many ships to spare.",0.0,-0.5333333333333332
+348,00:37:54.422000,00:37:56.617000,"What about the droid attack
+on the Wookiees?",0.0,-0.5333333333333332
+349,00:37:56.724000,00:38:00.421000,"It is critical we send an attack group
+there immediately.",0.0,-0.5333333333333332
+350,00:38:00.528000,00:38:03.929000,"He's right. It's a system
+we cannot afford to lose.",0.0,-0.5333333333333332
+351,00:38:05.266000,00:38:07.393000,Go I will.,0.0,-0.5333333333333332
+352,00:38:07.501000,00:38:10.493000,"Good relations
+with the Wookiees I have.",0.0,-0.5333333333333332
+353,00:38:10.604000,00:38:14.938000,"It's settled then.
+Yoda will take a battalion of clones...",0.0,-0.5333333333333332
+354,00:38:15.042000,00:38:17.340000,"to reinforce
+the Wookiees on Kashyyyk.",0.0,-0.5333333333333332
+355,00:38:17.445000,00:38:19.504000,"May the Force
+be with us all.",0.0,-0.5333333333333332
+356,00:38:21.749000,00:38:24.377000,What kind of nonsense is this?,0.0,-0.5333333333333332
+357,00:38:24.485000,00:38:26.919000,"Put me on the council
+and not make me a master?",0.0,-0.5333333333333332
+358,00:38:27.021000,00:38:29.717000,"It's never been done in the history of the Jedi.
+It's insulting.",0.0,-0.5333333333333332
+359,00:38:29.824000,00:38:32.725000,"Oh, calm down, Anakin.
+You have been given a great honor.",0.0,-0.5333333333333332
+360,00:38:32.827000,00:38:36.854000,"To be on the council atyour age...
+it's never happened before.",0.0,-0.5333333333333332
+361,00:38:36.964000,00:38:40.365000,"The fact of the matter is
+you are too close to the chancellor.",0.0,-0.5333333333333332
+362,00:38:40.468000,00:38:44.268000,"The council doesn't like it
+when he interferes in Jedi affairs.",0.0,-0.5333333333333332
+363,00:38:44.371000,00:38:50.071000,"- I swear to you, I didn't ask
+to be put on the council.
+- But it's what you wanted.",0.0,-0.5333333333333332
+364,00:38:50.177000,00:38:53.510000,"Your friendship with Chancellor Palpatine
+seems to have paid off.",0.0,-0.5333333333333332
+365,00:38:53.614000,00:38:55.514000,"That has nothing
+to do with this.",0.0,-0.5333333333333332
+366,00:38:55.616000,00:38:58.551000,"The only reason the council
+has approved your appointment...",0.0,-0.5333333333333332
+367,00:38:58.652000,00:39:01.644000,"is because
+the chancellor trusts you.",0.0,-0.5333333333333332
+368,00:39:01.755000,00:39:04.781000,"- And?
+- Anakin, I am on your side.",0.0,-0.5333333333333332
+369,00:39:04.892000,00:39:08.157000,"- I didn't want to putyou in this situation.
+- What situation?",0.0,-0.5333333333333332
+370,00:39:12.266000,00:39:16.600000,"The council wants you to report on
+all the chancellor's dealings.",0.0,-0.5333333333333332
+371,00:39:16.704000,00:39:19.070000,"They want to know
+what he's up to.",0.0,-0.5333333333333332
+372,00:39:23.611000,00:39:26.478000,"They want me to spy
+on the chancellor?",0.0,-0.5333333333333332
+373,00:39:26.580000,00:39:29.208000,"- But that's treason.
+- We are at war, Anakin.",0.0,-0.5333333333333332
+374,00:39:31.218000,00:39:34.187000,"Why didn't the council give me
+this assignment when we were in session?",0.0,-0.5333333333333332
+375,00:39:34.288000,00:39:36.722000,"This assignment
+is not to be on record.",0.0,-0.5333333333333332
+376,00:39:36.824000,00:39:40.760000,"The chancellor
+is not a bad man, Obi-Wan.",0.0,-0.5333333333333332
+377,00:39:40.861000,00:39:43.887000,"He befriended me.
+He's watched out for me ever since I arrived here.",0.0,-0.5333333333333332
+378,00:39:43.998000,00:39:46.091000,"That is why
+you must help us.",0.0,-0.5333333333333332
+379,00:39:46.200000,00:39:49.692000,"Anakin, our allegiance is to the senate,
+not to its leader...",0.0,-0.5333333333333332
+380,00:39:49.803000,00:39:53.500000,"who has managed to stay in office
+long after his term has expired.",0.0,-0.5333333333333332
+381,00:39:53.607000,00:39:55.575000,"The senate demanded
+that he stay longer.",0.0,-0.5333333333333332
+382,00:39:55.676000,00:39:58.839000,"Yes, but use your feelings, Anakin.
+Something is out of place.",0.0,-0.5333333333333332
+383,00:39:58.946000,00:40:03.508000,"You're asking me to do something
+against the Jedi code...",0.0,-0.5333333333333332
+384,00:40:03.617000,00:40:07.348000,"against the Republic,
+against a mentor and a friend.",0.0,-0.5333333333333332
+385,00:40:07.454000,00:40:11.254000,"That's what's out of place here.
+Why are you asking this ofme?",0.0,-0.5333333333333332
+386,00:40:13.561000,00:40:15.461000,"The council
+is asking you.",0.0,-0.5333333333333332
+387,00:40:22.403000,00:40:27.204000,"Anakin did not take to his new assignment
+with much enthusiasm.",0.0,-0.5333333333333332
+388,00:40:27.308000,00:40:30.471000,"It's very dangerous, putting them together.",0.0,-0.5333333333333332
+389,00:40:30.578000,00:40:32.910000,"I don't think
+the boy can handle it.",0.0,-0.5333333333333332
+390,00:40:33.013000,00:40:35.504000,I don't trust him.,0.0,-0.5333333333333332
+391,00:40:35.616000,00:40:39.484000,"With all due respect, Master,
+is he not the chosen one?",0.0,-0.5333333333333332
+392,00:40:39.587000,00:40:43.284000,"Is he not to destroy the Sith
+and bring balance to the Force?",0.0,-0.5333333333333332
+393,00:40:43.390000,00:40:46.257000,So the prophecy says.,0.0,-0.5333333333333332
+394,00:40:46.360000,00:40:51.229000,"A prophecy
+that misread could have been.",0.0,-0.5333333333333332
+395,00:40:53.067000,00:40:54.967000,He will not let me down.,0.0,-0.5333333333333332
+396,00:40:55.069000,00:40:57.003000,He never has.,0.0,-0.5333333333333332
+397,00:40:57.104000,00:41:00.130000,I hope right you are.,0.0,-0.5333333333333332
+398,00:41:23.464000,00:41:28.834000,"Sometimes I wonder
+what's happening to the Jedi order.",0.0,-0.5333333333333332
+399,00:41:28.936000,00:41:31.962000,"I think this war is destroying
+the principles of the Republic.",0.0,-0.5333333333333332
+400,00:41:33.841000,00:41:37.038000,"Have you ever considered
+that we may be on the wrong side?",0.0,-0.5333333333333332
+401,00:41:37.144000,00:41:39.635000,What do you mean?,0.0,-0.5333333333333332
+402,00:41:39.747000,00:41:44.343000,"What if the democracywe thought
+we were serving no longer exists...",0.0,-0.5333333333333332
+403,00:41:44.451000,00:41:48.046000,"and the Republic has become
+the very evil we've been fighting to destroy?",0.0,-0.5333333333333332
+404,00:41:48.155000,00:41:50.180000,I don't believe that.,0.0,-0.5333333333333332
+405,00:41:50.291000,00:41:52.384000,"And you're sounding
+like a separatist.",0.0,-0.5333333333333332
+406,00:41:54.395000,00:41:57.330000,"This war represents
+a failure to listen.",0.0,-0.5333333333333332
+407,00:41:57.431000,00:41:59.456000,"Nowyou're closer
+to the chancellor than anyone.",0.0,-0.5333333333333332
+408,00:41:59.566000,00:42:02.831000,"Please, ask him to stop the fighting
+and let diplomacy resume.",0.0,-0.5333333333333332
+409,00:42:02.936000,00:42:05.461000,Don't ask me to do that.,0.0,-0.5333333333333332
+410,00:42:07.074000,00:42:10.703000,"Make a motion in the senate,
+where that kind ofa request belongs.",0.0,-0.5333333333333332
+411,00:42:10.811000,00:42:13.609000,"- What is it?
+- Nothing.",0.0,-0.5333333333333332
+412,00:42:14.948000,00:42:18.782000,"Don't do this. Don't shut me out.
+Let me help you.",0.0,-0.5333333333333332
+413,00:42:20.854000,00:42:23.220000,Hold me.,0.0,-0.5333333333333332
+414,00:42:23.324000,00:42:26.452000,"Like you did
+by the lake on Naboo.",0.0,-0.5333333333333332
+415,00:42:26.560000,00:42:30.360000,"So long ago, when there was
+nothing but our love.",0.0,-0.5333333333333332
+416,00:42:30.464000,00:42:33.900000,"No politics,
+no plotting, nowar.",0.0,-0.5333333333333332
+417,00:43:13.140000,00:43:16.473000,"- You wanted to see me, Chancellor.
+- Yes, Anakin. Come closer.",0.0,-0.5333333333333332
+418,00:43:16.577000,00:43:19.205000,I have good news.,0.0,-0.5333333333333332
+419,00:43:19.313000,00:43:24.649000,"Our clone intelligence units have discovered
+the location of General Grievous.",0.0,-0.5333333333333332
+420,00:43:24.752000,00:43:26.652000,"He's hiding
+in the Utapau system.",0.0,-0.5333333333333332
+421,00:43:26.754000,00:43:28.654000,At last.,0.0,-0.5333333333333332
+422,00:43:30.057000,00:43:33.254000,"We'll be able to capture
+that monster and end this war.",0.0,-0.5333333333333332
+423,00:43:33.360000,00:43:36.727000,"I would worry about
+the collective wisdom of the council...",0.0,-0.5333333333333332
+424,00:43:36.830000,00:43:39.230000,"if it didn't select you
+for this assignment.",0.0,-0.5333333333333332
+425,00:43:39.333000,00:43:42.666000,"You're the best
+choice, by far.",0.0,-0.5333333333333332
+426,00:43:44.104000,00:43:47.096000,Hmm. Sit down.,0.0,-0.5333333333333332
+427,00:43:47.207000,00:43:49.107000,Leave us.,0.0,-0.5333333333333332
+428,00:44:01.088000,00:44:02.988000,Anakin...,0.0,-0.5333333333333332
+429,00:44:03.090000,00:44:07.527000,"you know I'm not able
+to rely on the Jedi Council.",0.0,-0.5333333333333332
+430,00:44:09.296000,00:44:13.494000,"If they haven't included you
+in their plot, they soon will.",0.0,-0.5333333333333332
+431,00:44:13.600000,00:44:15.693000,"I'm not sure
+I understand.",0.0,-0.5333333333333332
+432,00:44:15.803000,00:44:19.500000,"You must sense
+what I have come to suspect.",0.0,-0.5333333333333332
+433,00:44:19.606000,00:44:22.973000,"The Jedi Council want
+control ofthe Republic.",0.0,-0.5333333333333332
+434,00:44:24.378000,00:44:26.869000,"They're planning
+to betray me.",0.0,-0.5333333333333332
+435,00:44:26.980000,00:44:29.380000,"- I don't think that...
+- Anakin.",0.0,-0.5333333333333332
+436,00:44:30.584000,00:44:32.484000,Search your feelings.,0.0,-0.5333333333333332
+437,00:44:34.688000,00:44:37.248000,"You know, don't you?",0.0,-0.5333333333333332
+438,00:44:41.662000,00:44:44.756000,"- I know they don't trust you.
+- Hmm. Or the senate.",0.0,-0.5333333333333332
+439,00:44:44.865000,00:44:49.700000,"Or the Republic, or democracy,
+for that matter.",0.0,-0.5333333333333332
+440,00:44:49.803000,00:44:54.831000,"I have to admit,
+my trust in them has been shaken.",0.0,-0.5333333333333332
+441,00:44:54.942000,00:44:56.910000,Why?,0.0,-0.5333333333333332
+442,00:44:58.479000,00:45:00.504000,"They asked you
+to do something...",0.0,-0.5333333333333332
+443,00:45:00.614000,00:45:02.878000,"that made you feel dishonest,
+didn't they?",0.0,-0.5333333333333332
+444,00:45:05.919000,00:45:08.752000,"They asked you to spy
+on me, didn't they?",0.0,-0.5333333333333332
+445,00:45:13.327000,00:45:15.795000,"I don't, uh...",0.0,-0.5333333333333332
+446,00:45:15.896000,00:45:17.830000,"I don't know
+what to say.",0.0,-0.5333333333333332
+447,00:45:17.931000,00:45:21.492000,"Remember back
+to your early teachings.",0.0,-0.5333333333333332
+448,00:45:21.602000,00:45:25.902000,"All who gain power
+are afraid to lose it.",0.0,-0.5333333333333332
+449,00:45:26.006000,00:45:30.670000,"- Even the Jedi.
+- The Jedi use their power for good.",0.0,-0.5333333333333332
+450,00:45:30.777000,00:45:32.904000,"Good is a point of view,
+Anakin.",0.0,-0.5333333333333332
+451,00:45:33.013000,00:45:38.178000,"The Sith and the Jedi
+are similar in almost everyway...",0.0,-0.5333333333333332
+452,00:45:40.220000,00:45:42.984000,"including their quest
+for greater power.",0.0,-0.5333333333333332
+453,00:45:44.525000,00:45:47.551000,"The Sith rely on their passion
+for their strength.",0.0,-0.5333333333333332
+454,00:45:47.661000,00:45:50.425000,"They think inwards...
+only about themselves.",0.0,-0.5333333333333332
+455,00:45:51.632000,00:45:53.862000,And the Jedi don't?,0.0,-0.5333333333333332
+456,00:45:53.967000,00:45:58.529000,"The Jedi are selfless.
+They only care about others.",0.0,-0.5333333333333332
+457,00:46:01.122000,00:46:06.122000,"-=The Last Fantasy=-
+Proudly Presents",0.0,-0.5333333333333332
+458,00:46:08.715000,00:46:13.675000,"Did you ever hear the tragedy
+of Darth Plagueis the Wise?",0.0,-0.5333333333333332
+459,00:46:17.925000,00:46:20.359000,"- No.
+- I thought not.",0.0,-0.5333333333333332
+460,00:46:20.460000,00:46:22.860000,"It's not a story
+the Jedi would tell you.",0.0,-0.5333333333333332
+461,00:46:24.331000,00:46:26.663000,It's a Sith legend.,0.0,-0.5333333333333332
+462,00:46:26.767000,00:46:28.667000,Darth Plagueis...,0.0,-0.5333333333333332
+463,00:46:28.769000,00:46:34.435000,"was a dark lord of the Sith
+so powerful and so wise...",0.0,-0.5333333333333332
+464,00:46:34.541000,00:46:39.376000,"he could use the Force to
+influence the midi-chlorians...",0.0,-0.5333333333333332
+465,00:46:39.479000,00:46:42.676000,to create... Iife.,0.0,-0.5333333333333332
+466,00:46:44.351000,00:46:47.377000,"He had such a knowledge
+ofthe dark side...",0.0,-0.5333333333333332
+467,00:46:47.487000,00:46:52.515000,"he could even keep
+the ones he cared about...",0.0,-0.5333333333333332
+468,00:46:52.626000,00:46:54.526000,from dying.,0.0,-0.5333333333333332
+469,00:46:58.865000,00:47:02.665000,"He could actually...
+save people from death?",0.0,-0.5333333333333332
+470,00:47:02.769000,00:47:08.036000,"The dark side of the Force is
+a pathway to many abilities...",0.0,-0.5333333333333332
+471,00:47:08.141000,00:47:12.373000,some consider to be unnatural.,0.0,-0.5333333333333332
+472,00:47:13.480000,00:47:15.345000,Wh...What happened to him?,0.0,-0.5333333333333332
+473,00:47:15.449000,00:47:18.509000,He became so powerful...,0.0,-0.5333333333333332
+474,00:47:19.786000,00:47:22.755000,"the only thing
+he was afraid of was...",0.0,-0.5333333333333332
+475,00:47:22.856000,00:47:24.756000,Iosing his power.,0.0,-0.5333333333333332
+476,00:47:24.858000,00:47:28.316000,"Which eventually,
+of course, he did.",0.0,-0.5333333333333332
+477,00:47:28.428000,00:47:34.298000,"Unfortunately, he taught his apprentice
+everything he knew.",0.0,-0.5333333333333332
+478,00:47:34.401000,00:47:38.064000,"Then his apprentice
+killed him in his sleep.",0.0,-0.5333333333333332
+479,00:47:40.207000,00:47:42.107000,It's ironic.,0.0,-0.5333333333333332
+480,00:47:42.209000,00:47:44.234000,"He could save
+others from death...",0.0,-0.5333333333333332
+481,00:47:45.345000,00:47:47.438000,but not himself.,0.0,-0.5333333333333332
+482,00:47:51.618000,00:47:54.143000,"Is it possible
+to learn this power?",0.0,-0.5333333333333332
+483,00:47:57.991000,00:48:00.118000,Not from a Jedi.,0.0,-0.5333333333333332
+484,00:48:17.010000,00:48:18.910000,"All Redunits, overhere!",0.0,-0.5333333333333332
+485,00:48:30.023000,00:48:33.789000,Palpatine thinks General Grievous is on Utapau?,0.0,-0.5333333333333332
+486,00:48:33.894000,00:48:36.954000,"A partial message was intercepted
+in a diplomatic packet...",0.0,-0.5333333333333332
+487,00:48:37.064000,00:48:40.192000,"- from the chairman of Utapau.
+- Hmm.",0.0,-0.5333333333333332
+488,00:48:40.300000,00:48:43.030000,Act on this we must.,0.0,-0.5333333333333332
+489,00:48:43.136000,00:48:47.869000,"The capture of General Grievous
+will end this war.",0.0,-0.5333333333333332
+490,00:48:47.974000,00:48:51.808000,"Quickly and decisively
+we should proceed.",0.0,-0.5333333333333332
+491,00:48:51.912000,00:48:56.940000,"The chancellor has requested...
+that I lead the campaign.",0.0,-0.5333333333333332
+492,00:48:57.050000,00:49:00.383000,"The council will make up
+its own mind who is to go...",0.0,-0.5333333333333332
+493,00:49:00.487000,00:49:02.455000,not the chancellor.,0.0,-0.5333333333333332
+494,00:49:02.556000,00:49:07.493000,"A master is needed,
+with more experience.",0.0,-0.5333333333333332
+495,00:49:07.594000,00:49:12.088000,"I concur.
+Master Kenobi should go.",0.0,-0.5333333333333332
+496,00:49:12.199000,00:49:14.565000,"- I agree.
+- Aye.",0.0,-0.5333333333333332
+497,00:49:14.668000,00:49:16.568000,Aye.,0.0,-0.5333333333333332
+498,00:49:16.670000,00:49:20.367000,Verywell. Council adjourned.,0.0,-0.5333333333333332
+499,00:49:26.079000,00:49:29.173000,"The droids have started up
+their main power generators.",0.0,-0.5333333333333332
+500,00:49:29.282000,00:49:34.743000,"- Then now the time is, Commander.
+- Yes, sir.",0.0,-0.5333333333333332
+501,00:49:46.967000,00:49:48.935000,Charge!,0.0,-0.5333333333333332
+502,00:50:03.884000,00:50:05.784000,Headfor cover!,0.0,-0.5333333333333332
+503,00:50:21.401000,00:50:24.268000,"- You're gonna need me on this one, Master.
+- Oh, I agree.",0.0,-0.5333333333333332
+504,00:50:24.371000,00:50:28.467000,"- However, it may turn out
+just to be a wild bantha chase.
+- Master.",0.0,-0.5333333333333332
+505,00:50:30.410000,00:50:35.746000,"I've disappointed you. Uh, I haven't been
+very appreciative ofyour training.",0.0,-0.5333333333333332
+506,00:50:35.849000,00:50:40.252000,"I've been arrogant,
+and I apologize.",0.0,-0.5333333333333332
+507,00:50:40.353000,00:50:42.719000,"I've just been so frustrated
+with the council.",0.0,-0.5333333333333332
+508,00:50:46.026000,00:50:49.757000,"You are strong and wise, Anakin,
+and I am very proud of you.",0.0,-0.5333333333333332
+509,00:50:49.863000,00:50:52.491000,"I have trained you since
+you were a small boy.",0.0,-0.5333333333333332
+510,00:50:52.599000,00:50:54.692000,"I have taught you
+everything I know.",0.0,-0.5333333333333332
+511,00:50:54.801000,00:50:58.532000,"And you have become a far greater Jedi
+than I could ever hope to be.",0.0,-0.5333333333333332
+512,00:50:58.638000,00:51:01.334000,"But be patient, Anakin.",0.0,-0.5333333333333332
+513,00:51:01.441000,00:51:05.377000,"It will not be long before the council
+makes you a Jedi master.",0.0,-0.5333333333333332
+514,00:51:12.786000,00:51:16.051000,"Obi-Wan.
+May the Force be with you.",0.0,-0.5333333333333332
+515,00:51:16.156000,00:51:19.023000,"Good-bye, old friend.
+May the Force be with you.",0.0,-0.5333333333333332
+516,00:51:41.648000,00:51:46.210000,"Fortunately, most of the cities are
+concentrated on this small continent here.",0.0,-0.5333333333333332
+517,00:51:46.319000,00:51:50.380000,"- On the far side.
+- I'll keep them distracted until you get there.",0.0,-0.5333333333333332
+518,00:51:50.490000,00:51:53.891000,"- Just don't take too long.
+- Come on. When have I ever let you down?",0.0,-0.5333333333333332
+519,00:51:53.994000,00:51:55.894000,Verywell.,0.0,-0.5333333333333332
+520,00:51:55.996000,00:52:00.433000,"The burden is on me not to destroy
+all the droids until you arrive.",0.0,-0.5333333333333332
+521,00:52:26.092000,00:52:27.992000,Save your energy.,0.0,-0.5333333333333332
+522,00:52:28.094000,00:52:30.119000,I can't.,0.0,-0.5333333333333332
+523,00:52:30.230000,00:52:31.993000,"Don't give up, PadmšŠ.",0.0,-0.5333333333333332
+524,00:52:45.478000,00:52:47.946000,"Obi-Wan's been here,
+hasn't he?",0.0,-0.5333333333333332
+525,00:52:48.048000,00:52:50.073000,He came by this morning.,0.0,-0.5333333333333332
+526,00:52:51.484000,00:52:53.384000,What did he want?,0.0,-0.5333333333333332
+527,00:52:53.486000,00:52:55.420000,He's worried about you.,0.0,-0.5333333333333332
+528,00:52:57.924000,00:53:01.860000,He says you've been under a lot of stress.,0.0,-0.5333333333333332
+529,00:53:01.962000,00:53:04.726000,I feel lost.,0.0,-0.5333333333333332
+530,00:53:05.865000,00:53:08.993000,Lost? What do you mean?,0.0,-0.5333333333333332
+531,00:53:10.937000,00:53:13.303000,"Obi-Wan and the council
+don't trust me.",0.0,-0.5333333333333332
+532,00:53:13.406000,00:53:16.807000,"They trustyou
+with their lives.",0.0,-0.5333333333333332
+533,00:53:18.578000,00:53:20.637000,Something's happening.,0.0,-0.5333333333333332
+534,00:53:20.747000,00:53:23.375000,"I'm not the Jedi
+I should be.",0.0,-0.5333333333333332
+535,00:53:25.752000,00:53:27.652000,I want more.,0.0,-0.5333333333333332
+536,00:53:28.888000,00:53:30.788000,And I know I shouldn't.,0.0,-0.5333333333333332
+537,00:53:32.926000,00:53:34.894000,"You expect too much
+of yourself.",0.0,-0.5333333333333332
+538,00:53:38.865000,00:53:42.062000,"- I found a way to save you.
+- Save me?",0.0,-0.5333333333333332
+539,00:53:42.168000,00:53:44.102000,From my nightmares.,0.0,-0.5333333333333332
+540,00:53:44.204000,00:53:46.138000,"Is that what's
+bothering you?",0.0,-0.5333333333333332
+541,00:53:47.173000,00:53:49.835000,"I won't lose you, PadmšŠ.",0.0,-0.5333333333333332
+542,00:53:49.943000,00:53:52.036000,"I'm not gonna die
+in childbirth, Ani.",0.0,-0.5333333333333332
+543,00:53:52.145000,00:53:54.545000,"- I promiseyou.
+- No, I promiseyou.",0.0,-0.5333333333333332
+544,00:54:38.525000,00:54:40.925000,"Greetings, young Jedi.",0.0,-0.5333333333333332
+545,00:54:41.027000,00:54:44.463000,"What brings you to
+our remote sanctuary?",0.0,-0.5333333333333332
+546,00:54:44.564000,00:54:46.498000,"Unfortunately, the war.",0.0,-0.5333333333333332
+547,00:54:46.599000,00:54:51.161000,"There's no war here...
+unless you brought it with you.",0.0,-0.5333333333333332
+548,00:54:51.271000,00:54:54.468000,"With your kind permission,
+I should like some fuel...",0.0,-0.5333333333333332
+549,00:54:54.574000,00:55:00.410000,"and to use your city as a base as I search
+nearby systems for General Grievous.",0.0,-0.5333333333333332
+550,00:55:08.521000,00:55:11.786000,"He is here.
+We are being held hostage.",0.0,-0.5333333333333332
+551,00:55:11.891000,00:55:14.792000,"- They are watching us.
+- I understand.",0.0,-0.5333333333333332
+552,00:55:14.894000,00:55:19.695000,"Tenth level,
+thousands of battle droids.",0.0,-0.5333333333333332
+553,00:55:19.799000,00:55:22.267000,"Tell your people
+to take shelter.",0.0,-0.5333333333333332
+554,00:55:22.368000,00:55:25.337000,"If you have warriors,
+now is the time.",0.0,-0.5333333333333332
+555,00:55:36.249000,00:55:40.447000,"Take the fighter back to the ship.
+Tell Cody I've made contact.",0.0,-0.5333333333333332
+556,00:55:42.422000,00:55:46.483000,"- Is he bringing additional warriors?
+- He didn't say.",0.0,-0.5333333333333332
+557,00:56:28.835000,00:56:34.068000,"It won't be long before the armies
+of the Republic track us here.",0.0,-0.5333333333333332
+558,00:56:36.676000,00:56:41.875000,"I am sending you to the Mustafar system
+in the outerrim.",0.0,-0.5333333333333332
+559,00:56:49.389000,00:56:51.721000,It is a volcanic planet.,0.0,-0.5333333333333332
+560,00:56:51.824000,00:56:55.123000,"- You will be safe there.
+- Safe?",0.0,-0.5333333333333332
+561,00:56:55.228000,00:56:59.221000,"Hmph! Chancellor Palpatine
+managed to escape your grip, General.",0.0,-0.5333333333333332
+562,00:56:59.332000,00:57:03.769000,"Without Count Dooku, I have doubts
+about your ability to keep us safe.",0.0,-0.5333333333333332
+563,00:57:03.870000,00:57:06.805000,"Be thankful, Viceroy...",0.0,-0.5333333333333332
+564,00:57:06.906000,00:57:09.807000,"you have not
+found yourself in my grip.",0.0,-0.5333333333333332
+565,00:57:13.313000,00:57:16.771000,Your ship is waiting.,0.0,-0.5333333333333332
+566,00:57:32.899000,00:57:35.060000,Hello there.,0.0,-0.5333333333333332
+567,00:57:37.036000,00:57:42.303000,General Kenobi.,0.0,-0.5333333333333332
+568,00:57:42.408000,00:57:44.933000,You are a bold one.,0.0,-0.5333333333333332
+569,00:57:45.044000,00:57:48.445000,Kill him.,0.0,-0.5333333333333332
+570,00:58:04.297000,00:58:06.424000,Back away.,0.0,-0.5333333333333332
+571,00:58:06.532000,00:58:10.468000,"I will deal with
+this Jedi slime myself.",0.0,-0.5333333333333332
+572,00:58:10.570000,00:58:12.765000,Your move.,0.0,-0.5333333333333332
+573,00:58:12.872000,00:58:14.772000,You fool.,0.0,-0.5333333333333332
+574,00:58:14.874000,00:58:20.471000,"I've been trained in your
+Jedi arts by Count Dooku.",0.0,-0.5333333333333332
+575,00:58:27.053000,00:58:29.487000,"Attack, Kenobi.",0.0,-0.5333333333333332
+576,00:59:45.865000,00:59:48.197000,Army or not...,0.0,-0.5333333333333332
+577,00:59:48.301000,00:59:53.398000,"you must realize
+you are doomed.",0.0,-0.5333333333333332
+578,00:59:53.506000,00:59:55.474000,"Oh, I don't think so.",0.0,-0.5333333333333332
+579,01:00:24.504000,01:00:27.166000,Uh-oh.,0.0,-0.5333333333333332
+580,01:00:32.311000,01:00:34.279000,Hyah!,0.0,-0.5333333333333332
+581,01:00:53.032000,01:00:55.227000,Coverthat corner.,0.0,-0.5333333333333332
+582,01:01:01.707000,01:01:03.766000,"Master Windu, may I interrupt?",0.0,-0.5333333333333332
+583,01:01:03.876000,01:01:06.640000,"General Kenobi has made contact
+with General Grievous...",0.0,-0.5333333333333332
+584,01:01:06.746000,01:01:09.010000,and we have begun our attack.,0.0,-0.5333333333333332
+585,01:01:09.115000,01:01:11.515000,"Thank you, Commander.",0.0,-0.5333333333333332
+586,01:01:11.617000,01:01:14.780000,"Anakin, deliver this report
+to the chancellor.",0.0,-0.5333333333333332
+587,01:01:14.887000,01:01:17.447000,"His reaction will give us
+a clue to his intentions.",0.0,-0.5333333333333332
+588,01:01:17.557000,01:01:19.650000,"Yes, Master.",0.0,-0.5333333333333332
+589,01:01:26.466000,01:01:29.731000,"I sense a plot
+to destroy the Jedi.",0.0,-0.5333333333333332
+590,01:01:29.836000,01:01:32.464000,"The dark side of the Force
+surrounds the chancellor.",0.0,-0.5333333333333332
+591,01:01:32.572000,01:01:36.906000,"If he does not give up his emergency powers
+after the destruction of Grievous...",0.0,-0.5333333333333332
+592,01:01:37.009000,01:01:39.569000,"then he should be removed
+from office.",0.0,-0.5333333333333332
+593,01:01:39.679000,01:01:43.342000,"The Jedi Council would have to
+take control of the senate...",0.0,-0.5333333333333332
+594,01:01:43.449000,01:01:45.576000,"in order to secure
+a peaceful transition.",0.0,-0.5333333333333332
+595,01:01:45.685000,01:01:50.145000,"To a dark place this line
+of thought will carry us.",0.0,-0.5333333333333332
+596,01:01:50.256000,01:01:55.888000,"Hmm. Great care
+we must take.",0.0,-0.5333333333333332
+597,01:02:01.968000,01:02:04.095000,Chancellor.,0.0,-0.5333333333333332
+598,01:02:04.203000,01:02:06.728000,"We've just received a report
+from Master Kenobi.",0.0,-0.5333333333333332
+599,01:02:06.839000,01:02:09.501000,"He has engaged
+General Grievous.",0.0,-0.5333333333333332
+600,01:02:09.609000,01:02:12.942000,"We can only hope that Master Kenobi
+is up to the challenge.",0.0,-0.5333333333333332
+601,01:02:14.807000,01:02:16.775000,I should be there with him.,0.0,-0.5333333333333332
+602,01:02:16.876000,01:02:19.242000,"It's upsetting to me
+to see that the council...",0.0,-0.5333333333333332
+603,01:02:19.345000,01:02:22.610000,"doesn't seem to fully appreciate
+your talents.",0.0,-0.5333333333333332
+604,01:02:22.715000,01:02:26.811000,"Don't you wonder
+why they won't make you a Jedi master?",0.0,-0.5333333333333332
+605,01:02:28.521000,01:02:30.489000,I wish I knew.,0.0,-0.5333333333333332
+606,01:02:31.824000,01:02:34.315000,"More and more I get
+the feeling that...",0.0,-0.5333333333333332
+607,01:02:34.427000,01:02:36.657000,"I'm being excluded
+from the council.",0.0,-0.5333333333333332
+608,01:02:43.669000,01:02:47.571000,"I know there are things about the Force
+that they're not telling me.",0.0,-0.5333333333333332
+609,01:02:49.842000,01:02:52.242000,"They don't trust you, Anakin.",0.0,-0.5333333333333332
+610,01:02:52.344000,01:02:55.006000,They see your future.,0.0,-0.5333333333333332
+611,01:02:55.114000,01:03:00.074000,"They know your power
+will be too strong to control.",0.0,-0.5333333333333332
+612,01:03:00.186000,01:03:05.920000,"You must break through the fog of lies
+the Jedi have created around you.",0.0,-0.5333333333333332
+613,01:03:07.259000,01:03:11.389000,"Let me help you to know
+the subtleties of the Force.",0.0,-0.5333333333333332
+614,01:03:11.497000,01:03:14.261000,How do you know the ways ofthe Force?,0.0,-0.5333333333333332
+615,01:03:14.366000,01:03:19.030000,"My mentor taught me
+everything about the Force.",0.0,-0.5333333333333332
+616,01:03:19.138000,01:03:22.107000,"Even the nature of
+the dark side.",0.0,-0.5333333333333332
+617,01:03:24.110000,01:03:26.442000,You know the dark side?,0.0,-0.5333333333333332
+618,01:03:26.545000,01:03:28.979000,Anakin...,0.0,-0.5333333333333332
+619,01:03:29.081000,01:03:32.380000,"if one is to understand
+the great mystery...",0.0,-0.5333333333333332
+620,01:03:32.485000,01:03:35.045000,"one must study
+all its aspects...",0.0,-0.5333333333333332
+621,01:03:35.154000,01:03:38.123000,"not just the dogmatic
+narrow view oftheJedi.",0.0,-0.5333333333333332
+622,01:03:38.224000,01:03:42.024000,"If you wish to become
+a complete and wise leader...",0.0,-0.5333333333333332
+623,01:03:42.128000,01:03:45.791000,"you must embrace a larger view
+of the Force.",0.0,-0.5333333333333332
+624,01:03:45.898000,01:03:48.492000,"Be careful of the Jedi,
+Anakin.",0.0,-0.5333333333333332
+625,01:03:48.601000,01:03:50.796000,Only through me...,0.0,-0.5333333333333332
+626,01:03:50.903000,01:03:54.771000,"can you achieve a power
+greater than any Jedi.",0.0,-0.5333333333333332
+627,01:03:54.874000,01:03:58.173000,"Learn to know
+the dark side of the Force...",0.0,-0.5333333333333332
+628,01:03:58.277000,01:04:01.940000,"and you will be able to
+save yourwife...",0.0,-0.5333333333333332
+629,01:04:02.047000,01:04:04.072000,from certain death.,0.0,-0.5333333333333332
+630,01:04:05.217000,01:04:07.117000,What did you say?,0.0,-0.5333333333333332
+631,01:04:07.219000,01:04:10.848000,"Use my knowledge.
+I beg you.",0.0,-0.5333333333333332
+632,01:04:12.558000,01:04:14.719000,You're the Sith lord.,0.0,-0.5333333333333332
+633,01:04:14.827000,01:04:18.695000,"I know what's been troubling you.
+Listen to me.",0.0,-0.5333333333333332
+634,01:04:18.797000,01:04:23.359000,"Don't continue to be a pawn
+of the Jedi Council.",0.0,-0.5333333333333332
+635,01:04:25.504000,01:04:28.962000,"Ever since I've known you,
+you've been searching for a life...",0.0,-0.5333333333333332
+636,01:04:29.074000,01:04:31.634000,"greater than that
+ofan ordinary Jedi.",0.0,-0.5333333333333332
+637,01:04:31.744000,01:04:34.110000,A life of significance...,0.0,-0.5333333333333332
+638,01:04:34.213000,01:04:36.579000,of conscience.,0.0,-0.5333333333333332
+639,01:04:40.753000,01:04:44.985000,"- Areyou going to kill me?
+- I would certainly like to.",0.0,-0.5333333333333332
+640,01:04:46.091000,01:04:48.491000,I know you would.,0.0,-0.5333333333333332
+641,01:04:48.594000,01:04:52.394000,I can feel your anger.,0.0,-0.5333333333333332
+642,01:04:52.498000,01:04:55.194000,It gives you focus...,0.0,-0.5333333333333332
+643,01:04:55.301000,01:04:57.633000,makes you stronger.,0.0,-0.5333333333333332
+644,01:05:03.909000,01:05:08.039000,"- I'm going to turn you over to the Jedi Council.
+- Of course. You should.",0.0,-0.5333333333333332
+645,01:05:08.147000,01:05:11.173000,"But you're not sure
+of their intentions, areyou?",0.0,-0.5333333333333332
+646,01:05:11.283000,01:05:14.810000,"I will quickly discover
+the truth of all this.",0.0,-0.5333333333333332
+647,01:05:14.920000,01:05:17.354000,"You have great wisdom,
+Anakin.",0.0,-0.5333333333333332
+648,01:05:17.456000,01:05:21.085000,"Know the power
+of the dark side.",0.0,-0.5333333333333332
+649,01:05:21.193000,01:05:23.957000,Power to save PadmšŠ.,0.0,-0.5333333333333332
+650,01:06:53.152000,01:06:56.212000,Aaah!,0.0,-0.5333333333333332
+651,01:07:31.757000,01:07:33.657000,So uncivilized.,0.0,-0.5333333333333332
+652,01:07:41.166000,01:07:43.191000,"Master Windu, I must talk to you.",0.0,-0.5333333333333332
+653,01:07:43.302000,01:07:47.363000,"Skywalker, we just received word
+that Obi-Wan has destroyed General Grievous.",0.0,-0.5333333333333332
+654,01:07:47.473000,01:07:51.409000,"We're on our way to make sure the chancellor
+returns emergency power back to the senate.",0.0,-0.5333333333333332
+655,01:07:51.510000,01:07:55.241000,"He won't give up his power.
+I've just learned a terrible truth.",0.0,-0.5333333333333332
+656,01:07:55.347000,01:07:58.441000,"I think Chancellor Palpatine
+is a Sith lord.",0.0,-0.5333333333333332
+657,01:07:58.550000,01:08:00.518000,A Sith lord?,0.0,-0.5333333333333332
+658,01:08:00.619000,01:08:03.452000,"Yes. The one we've been
+looking for.",0.0,-0.5333333333333332
+659,01:08:03.555000,01:08:07.514000,"- How do you know this?
+- He knows the ways of the Force.",0.0,-0.5333333333333332
+660,01:08:07.626000,01:08:09.753000,"He's been trained
+to use the dark side.",0.0,-0.5333333333333332
+661,01:08:09.862000,01:08:12.660000,"- Are you sure?
+- Absolutely.",0.0,-0.5333333333333332
+662,01:08:14.133000,01:08:16.363000,"Then our worst fears
+have been realized.",0.0,-0.5333333333333332
+663,01:08:16.468000,01:08:19.926000,"We must move quickly
+if the Jedi order is to survive.",0.0,-0.5333333333333332
+664,01:08:20.038000,01:08:22.472000,"Master, the chancellor
+is very powerful.",0.0,-0.5333333333333332
+665,01:08:22.574000,01:08:24.872000,"You'll need my help
+if you're going to arrest him.",0.0,-0.5333333333333332
+666,01:08:24.977000,01:08:27.912000,"For you own good,
+stay out ofthis affair.",0.0,-0.5333333333333332
+667,01:08:28.013000,01:08:30.777000,"I sense a great deal of confusion in you,
+young Skywalker.",0.0,-0.5333333333333332
+668,01:08:30.883000,01:08:33.044000,"There is much fear that
+clouds your judgment.",0.0,-0.5333333333333332
+669,01:08:33.152000,01:08:35.313000,"- I must go, Master.
+- No.",0.0,-0.5333333333333332
+670,01:08:37.322000,01:08:39.290000,"If what you've
+told me is true...",0.0,-0.5333333333333332
+671,01:08:39.391000,01:08:41.291000,"you will have
+gained my trust.",0.0,-0.5333333333333332
+672,01:08:41.393000,01:08:43.918000,"But for now, remain here.",0.0,-0.5333333333333332
+673,01:08:45.164000,01:08:47.962000,"Wait in the council chambers
+until we return.",0.0,-0.5333333333333332
+674,01:08:49.301000,01:08:51.496000,"Yes, Master.",0.0,-0.5333333333333332
+675,01:09:21.266000,01:09:23.860000,"You do know, don't you...",0.0,-0.5333333333333332
+676,01:09:23.969000,01:09:26.335000,if the Jedi destroy me...,0.0,-0.5333333333333332
+677,01:09:26.438000,01:09:30.397000,"any chance of saving her
+will be lost.",0.0,-0.5333333333333332
+678,01:10:59.331000,01:11:03.768000,"Master Windu. I take it General Grievous
+has been destroyed then.",0.0,-0.5333333333333332
+679,01:11:03.869000,01:11:07.134000,"I must say you're here
+sooner than expected.",0.0,-0.5333333333333332
+680,01:11:07.239000,01:11:10.868000,"In the name of
+the Galactic Senate of the Republic...",0.0,-0.5333333333333332
+681,01:11:10.976000,01:11:12.910000,"you're under arrest,
+Chancellor.",0.0,-0.5333333333333332
+682,01:11:13.011000,01:11:15.605000,"Are you threatening me,
+Master Jedi?",0.0,-0.5333333333333332
+683,01:11:15.714000,01:11:17.648000,"The senate will decide
+your fate.",0.0,-0.5333333333333332
+684,01:11:17.749000,01:11:21.583000,"- I am the senate.
+- Not yet.",0.0,-0.5333333333333332
+685,01:11:26.925000,01:11:29.257000,It's treason then.,0.0,-0.5333333333333332
+686,01:13:07.025000,01:13:11.792000,"You are under arrest,
+my lord.",0.0,-0.5333333333333332
+687,01:13:12.931000,01:13:15.491000,"Anakin, I told you
+it would come to this.",0.0,-0.5333333333333332
+688,01:13:15.600000,01:13:17.227000,I was right.,0.0,-0.5333333333333332
+689,01:13:17.335000,01:13:19.496000,The Jedi are taking over.,0.0,-0.5333333333333332
+690,01:13:19.604000,01:13:22.072000,"The oppression of the Sith
+will never return.",0.0,-0.5333333333333332
+691,01:13:22.174000,01:13:24.404000,You have lost.,0.0,-0.5333333333333332
+692,01:13:24.509000,01:13:26.477000,No.,0.0,-0.5333333333333332
+693,01:13:26.578000,01:13:30.173000,"No. No.
+You will die!",0.0,-0.5333333333333332
+694,01:13:32.284000,01:13:34.844000,He's a traitor!,0.0,-0.5333333333333332
+695,01:13:34.953000,01:13:38.218000,He is the traitor!,0.0,-0.5333333333333332
+696,01:13:39.958000,01:13:44.452000,"I have the power
+to save the one you love.",0.0,-0.5333333333333332
+697,01:13:44.563000,01:13:47.361000,You must choose.,0.0,-0.5333333333333332
+698,01:13:48.467000,01:13:51.027000,"Don't listen to him, Anakin!",0.0,-0.5333333333333332
+699,01:13:52.137000,01:13:54.731000,Don't let him kill me.,0.0,-0.5333333333333332
+700,01:13:57.876000,01:14:00.572000,I can't hold it any longer.,0.0,-0.5333333333333332
+701,01:14:00.679000,01:14:04.046000,"I...I...I...I can't.
+I...I...I'm weak.",0.0,-0.5333333333333332
+702,01:14:04.149000,01:14:06.117000,I'm...I'm too weak.,0.0,-0.5333333333333332
+703,01:14:06.218000,01:14:07.651000,Anakin.,0.0,-0.5333333333333332
+704,01:14:07.753000,01:14:10.221000,Help me. Help me!,0.0,-0.5333333333333332
+705,01:14:13.391000,01:14:16.918000,"I...I...I can't
+hold on any longer.",0.0,-0.5333333333333332
+706,01:14:17.028000,01:14:20.156000,"I am going to end this
+once and for all.",0.0,-0.5333333333333332
+707,01:14:20.265000,01:14:22.233000,You can't.,0.0,-0.5333333333333332
+708,01:14:22.334000,01:14:24.268000,He must stand trial.,0.0,-0.5333333333333332
+709,01:14:24.369000,01:14:27.770000,"He has control of
+the senate and the courts.",0.0,-0.5333333333333332
+710,01:14:27.873000,01:14:30.103000,"He's too dangerous
+to be left alive.",0.0,-0.5333333333333332
+711,01:14:30.208000,01:14:34.167000,"I'm too weak.
+Oh. Don't kill me. Please.",0.0,-0.5333333333333332
+712,01:14:34.279000,01:14:36.179000,It's not the Jedi way.,0.0,-0.5333333333333332
+713,01:14:36.281000,01:14:37.805000,He must live.,0.0,-0.5333333333333332
+714,01:14:40.085000,01:14:42.076000,Please don't.,0.0,-0.5333333333333332
+715,01:14:42.187000,01:14:44.417000,I need him.,0.0,-0.5333333333333332
+716,01:14:44.523000,01:14:46.753000,"- Please don't!
+- No!",0.0,-0.5333333333333332
+717,01:14:52.998000,01:14:55.523000,Power!,0.0,-0.5333333333333332
+718,01:15:00.438000,01:15:05.876000,Unlimited power!,0.0,-0.5333333333333332
+719,01:15:16.321000,01:15:19.051000,What have I done?,0.0,-0.5333333333333332
+720,01:15:27.332000,01:15:32.360000,"You're fulfilling
+your destiny, Anakin.",0.0,-0.5333333333333332
+721,01:15:32.470000,01:15:35.200000,Become my apprentice.,0.0,-0.5333333333333332
+722,01:15:35.307000,01:15:40.745000,"Learn to use
+the dark side of the Force.",0.0,-0.5333333333333332
+723,01:15:43.415000,01:15:46.384000,"I will do
+whatever you ask.",0.0,-0.5333333333333332
+724,01:15:47.819000,01:15:50.982000,Good.,0.7,0.16666666666666674
+725,01:15:52.691000,01:15:55.285000,"Just help me save
+PadmšŠ's life.",0.0,0.16666666666666674
+726,01:15:57.262000,01:15:59.628000,I can't live without her.,0.0,0.16666666666666674
+727,01:16:02.801000,01:16:07.204000,"To cheat death is a power
+only one has achieved...",0.0,0.16666666666666674
+728,01:16:07.305000,01:16:11.503000,but if we work together...,0.0,0.16666666666666674
+729,01:16:11.610000,01:16:15.410000,"I know we can discover
+the secret.",0.0,0.16666666666666674
+730,01:16:16.848000,01:16:19.146000,I pledge myself...,0.0,0.16666666666666674
+731,01:16:20.552000,01:16:23.578000,to your teachings.,0.0,0.16666666666666674
+732,01:16:23.688000,01:16:25.713000,Good.,0.7,0.8666666666666667
+733,01:16:25.824000,01:16:28.384000,Good.,0.7,1.5666666666666667
+734,01:16:36.668000,01:16:41.105000,"The Force is strong
+with you.",0.0,1.5666666666666667
+735,01:16:41.206000,01:16:46.769000,"A powerful Sith
+you will become.",0.0,1.5666666666666667
+736,01:16:46.878000,01:16:51.144000,"Henceforth
+you shall be known as...",0.0,1.5666666666666667
+737,01:16:51.249000,01:16:53.877000,Darth...,0.0,1.5666666666666667
+738,01:16:53.985000,01:16:55.953000,Vader.,0.0,1.5666666666666667
+739,01:17:00.091000,01:17:03.117000,"Thankyou, my master.",0.0,1.5666666666666667
+740,01:17:05.330000,01:17:07.298000,Rise.,0.0,1.5666666666666667
+741,01:17:20.445000,01:17:25.382000,"Because the council did not trust you,
+my young apprentice...",0.0,1.5666666666666667
+742,01:17:26.952000,01:17:31.719000,"I believe you are the only Jedi
+with no knowledge of this plot.",0.0,1.5666666666666667
+743,01:17:33.058000,01:17:35.788000,"When the Jedi learn
+what has transpired here...",0.0,1.5666666666666667
+744,01:17:35.894000,01:17:37.862000,they will kill us...,0.0,1.5666666666666667
+745,01:17:37.963000,01:17:40.591000,along with all the senators.,0.0,1.5666666666666667
+746,01:17:40.699000,01:17:42.667000,I agree.,0.0,1.5666666666666667
+747,01:17:42.767000,01:17:46.362000,"The council's next move
+willbe against the senate.",0.0,1.5666666666666667
+748,01:17:46.471000,01:17:49.463000,Every single Jedi...,0.0,1.5666666666666667
+749,01:17:49.574000,01:17:52.839000,"including your friend
+Obi-Wan Kenobi...",0.0,1.5666666666666667
+750,01:17:52.944000,01:17:56.505000,"is now an enemy
+of the Republic.",0.0,1.5666666666666667
+751,01:17:57.549000,01:17:59.517000,"I understand, Master.",0.0,1.5666666666666667
+752,01:17:59.617000,01:18:02.211000,We must move quickly.,0.0,1.5666666666666667
+753,01:18:02.320000,01:18:04.288000,The Jedi are relentless.,0.0,1.5666666666666667
+754,01:18:04.389000,01:18:10.191000,"If they are not all destroyed,
+it will be civil war without end.",0.0,1.5666666666666667
+755,01:18:11.896000,01:18:15.662000,"First I want you to
+go to the Jedi temple.",0.0,1.5666666666666667
+756,01:18:16.768000,01:18:19.871000,"We will catch them
+off-balance.",0.0,1.5666666666666667
+757,01:18:19.871000,01:18:23.830000,"Do what must be done,
+Lord Vader.",0.0,1.5666666666666667
+758,01:18:23.942000,01:18:27.935000,"Do not hesitate.
+Show no mercy.",0.0,1.5666666666666667
+759,01:18:28.046000,01:18:32.813000,"Only then will you be strong enough
+with the dark side...",0.0,1.5666666666666667
+760,01:18:32.917000,01:18:35.943000,to save PadmšŠ.,0.0,1.5666666666666667
+761,01:18:36.054000,01:18:39.922000,"What about the other Jedi
+spread across the galaxy?",0.0,1.5666666666666667
+762,01:18:40.025000,01:18:43.085000,"Their betrayal
+will be dealt with.",0.0,1.5666666666666667
+763,01:18:44.996000,01:18:48.295000,"Afteryou have killed all the Jedi
+in the temple...",0.0,1.5666666666666667
+764,01:18:48.400000,01:18:51.096000,go to the Mustafar system.,0.0,1.5666666666666667
+765,01:18:51.202000,01:18:54.467000,Wipe out Viceroy Gunray...,0.0,1.5666666666666667
+766,01:18:54.572000,01:18:58.008000,"and the other
+separatist leaders.",0.0,1.5666666666666667
+767,01:18:58.109000,01:19:04.014000,"Once more the Sith
+will rule the galaxy!",0.0,1.5666666666666667
+768,01:19:05.250000,01:19:07.150000,And...,0.0,1.5666666666666667
+769,01:19:07.252000,01:19:12.019000,we shall have... peace.,0.0,1.5666666666666667
+770,01:19:55.366000,01:19:58.199000,"Sergeant, over here!",0.0,1.5666666666666667
+771,01:19:58.303000,01:20:00.237000,Hurry! Follow them!,0.0,1.5666666666666667
+772,01:20:02.340000,01:20:04.900000,"All Red units,
+let's move it!",0.0,1.5666666666666667
+773,01:20:05.009000,01:20:06.909000,Come on. Let's go!,0.0,1.5666666666666667
+774,01:20:20.792000,01:20:22.783000,"Commander, contact
+your troops.",0.0,1.5666666666666667
+775,01:20:22.894000,01:20:24.862000,"Tell them to move to
+the higher levels.",0.0,1.5666666666666667
+776,01:20:24.963000,01:20:26.863000,"Very good, sir.",0.0,1.5666666666666667
+777,01:20:26.965000,01:20:29.092000,"Oh, by the way,
+I think you'll be needing this.",0.0,1.5666666666666667
+778,01:20:29.200000,01:20:32.761000,"Thank you, Cody. Now let's get a move on.
+We've got a battle to win here.",0.0,1.5666666666666667
+779,01:20:32.871000,01:20:34.771000,"- Hyah!
+- Yes, sir.",0.0,1.5666666666666667
+780,01:20:41.546000,01:20:43.605000,Commander Cody...,0.0,1.5666666666666667
+781,01:20:43.715000,01:20:47.048000,the time has come.,0.0,1.5666666666666667
+782,01:20:47.152000,01:20:51.384000,Execute order 66.,0.0,1.5666666666666667
+783,01:20:51.489000,01:20:53.457000,"Yes, my lord.",0.0,1.5666666666666667
+784,01:20:57.929000,01:21:00.454000,Blast him!,0.0,1.5666666666666667
+785,01:21:25.390000,01:21:27.654000,Come on!,0.0,1.5666666666666667
+786,01:22:17.742000,01:22:22.236000,Execute order 66.,0.0,1.5666666666666667
+787,01:22:22.347000,01:22:24.474000,"It will be done, my lord.",0.0,1.5666666666666667
+788,01:23:06.824000,01:23:09.088000,"It will be done, my lord.",0.0,1.5666666666666667
+789,01:23:45.630000,01:23:48.064000,"Master Skywalker,
+there are too many of them.",0.0,1.5666666666666667
+790,01:23:48.166000,01:23:50.134000,What are we going to do?,0.0,1.5666666666666667
+791,01:24:00.611000,01:24:04.775000,"The chancellor's office indicated
+Master Anakin returned to the Jedi temple.",0.0,1.5666666666666667
+792,01:24:04.882000,01:24:07.942000,"Don't worry. I...
+I'm sure he'll be all right.",0.0,1.5666666666666667
+793,01:24:37.215000,01:24:40.275000,"- What's going on here?
+- There's been a rebellion, sir.",0.0,1.5666666666666667
+794,01:24:40.385000,01:24:42.945000,"Don't worry.
+The situation is under control.",0.0,1.5666666666666667
+795,01:24:43.054000,01:24:46.285000,"I'm sorry, sir.
+It's time for you to leave.",0.0,1.5666666666666667
+796,01:24:48.025000,01:24:49.993000,And so it is.,0.0,1.5666666666666667
+797,01:24:53.631000,01:24:56.293000,Get him!,0.0,1.5666666666666667
+798,01:25:06.978000,01:25:08.843000,No!,0.0,1.5666666666666667
+799,01:25:12.483000,01:25:15.008000,"Don't worry about him.
+Let him go.",0.0,1.5666666666666667
+800,01:25:41.946000,01:25:44.881000,"All these Wookiees are dead.
+Move to the east.",0.0,1.5666666666666667
+801,01:25:44.982000,01:25:46.950000,"Yes, sir.",0.0,1.5666666666666667
+802,01:25:54.559000,01:25:56.459000,"Good-bye, Tarfful.",0.0,1.5666666666666667
+803,01:25:56.561000,01:25:58.529000,"Good-bye, Chewbacca.",0.0,1.5666666666666667
+804,01:26:00.364000,01:26:03.265000,Miss you I will.,0.0,1.5666666666666667
+805,01:26:40.271000,01:26:42.569000,"Hopefully we'll be able to
+intercept a fewJedi...",0.0,1.5666666666666667
+806,01:26:42.673000,01:26:45.039000,"before they walk into
+this catastrophe.",0.0,1.5666666666666667
+807,01:26:50.715000,01:26:52.649000,Didyou find Kenobi?,0.0,1.5666666666666667
+808,01:26:52.750000,01:26:54.741000,"Sir, no one could have
+survived that fall.",0.0,1.5666666666666667
+809,01:26:54.852000,01:26:58.151000,Start loading your men on the ships.,0.0,1.5666666666666667
+810,01:26:58.256000,01:27:01.020000,Move it.,0.0,1.5666666666666667
+811,01:27:33.057000,01:27:35.048000,Emergency code 91 3.,0.0,1.5666666666666667
+812,01:27:35.159000,01:27:37.059000,"I have no contact
+on any frequency.",0.0,1.5666666666666667
+813,01:27:39.130000,01:27:41.223000,Master Kenobi.,0.0,1.5666666666666667
+814,01:27:41.332000,01:27:43.323000,"- Repeat.
+- Master Kenobi.",0.0,1.5666666666666667
+815,01:27:43.434000,01:27:47.336000,"Senator Organa.
+My clone troops turned on me. I need help.",0.0,1.5666666666666667
+816,01:27:47.438000,01:27:50.032000,"We have just rescued
+Master Yoda.",0.0,1.5666666666666667
+817,01:27:50.141000,01:27:52.473000,"It appears this ambush
+has happened everywhere.",0.0,1.5666666666666667
+818,01:27:52.577000,01:27:54.704000,"We're sending you
+our coordinates.",0.0,1.5666666666666667
+819,01:28:01.419000,01:28:04.354000,Hush! Not so loud.,0.0,1.5666666666666667
+820,01:28:04.455000,01:28:07.481000,"Are you all right? I heard there was
+an attack on the Jedi temple.",0.0,1.5666666666666667
+821,01:28:07.592000,01:28:10.060000,"- You could see the smoke from here.
+- I'm fine. I'm fine.",0.0,1.5666666666666667
+822,01:28:10.161000,01:28:13.688000,"- I came to see if you and the baby are safe.
+- What's happening?",0.0,1.5666666666666667
+823,01:28:13.798000,01:28:16.665000,"The Jedi have tried to
+overthrow the Republic.",0.0,1.5666666666666667
+824,01:28:16.767000,01:28:19.327000,I can't believe that.,0.0,1.5666666666666667
+825,01:28:19.437000,01:28:23.999000,"I saw Master Windu attempt
+to assassinate the chancellor myself.",0.0,1.5666666666666667
+826,01:28:24.108000,01:28:27.566000,"Oh, Anakin.
+What are you gonna do?",0.0,1.5666666666666667
+827,01:28:36.253000,01:28:38.448000,"I will not betray
+the Republic.",0.0,1.5666666666666667
+828,01:28:40.458000,01:28:43.427000,"My loyalties lie
+with the chancellor...",0.0,1.5666666666666667
+829,01:28:43.527000,01:28:46.257000,"and with the senate
+and with you.",0.0,1.5666666666666667
+830,01:28:46.364000,01:28:48.559000,What about Obi-Wan?,0.0,1.5666666666666667
+831,01:28:48.666000,01:28:50.896000,I don't know.,0.0,1.5666666666666667
+832,01:28:51.002000,01:28:53.095000,"Many Jedi
+have been killed.",0.0,1.5666666666666667
+833,01:28:53.204000,01:28:57.004000,"We can only hope
+that he's remained loyal to the chancellor.",0.0,1.5666666666666667
+834,01:28:57.108000,01:28:59.474000,"Anakin, I'm afraid.",0.0,1.5666666666666667
+835,01:29:01.412000,01:29:04.540000,"Have faith, my love.",0.0,1.5666666666666667
+836,01:29:04.649000,01:29:06.947000,"Everything will soon
+be set right.",0.0,1.5666666666666667
+837,01:29:07.051000,01:29:10.452000,"The chancellor has given me
+a very important mission.",0.0,1.5666666666666667
+838,01:29:10.554000,01:29:13.751000,"The separatists have gathered
+on the Mustafar system.",0.0,1.5666666666666667
+839,01:29:13.858000,01:29:16.383000,"I'm going there
+to end this war.",0.0,1.5666666666666667
+840,01:29:16.494000,01:29:18.394000,Wait for me until I return.,0.0,1.5666666666666667
+841,01:29:18.496000,01:29:20.862000,"Things will be different.
+I promise.",0.0,1.5666666666666667
+842,01:29:21.283000,01:29:26.283000,"-=The Last Fantasy=-
+Proudly Presents",0.0,1.5666666666666667
+843,01:29:26.704000,01:29:28.672000,"Please, wait for me.",0.0,1.5666666666666667
+844,01:29:32.743000,01:29:35.473000,"Well, he is under
+a lot ofstress, R2.",0.0,1.5666666666666667
+845,01:29:37.715000,01:29:39.615000,"Take care,
+my little friend.",0.0,1.5666666666666667
+846,01:29:43.921000,01:29:47.618000,"Oh, my lady, is there
+anything I might do?",0.0,1.5666666666666667
+847,01:29:47.725000,01:29:50.250000,"No, thank you, 3PO.",0.0,1.5666666666666667
+848,01:29:50.361000,01:29:55.060000,"Oh. I...
+I feel so helpless.",0.0,1.5666666666666667
+849,01:30:17.922000,01:30:21.255000,"How many other Jedi
+have managed to survive?",0.0,1.5666666666666667
+850,01:30:21.358000,01:30:24.691000,"Heard from no one
+have we.",0.0,1.5666666666666667
+851,01:30:24.795000,01:30:27.889000,"I saw thousands of troops
+attack the Jedi temple.",0.0,1.5666666666666667
+852,01:30:27.998000,01:30:29.898000,"That's why I went
+looking for Yoda.",0.0,1.5666666666666667
+853,01:30:30,01:30:32.560000,"Have we had any contact
+from the temple?",0.0,1.5666666666666667
+854,01:30:32.670000,01:30:35.537000,"Received a coded
+retreat message we have.",0.0,1.5666666666666667
+855,01:30:35.639000,01:30:39.666000,"It requests all Jedi
+to return to the temple.",0.0,1.5666666666666667
+856,01:30:39.777000,01:30:43.213000,"- It says the war is over.
+- Well, then we must go back.",0.0,1.5666666666666667
+857,01:30:43.314000,01:30:46.806000,"If there are any stragglers,
+they will fall into the trap and be killed.",0.0,1.5666666666666667
+858,01:30:46.917000,01:30:51.752000,"Hmm. Suggest dismantling
+the coded signal, doyou?",0.0,1.5666666666666667
+859,01:30:51.856000,01:30:54.586000,"Yes, Master.
+There is too much at stake.",0.0,1.5666666666666667
+860,01:30:54.692000,01:30:57.252000,I agree.,0.0,1.5666666666666667
+861,01:30:57.361000,01:31:00.956000,"And a little more knowledge
+might light ourway.",0.0,1.5666666666666667
+862,01:31:21.952000,01:31:25.388000,"The plan has gone
+as you had promised, my lord.",0.0,1.5666666666666667
+863,01:31:25.489000,01:31:28.253000,"You have done well,
+Viceroy.",0.0,1.5666666666666667
+864,01:31:28.359000,01:31:34.195000,"When my new apprentice
+Darth Vader arrives...",0.0,1.5666666666666667
+865,01:31:34.298000,01:31:37.790000,he will take care of you.,0.0,1.5666666666666667
+866,01:31:49.413000,01:31:52.541000,"We're receiving a message from
+the chancellor's office, sir.",0.0,1.5666666666666667
+867,01:31:52.650000,01:31:54.618000,"- Send it through.
+- Yes, sir.",0.0,1.5666666666666667
+868,01:31:56.353000,01:32:01.052000,"Senator Organa, the supreme chancellor
+requests your presence...",0.0,1.5666666666666667
+869,01:32:01.158000,01:32:03.126000,"at a special session
+of Congress.",0.0,1.5666666666666667
+870,01:32:03.227000,01:32:06.754000,"- I will be there.
+- He'll be expecting you.",0.0,1.5666666666666667
+871,01:32:09.767000,01:32:13.066000,"- Could be a trap.
+- I don't think so.",0.0,1.5666666666666667
+872,01:32:13.170000,01:32:16.264000,"The chancellor will not be able
+to control the thousands of star systems...",0.0,1.5666666666666667
+873,01:32:16.373000,01:32:18.273000,"without keeping
+the senate intact.",0.0,1.5666666666666667
+874,01:32:18.375000,01:32:22.436000,"Ifa special session
+of Congress there is...",0.0,1.5666666666666667
+875,01:32:22.546000,01:32:25.845000,"easier for us to enter
+the Jedi temple it will be.",0.0,1.5666666666666667
+876,01:33:04.321000,01:33:06.289000,"R2, stay with the ship.",0.0,1.5666666666666667
+877,01:33:31.015000,01:33:34.746000,"Welcome, Lord Vader.
+We've been expecting you.",0.0,1.5666666666666667
+878,01:34:06.617000,01:34:11.111000,And the Jedi rebellion has been foiled.,0.0,1.5666666666666667
+879,01:34:11.221000,01:34:13.519000,"- What's happened?
+- The chancellor's been elaborating...",0.0,1.5666666666666667
+880,01:34:13.624000,01:34:16.923000,"on a plot by the Jedi
+to overthrow the senate.",0.0,1.5666666666666667
+881,01:34:17.027000,01:34:22.488000,"The remaining Jedi will be
+hunted down and defeated.",0.0,1.5666666666666667
+882,01:34:38.315000,01:34:40.749000,"Not even the younglings
+survived.",0.0,1.5666666666666667
+883,01:34:41.885000,01:34:43.819000,Killed not by clones...,0.0,1.5666666666666667
+884,01:34:43.921000,01:34:47.152000,this Padawan.,0.0,1.5666666666666667
+885,01:34:48.258000,01:34:50.886000,By a lightsaber he was.,0.0,1.5666666666666667
+886,01:34:57.768000,01:35:01.329000,"Who? Who could have
+done this?",0.0,1.5666666666666667
+887,01:35:12.049000,01:35:15.246000,The attempt on my life...,0.0,1.5666666666666667
+888,01:35:15.352000,01:35:17.980000,has left me scarred...,0.0,1.5666666666666667
+889,01:35:18.088000,01:35:21.080000,and deformed.,0.0,1.5666666666666667
+890,01:35:21.191000,01:35:24.092000,But I assure you.,0.0,1.5666666666666667
+891,01:35:24.194000,01:35:28.893000,"My resolve
+has never been stronger!",0.0,1.5666666666666667
+892,01:35:33.103000,01:35:36.971000,Stop! No!,0.0,1.5666666666666667
+893,01:35:46.617000,01:35:50.280000,"In order to ensure
+the security...",0.0,1.5666666666666667
+894,01:35:50.387000,01:35:52.947000,and continuing stability...,0.0,1.5666666666666667
+895,01:35:53.057000,01:35:56.959000,"the Republic
+will be reorganized...",0.0,1.5666666666666667
+896,01:35:57.061000,01:36:02.499000,"into the first
+Galactic Empire!",0.0,1.5666666666666667
+897,01:36:02.599000,01:36:04.624000,Fora safe...,0.0,1.5666666666666667
+898,01:36:04.735000,01:36:09.263000,and secure society.,0.0,1.5666666666666667
+899,01:36:18.682000,01:36:21.378000,So this is how liberty dies.,0.0,1.5666666666666667
+900,01:36:21.485000,01:36:24.181000,With thunderous applause.,0.0,1.5666666666666667
+901,01:36:26.623000,01:36:28.818000,The war is over.,0.0,1.5666666666666667
+902,01:36:28.926000,01:36:33.022000,"Lord Sidious promised us peace.
+We onlywant...",0.0,1.5666666666666667
+903,01:36:41.171000,01:36:45.870000,"I have recalibrated the code,
+warning all surviving Jedi to stay away.",0.0,1.5666666666666667
+904,01:36:45.976000,01:36:48.410000,For the clones...,0.0,1.5666666666666667
+905,01:36:48.512000,01:36:52.608000,"to discover the recalibration
+a long time it will take.",0.0,1.5666666666666667
+906,01:37:04.962000,01:37:07.021000,Wait. Master.,0.0,1.5666666666666667
+907,01:37:07.131000,01:37:10.294000,"There is something
+I must know.",0.0,1.5666666666666667
+908,01:37:16.406000,01:37:18.874000,"If into the security
+recordings you go...",0.0,1.5666666666666667
+909,01:37:18.976000,01:37:20.876000,only pain will you find.,0.0,1.5666666666666667
+910,01:37:20.978000,01:37:24.414000,"I must know
+the truth, Master.",0.0,1.5666666666666667
+911,01:37:31.321000,01:37:33.255000,It can't be.,0.0,1.5666666666666667
+912,01:37:33.357000,01:37:35.257000,It can't be.,0.0,1.5666666666666667
+913,01:37:35.359000,01:37:39.420000,"You have done well,
+my new apprentice.",0.0,1.5666666666666667
+914,01:37:39.530000,01:37:42.522000,"Now, Lord Vader...",0.0,1.5666666666666667
+915,01:37:42.633000,01:37:46.160000,"go and bring peace
+to the Empire.",0.0,1.5666666666666667
+916,01:37:46.270000,01:37:48.431000,I can't watch any more.,0.0,1.5666666666666667
+917,01:37:48.539000,01:37:53.101000,Destroy the Sith we must.,0.0,1.5666666666666667
+918,01:37:54.912000,01:37:57.005000,"Send me to kill
+the emperor.",0.0,1.5666666666666667
+919,01:37:57.114000,01:37:59.412000,I will not kill Anakin.,0.0,1.5666666666666667
+920,01:37:59.516000,01:38:04.249000,"To fight this Lord Sidious,
+strong enough you are not.",0.0,1.5666666666666667
+921,01:38:04.354000,01:38:07.585000,"He is like my brother.
+I cannot do it.",0.0,1.5666666666666667
+922,01:38:07.691000,01:38:13.425000,"Twisted by the dark side
+young Skywalker has become.",0.0,1.5666666666666667
+923,01:38:13.530000,01:38:16.931000,"The boy you trained,
+gone he is.",0.0,1.5666666666666667
+924,01:38:17.034000,01:38:19.935000,Consumed by Darth Vader.,0.0,1.5666666666666667
+925,01:38:20.037000,01:38:23.029000,"I do not know where
+the emperor has sent him.",0.0,1.5666666666666667
+926,01:38:23.140000,01:38:25.370000,I don't know where to look.,0.0,1.5666666666666667
+927,01:38:26.677000,01:38:30.374000,"Use your feelings, Obi-Wan,
+and find him you will.",0.0,1.5666666666666667
+928,01:38:40.924000,01:38:43.518000,"When was the last time
+you saw him?",0.0,1.5666666666666667
+929,01:38:43.627000,01:38:46.994000,"- Yesterday.
+- And do you know where he is now?",0.0,1.5666666666666667
+930,01:38:48.098000,01:38:50.066000,No.,0.0,1.5666666666666667
+931,01:38:50.167000,01:38:53.762000,"PadmšŠ, I need your help.",0.0,1.5666666666666667
+932,01:38:53.870000,01:38:56.862000,"- He is in grave danger.
+- From the Sith?",0.0,1.5666666666666667
+933,01:38:56.974000,01:38:58.942000,From himself.,0.0,1.5666666666666667
+934,01:39:01.378000,01:39:03.471000,PadmšŠ...,0.0,1.5666666666666667
+935,01:39:03.580000,01:39:05.980000,"Anakin has turned
+to the dark side.",0.0,1.5666666666666667
+936,01:39:06.083000,01:39:09.519000,"You're wrong.
+How could you even say that?",0.0,1.5666666666666667
+937,01:39:12.322000,01:39:16.156000,"I have seen a...
+a security hologram...",0.0,1.5666666666666667
+938,01:39:16.260000,01:39:18.694000,of him...,0.0,1.5666666666666667
+939,01:39:18.795000,01:39:20.695000,killing younglings.,0.0,1.5666666666666667
+940,01:39:20.797000,01:39:23.823000,"Not Anakin.
+He couldn't.",0.0,1.5666666666666667
+941,01:39:23.934000,01:39:26.903000,"He was deceived by a lie.
+We all were.",0.0,1.5666666666666667
+942,01:39:27.004000,01:39:31.498000,"It appears that the chancellor
+is behind everything, including the war.",0.0,1.5666666666666667
+943,01:39:33.343000,01:39:36.073000,"Palpatine is the Sith lord
+we've been looking for.",0.0,1.5666666666666667
+944,01:39:36.179000,01:39:40.275000,"After the death of Count Dooku,
+Anakin became his new apprentice.",0.0,1.5666666666666667
+945,01:39:46.490000,01:39:48.458000,I don't believe you.,0.0,1.5666666666666667
+946,01:39:49.860000,01:39:51.828000,I can't.,0.0,1.5666666666666667
+947,01:39:56.933000,01:39:59.424000,PadmšŠ...,0.0,1.5666666666666667
+948,01:39:59.536000,01:40:01.800000,I must find him.,0.0,1.5666666666666667
+949,01:40:03.907000,01:40:06.273000,"You're going to kill him,
+aren't you?",0.0,1.5666666666666667
+950,01:40:09.946000,01:40:12.437000,"He has become
+a very great threat.",0.0,1.5666666666666667
+951,01:40:15.052000,01:40:17.020000,I can't.,0.0,1.5666666666666667
+952,01:40:30.233000,01:40:32.167000,"Anakin is the father,
+isn't he?",0.0,1.5666666666666667
+953,01:40:35.972000,01:40:38.805000,I'm so sorry.,0.0,1.5666666666666667
+954,01:41:24.354000,01:41:26.015000,"Milady, let me come with you.",0.0,1.5666666666666667
+955,01:41:26.123000,01:41:28.887000,"There's no danger.
+The fighting's over. And this is personal.",0.0,1.5666666666666667
+956,01:41:28.992000,01:41:31.392000,"As you wish, milady,
+but I strongly disagree.",0.0,1.5666666666666667
+957,01:41:31.495000,01:41:35.158000,"I'll be all right, Captain.
+This is something I must do myself.",0.0,1.5666666666666667
+958,01:41:35.265000,01:41:37.631000,"Besides, 3PO will look after me.",0.0,1.5666666666666667
+959,01:41:39.503000,01:41:41.471000,"Oh, dear.",0.0,1.5666666666666667
+960,01:41:52.115000,01:41:54.208000,Do you know?,0.0,1.5666666666666667
+961,01:41:54.317000,01:41:57.912000,"I think I'm beginning to get
+the hang of this flying business. Hmm.",0.0,1.5666666666666667
+962,01:42:25.315000,01:42:28.751000,"The separatists have been
+taken care of, my master.",0.0,1.5666666666666667
+963,01:42:28.852000,01:42:31.753000,It is finished then.,0.0,1.5666666666666667
+964,01:42:33.156000,01:42:38.958000,"You have restored
+peace and justice to the galaxy.",0.0,1.5666666666666667
+965,01:42:39.062000,01:42:43.965000,"Send a message to the ships
+ofthe Trade Federation.",0.0,1.5666666666666667
+966,01:42:44.067000,01:42:49.232000,"All droid units
+must shut down immediately.",0.0,1.5666666666666667
+967,01:42:49.339000,01:42:51.398000,"Very good, my lord.",0.0,1.5666666666666667
+968,01:43:51.368000,01:43:53.427000,I saw your ship.,0.0,1.5666666666666667
+969,01:43:56.273000,01:43:59.265000,"- What are you doing out here?
+- I was so worried about you.",0.0,1.5666666666666667
+970,01:44:00.744000,01:44:03.611000,"Obi-Wan told me
+terrible things.",0.0,1.5666666666666667
+971,01:44:03.713000,01:44:05.840000,What things?,0.0,1.5666666666666667
+972,01:44:05.949000,01:44:08.884000,"He said you've turned
+to the dark side.",0.0,1.5666666666666667
+973,01:44:08.985000,01:44:11.385000,That you...,0.0,1.5666666666666667
+974,01:44:11.488000,01:44:13.615000,killed younglings.,0.0,1.5666666666666667
+975,01:44:15.158000,01:44:17.854000,"Obi-Wan is trying
+to turn you against me.",0.0,1.5666666666666667
+976,01:44:17.961000,01:44:21.727000,"- He cares about us.
+- Us?",0.0,1.5666666666666667
+977,01:44:21.831000,01:44:24.561000,He knows.,0.0,1.5666666666666667
+978,01:44:24.668000,01:44:26.568000,He wants to helpyou.,0.0,1.5666666666666667
+979,01:44:29.673000,01:44:33.666000,"Anakin, all I want
+is your love.",0.0,1.5666666666666667
+980,01:44:33.777000,01:44:36.109000,"Love won't saveyou, PadmšŠ.",0.0,1.5666666666666667
+981,01:44:36.212000,01:44:39.477000,"- Only my new powers can do that.
+- At what cost?",0.0,1.5666666666666667
+982,01:44:39.583000,01:44:41.983000,"You're a good person.
+Don't do this.",0.0,1.5666666666666667
+983,01:44:42.085000,01:44:44.815000,"I won't loseyou the way
+I lost my mother.",0.0,1.5666666666666667
+984,01:44:44.921000,01:44:49.153000,"I am becoming more powerful
+than any Jedi has ever dreamed of.",0.0,1.5666666666666667
+985,01:44:49.259000,01:44:52.057000,"And I'm doing it for you.
+To protect you.",0.0,1.5666666666666667
+986,01:44:53.363000,01:44:55.331000,Come away with me.,0.0,1.5666666666666667
+987,01:44:55.432000,01:44:58.094000,Help me raise our child.,0.0,1.5666666666666667
+988,01:44:58.201000,01:45:02.433000,"- Leave everything else behind while we still can.
+- Don't you see?",0.0,1.5666666666666667
+989,01:45:02.539000,01:45:05.770000,"We don't have to
+run away anymore.",0.0,1.5666666666666667
+990,01:45:05.875000,01:45:08.400000,"I have brought peace
+to the Republic.",0.0,1.5666666666666667
+991,01:45:08.511000,01:45:11.378000,"I am more powerful
+than the chancellor.",0.0,1.5666666666666667
+992,01:45:11.481000,01:45:13.574000,I...I can overthrow him.,0.0,1.5666666666666667
+993,01:45:15.652000,01:45:18.712000,"And together, you and I
+can rule the galaxy...",0.0,1.5666666666666667
+994,01:45:18.822000,01:45:21.222000,"make things the way
+we want them to be.",0.0,1.5666666666666667
+995,01:45:27.564000,01:45:29.555000,"I don't believe
+what I'm hearing.",0.0,1.5666666666666667
+996,01:45:31.067000,01:45:34.366000,"Obi-Wan was right.
+You've changed.",0.0,1.5666666666666667
+997,01:45:36.573000,01:45:39.440000,"I don't want to hear
+any more about Obi-Wan.",0.0,1.5666666666666667
+998,01:45:39.542000,01:45:43.706000,"The Jedi turned against me.
+Don't you turn against me.",0.0,1.5666666666666667
+999,01:45:45.415000,01:45:47.406000,I don't know you anymore.,0.0,1.5666666666666667
+1000,01:45:49.052000,01:45:51.020000,Anakin...,0.0,1.5666666666666667
+1001,01:45:51.121000,01:45:53.715000,you're breaking my heart.,0.0,1.5666666666666667
+1002,01:45:53.823000,01:45:56.792000,"You're going down a path
+I can't follow.",0.0,1.5666666666666667
+1003,01:45:56.893000,01:45:59.657000,Because of Obi-Wan?,0.0,1.5666666666666667
+1004,01:45:59.763000,01:46:02.561000,Because of what you've done.,0.0,1.5666666666666667
+1005,01:46:02.666000,01:46:04.566000,What you plan to do.,0.0,1.5666666666666667
+1006,01:46:05.802000,01:46:08.464000,"Stop. Stop now.
+Come back.",0.0,1.5666666666666667
+1007,01:46:08.571000,01:46:11.506000,"- I love you.
+- Liar!",0.0,1.5666666666666667
+1008,01:46:14.377000,01:46:16.242000,No.,0.0,1.5666666666666667
+1009,01:46:16.346000,01:46:20.077000,"You're with him!
+You brought him here to kill me.",0.0,1.5666666666666667
+1010,01:46:20.183000,01:46:23.118000,"- No.
+- Let her go, Anakin.",0.0,1.5666666666666667
+1011,01:46:24.688000,01:46:26.246000,Anakin.,0.0,1.5666666666666667
+1012,01:46:26.356000,01:46:28.517000,Let her go.,0.0,1.5666666666666667
+1013,01:46:38.501000,01:46:40.526000,You turned her against me!,0.0,1.5666666666666667
+1014,01:46:42.138000,01:46:44.333000,You have done that yourself.,0.0,1.5666666666666667
+1015,01:46:49.079000,01:46:51.274000,"You will not
+take her from me!",0.0,1.5666666666666667
+1016,01:46:51.381000,01:46:55.215000,"Your anger and your lust for power
+have already done that.",0.0,1.5666666666666667
+1017,01:46:58.388000,01:47:03.519000,"You have allowed this dark lord
+to twist your mind, until now-",0.0,1.5666666666666667
+1018,01:47:05.095000,01:47:08.258000,"until now you have become
+the very thing you swore to destroy.",0.0,1.5666666666666667
+1019,01:47:08.364000,01:47:10.298000,"Don't lecture me,
+Obi-Wan.",0.0,1.5666666666666667
+1020,01:47:10.400000,01:47:12.891000,"I see through
+the lies of the Jedi.",0.0,1.5666666666666667
+1021,01:47:14.003000,01:47:16.403000,"I do not fear the dark side
+as you do.",0.0,1.5666666666666667
+1022,01:47:18.241000,01:47:20.175000,I have brought peace...,0.0,1.5666666666666667
+1023,01:47:20.276000,01:47:21.971000,"freedom, justice...",0.0,1.5666666666666667
+1024,01:47:22.078000,01:47:25.912000,"and security
+to my new empire.",0.0,1.5666666666666667
+1025,01:47:26.015000,01:47:28.882000,Your new empire?,0.0,1.5666666666666667
+1026,01:47:28.985000,01:47:32.318000,Don't make me kill you.,0.0,1.5666666666666667
+1027,01:47:32.422000,01:47:36.916000,"Anakin, my allegiance
+is to the Republic, to democracy!",0.0,1.5666666666666667
+1028,01:47:37.026000,01:47:39.620000,If you're not with me...,0.0,1.5666666666666667
+1029,01:47:40.663000,01:47:42.563000,then you're my enemy.,0.0,1.5666666666666667
+1030,01:47:44.567000,01:47:47.058000,"Only a Sith
+deals in absolutes.",0.0,1.5666666666666667
+1031,01:47:49.672000,01:47:52.072000,I will do what I must.,0.0,1.5666666666666667
+1032,01:47:52.175000,01:47:54.575000,You will try.,0.0,1.5666666666666667
+1033,01:48:26.342000,01:48:30.369000,"I hear a new apprentice
+you have, Emperor.",0.0,1.5666666666666667
+1034,01:48:30.480000,01:48:34.940000,"Or should I call you
+Darth Sidious?",0.0,1.5666666666666667
+1035,01:48:35.051000,01:48:37.281000,MasterYoda.,0.0,1.5666666666666667
+1036,01:48:37.387000,01:48:39.446000,You survived.,0.0,1.5666666666666667
+1037,01:48:39.556000,01:48:42.286000,Surprised?,0.1,1.6666666666666667
+1038,01:48:42.392000,01:48:46.988000,"Your arrogance blinds you,
+MasterYoda.",0.0,1.6666666666666667
+1039,01:48:47.096000,01:48:49.155000,Nowyou will experience...,0.0,1.6666666666666667
+1040,01:48:49.265000,01:48:53.725000,"the full power
+of the dark side.",0.0,1.6666666666666667
+1041,01:49:35.678000,01:49:39.375000,I have waited a long time...,0.0,1.6666666666666667
+1042,01:49:39.482000,01:49:42.042000,for this moment...,0.0,1.6666666666666667
+1043,01:49:42.151000,01:49:46.679000,my little green friend.,0.0,1.6666666666666667
+1044,01:49:55.732000,01:50:00.362000,At last the Jedi are no more.,0.0,1.6666666666666667
+1045,01:50:00.470000,01:50:04.702000,Not if anything to say about it I have.,0.0,1.6666666666666667
+1046,01:50:04.807000,01:50:06.138000,Aaah!,0.0,1.6666666666666667
+1047,01:50:09.312000,01:50:12.372000,At an end your rule is.,0.0,1.6666666666666667
+1048,01:50:14.250000,01:50:16.684000,And not short enough it was.,0.0,1.6666666666666667
+1049,01:50:20.623000,01:50:23.649000,If so powerful you are...,0.0,1.6666666666666667
+1050,01:50:24.928000,01:50:27.226000,why leave?,0.0,1.6666666666666667
+1051,01:50:27.330000,01:50:29.890000,You will not stop me.,0.0,1.6666666666666667
+1052,01:50:29.999000,01:50:34.595000,"Darth Vaderwill become
+more powerful than either of us.",0.0,1.6666666666666667
+1053,01:50:34.704000,01:50:39.073000,"Faith in your new apprentice
+misplaced may be.",0.0,1.6666666666666667
+1054,01:50:40.376000,01:50:44.437000,"As is your faith
+in the dark side ofthe Force.",0.0,1.6666666666666667
+1055,01:55:12.081000,01:55:14.811000,"Hurry. Careful timing
+we will need.",0.0,1.6666666666666667
+1056,01:55:14.917000,01:55:17.715000,"Activate your homing beacon
+when you're ready.",0.0,1.6666666666666667
+1057,01:55:17.820000,01:55:20.186000,"There's no sign
+of his body, sir.",0.0,1.6666666666666667
+1058,01:55:20.289000,01:55:23.952000,"- Then he is not dead.
+- Double your search.",0.0,1.6666666666666667
+1059,01:55:24.060000,01:55:26.290000,"Yes, sir.
+Right away, sir.",0.0,1.6666666666666667
+1060,01:55:26.395000,01:55:31.492000,"Tell Captain Kagi to prepare my shuttle
+for immediate takeoff.",0.0,1.6666666666666667
+1061,01:55:31.601000,01:55:36.664000,"- Yes, Master.
+- I sense Lord Vader is in danger.",0.0,1.6666666666666667
+1062,01:56:45.508000,01:56:49.274000,Into exile I must go.,0.0,1.6666666666666667
+1063,01:56:49.378000,01:56:51.471000,Failed I have.,0.0,1.6666666666666667
+1064,01:58:30.880000,01:58:32.848000,"I have failed you, Anakin.",0.0,1.6666666666666667
+1065,01:58:32.948000,01:58:34.848000,I have failed you.,0.0,1.6666666666666667
+1066,01:58:34.950000,01:58:37.851000,"I should have known the Jedi
+were plotting to take over.",0.0,1.6666666666666667
+1067,01:58:37.953000,01:58:40.751000,"Anakin, Chancellor Palpatine is evil!",0.0,1.6666666666666667
+1068,01:58:40.856000,01:58:43.518000,"From my point of view,
+the Jedi are evil.",0.0,1.6666666666666667
+1069,01:58:43.626000,01:58:45.184000,"Well, then you are lost!",0.0,1.6666666666666667
+1070,01:58:57.072000,01:58:59.597000,"This is the end for you,
+my master.",0.0,1.6666666666666667
+1071,01:59:24.133000,01:59:28.229000,"It's over, Anakin.
+I have the high ground.",0.0,1.6666666666666667
+1072,01:59:29.905000,01:59:32.601000,You underestimate my power.,0.0,1.6666666666666667
+1073,01:59:32.708000,01:59:35.074000,Don't try it.,0.0,1.6666666666666667
+1074,01:59:57.166000,01:59:59.930000,You were the chosen one!,0.0,1.6666666666666667
+1075,02:00:01.437000,02:00:04.634000,"It was said that you would
+destroy the Sith, not join them!",0.0,1.6666666666666667
+1076,02:00:07.276000,02:00:09.335000,"Bring balance
+to the Force...",0.0,1.6666666666666667
+1077,02:00:09.445000,02:00:11.970000,not leave it in darkness!,0.0,1.6666666666666667
+1078,02:00:22.758000,02:00:25.090000,I hate you!,0.0,1.6666666666666667
+1079,02:00:32.535000,02:00:34.799000,"You were my brother, Anakin.",0.0,1.6666666666666667
+1080,02:00:36.872000,02:00:39.204000,I loved you.,0.0,1.6666666666666667
+1081,02:01:19.081000,02:01:21.049000,Oh. Master Kenobi.,0.0,1.6666666666666667
+1082,02:01:21.150000,02:01:23.414000,"Um, we have
+Miss PadmšŠ on board.",0.0,1.6666666666666667
+1083,02:01:23.519000,02:01:26.044000,"Yes. Please,
+please hurry.",0.0,1.6666666666666667
+1084,02:01:26.155000,02:01:28.316000,"We should leave
+this dreadful place.",0.0,1.6666666666666667
+1085,02:01:40.369000,02:01:42.337000,Obi-Wan.,0.0,1.6666666666666667
+1086,02:01:43.872000,02:01:46.067000,Is Anakin all right?,0.0,1.6666666666666667
+1087,02:02:54.677000,02:02:57.475000,"Your Majesty, this way.",0.0,1.6666666666666667
+1088,02:02:57.579000,02:02:59.479000,There he is.,0.0,1.6666666666666667
+1089,02:02:59.581000,02:03:01.742000,He's still alive.,0.0,1.6666666666666667
+1090,02:03:04.753000,02:03:06.983000,"Get a medical capsule
+immediately.",0.0,1.6666666666666667
+1091,02:03:07.089000,02:03:09.057000,"Yes, sir. Right away.",0.0,1.6666666666666667
+1092,02:03:44.259000,02:03:46.955000,"Excuse me,
+Master Yoda.",0.0,1.6666666666666667
+1093,02:03:52.901000,02:03:55.062000,"Obi-Wan Kenobi
+has made contact.",0.0,1.6666666666666667
+1094,02:04:11.920000,02:04:14.320000,"We'll take her to the medical center.
+Quickly.",0.0,1.6666666666666667
+1095,02:04:43.886000,02:04:46.878000,"Medically,
+she's completely healthy.",0.0,1.6666666666666667
+1096,02:04:46.989000,02:04:50.186000,"For reasons we can't explain,
+we are losing her.",0.0,1.6666666666666667
+1097,02:04:51.560000,02:04:54.290000,"- She's dying?
+- We don't know why.",0.0,1.6666666666666667
+1098,02:04:54.396000,02:04:56.455000,"She has lost
+the will to live.",0.0,1.6666666666666667
+1099,02:04:56.565000,02:04:59.728000,"We need to operate quickly
+if we are to save the babies.",0.0,1.6666666666666667
+1100,02:04:59.835000,02:05:01.427000,Babies?,0.0,1.6666666666666667
+1101,02:05:01.537000,02:05:03.402000,She's carrying twins.,0.0,1.6666666666666667
+1102,02:05:43.045000,02:05:45.479000,Ee-see-tah oy-doh.,0.0,1.6666666666666667
+1103,02:05:45.581000,02:05:48.345000,Luke.,0.0,1.6666666666666667
+1104,02:05:55.257000,02:05:58.784000,"Oh, Luke.",0.0,1.6666666666666667
+1105,02:06:02.364000,02:06:06.630000,"Ooh-bah, ooh-bah.",0.0,1.6666666666666667
+1106,02:06:16.144000,02:06:19.113000,Ee-see-tah oy-dah.,0.0,1.6666666666666667
+1107,02:06:19.214000,02:06:22.149000,"- It's a girl.
+- Leia.",0.0,1.6666666666666667
+1108,02:07:04.126000,02:07:06.754000,Obi-Wan?,0.0,1.6666666666666667
+1109,02:07:10.999000,02:07:12.899000,There's good in him.,0.0,1.6666666666666667
+1110,02:07:15.604000,02:07:17.538000,I know.,0.0,1.6666666666666667
+1111,02:07:17.639000,02:07:20.233000,I know there's...,0.0,1.6666666666666667
+1112,02:07:20.342000,02:07:22.310000,still...,0.0,1.6666666666666667
+1113,02:07:56.511000,02:07:59.207000,Lord Vader.,0.0,1.6666666666666667
+1114,02:07:59.314000,02:08:01.407000,Can you hear me?,0.0,1.6666666666666667
+1115,02:08:04.453000,02:08:06.921000,"Yes, Master.",0.0,1.6666666666666667
+1116,02:08:09.057000,02:08:11.890000,Where is PadmšŠ?,0.0,1.6666666666666667
+1117,02:08:11.994000,02:08:14.656000,Is she safe?,0.0,1.6666666666666667
+1118,02:08:15.764000,02:08:17.755000,Is she all right?,0.0,1.6666666666666667
+1119,02:08:19.501000,02:08:24.029000,"It seems, in your anger,
+you killed her.",0.0,1.6666666666666667
+1120,02:08:25.073000,02:08:27.974000,I? I couldn't have.,0.0,1.6666666666666667
+1121,02:08:28.076000,02:08:31.068000,"She was alive.
+I felt it!",0.0,1.6666666666666667
+1122,02:08:50.866000,02:08:55.166000,No!,0.0,1.6666666666666667
+1123,02:09:05.047000,02:09:09.677000,"Hidden, safe
+the children must be kept.",0.0,1.6666666666666667
+1124,02:09:09.785000,02:09:14.017000,"We must take them somewhere
+where the Sith will not sense their presence.",0.0,1.6666666666666667
+1125,02:09:15.123000,02:09:19.059000,"Hmm. Split up
+they should be.",0.0,1.6666666666666667
+1126,02:09:19.161000,02:09:21.288000,"My wife and I
+will take the girl.",0.0,1.6666666666666667
+1127,02:09:22.864000,02:09:25.799000,"We've always talked
+of adopting a baby girl.",0.0,1.6666666666666667
+1128,02:09:25.901000,02:09:28.131000,She will be loved with us.,0.0,1.6666666666666667
+1129,02:09:28.236000,02:09:31.034000,And what of the boy?,0.0,1.6666666666666667
+1130,02:09:31.139000,02:09:35.473000,"To Tatooine.
+To his family send him.",0.0,1.6666666666666667
+1131,02:09:37.312000,02:09:39.746000,"I will take the child
+and watch over him.",0.0,1.6666666666666667
+1132,02:09:44.453000,02:09:48.890000,"Until the time is right,
+disappear we will.",0.0,1.6666666666666667
+1133,02:09:50.692000,02:09:54.287000,"Master Kenobi,
+wait a moment.",0.0,1.6666666666666667
+1134,02:09:55.831000,02:10:01.030000,"In your solitude on Tatooine,
+training I have foryou.",0.0,1.6666666666666667
+1135,02:10:01.136000,02:10:03.696000,Training?,0.0,1.6666666666666667
+1136,02:10:03.805000,02:10:08.367000,"An old friend has learned
+the path to immortality.",0.0,1.6666666666666667
+1137,02:10:10.445000,02:10:13.539000,"One who has returned from
+the netherworld of the Force.",0.0,1.6666666666666667
+1138,02:10:13.648000,02:10:16.139000,Your old master.,0.0,1.6666666666666667
+1139,02:10:16.251000,02:10:18.242000,Qui-Gon?,0.0,1.6666666666666667
+1140,02:10:20.755000,02:10:24.020000,"How to commune with him
+I will teach you.",0.0,1.6666666666666667
+1141,02:10:25.527000,02:10:27.688000,"- Captain Antilles.
+- Yes, Your Highness?",0.0,1.6666666666666667
+1142,02:10:27.796000,02:10:29.696000,"I'm placing these droids
+in your care.",0.0,1.6666666666666667
+1143,02:10:29.798000,02:10:31.698000,"Treat them well.
+Clean them up.",0.0,1.6666666666666667
+1144,02:10:31.800000,02:10:33.700000,"Have the protocol droid's
+mind wiped.",0.0,1.6666666666666667
+1145,02:10:33.802000,02:10:35.269000,What?,0.0,1.6666666666666667
+1146,02:10:37.139000,02:10:39.107000,"Oh, no.",0.0,1.6666666666666667

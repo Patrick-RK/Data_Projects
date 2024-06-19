@@ -1,0 +1,2004 @@
+index,start_time,end_time,text,sentiment_score,cumulative_sentiment
+1,00:02:00.370000,00:02:02.413000,"Captain.
+Yes, sir?",0.0,0.0
+2,00:02:02.497000,00:02:04.665000,Tell them we wish to board at once.,0.0,0.0
+3,00:02:04.791000,00:02:07.460000,"With all due respect,",0.0,0.0
+4,00:02:07.544000,00:02:10.963000,"the ambassadors for the supreme chancellor
+wish to board immediately.",0.0,0.0
+5,00:02:11.048000,00:02:12.965000,"Yes, of course.",0.0,0.0
+6,00:02:13.050000,00:02:16.177000,"As you know, our blockade
+is perfectly legal,",0.0,0.0
+7,00:02:16.261000,00:02:20.389000,"and we'd be happy to
+receive the ambassadors.",0.0,0.0
+8,00:02:42.829000,00:02:45.498000,I'm TC-14 at your service.,0.0,0.0
+9,00:02:45.582000,00:02:47.500000,"This way, please.",0.0,0.0
+10,00:02:53.590000,00:02:56.676000,"We are greatly honored
+by your Visit, Ambassadors.",0.0,0.0
+11,00:02:56.760000,00:02:58.678000,Make yourselves comfortable.,0.0,0.0
+12,00:02:58.762000,00:03:01.972000,My master will be with you shortly.,0.0,0.0
+13,00:03:04.976000,00:03:07.269000,I have a bad feeling about this.,0.0,0.0
+14,00:03:07.396000,00:03:10.439000,"I don't sense anything.
+It's not about the mission, Master.",0.0,0.0
+15,00:03:10.524000,00:03:14.485000,"It's something... elsewhere, elusive.",0.0,0.0
+16,00:03:14.569000,00:03:16.987000,"Don't center on your anxieties, Obi-Wan.",0.0,0.0
+17,00:03:17.072000,00:03:20.241000,"Keep your concentration here and now,
+where it belongs.",0.0,0.0
+18,00:03:20.325000,00:03:23.202000,"But Master Yoda said
+I should be mindful of the future.",0.0,0.0
+19,00:03:23.286000,00:03:25.329000,But not at the expense of the moment.,0.0,0.0
+20,00:03:25.414000,00:03:28.374000,"Be mindful of the living Force,
+young Padawan.",0.0,0.0
+21,00:03:28.458000,00:03:30.418000,"Yes, Master.",0.0,0.0
+22,00:03:32.587000,00:03:36.257000,"How do you think this trade viceroy
+will deal with the chancellor's demands?",0.0,0.0
+23,00:03:36.341000,00:03:38.509000,These Federation types are cowards.,0.0,0.0
+24,00:03:38.593000,00:03:41.470000,The negotiations will be short.,0.0,0.0
+25,00:03:41.555000,00:03:44.849000,What? What did you say?,0.0,0.0
+26,00:03:44.933000,00:03:47.935000,"The ambassadors are Jedi knights,
+I believe.",0.0,0.0
+27,00:03:48.019000,00:03:49.937000,I knew it.,0.0,0.0
+28,00:03:50.021000,00:03:52.273000,They're here to force a settlement.,0.0,0.0
+29,00:03:52.357000,00:03:56.444000,"Distract them.
+I will contact Lord Sidious.",0.0,0.0
+30,00:03:56.528000,00:03:58.446000,Are you brain-dead?,0.0,0.0
+31,00:03:58.530000,00:04:02.450000,I'm not going in there with two Jedi.,0.0,0.0
+32,00:04:02.534000,00:04:04.493000,Send a droid.,0.0,0.0
+33,00:04:08.915000,00:04:11.792000,"<i>Is it in their nature to
+make us wait this long?</i>",0.0,0.0
+34,00:04:11.877000,00:04:16.505000,"No. I sense an unusual amount of fear for
+something as trivial as this trade dispute.",0.0,0.0
+35,00:04:27.392000,00:04:29.310000,What is it?,0.0,0.0
+36,00:04:29.394000,00:04:32.062000,"This scheme of yours has
+failed, Lord Sidious.",0.0,0.0
+37,00:04:32.147000,00:04:35.733000,"The blockade is finished.
+We dare not go against these Jedi.",0.0,0.0
+38,00:04:35.817000,00:04:40.696000,"Viceroy, I don't want this stunted slime
+in my sight again.",0.0,0.0
+39,00:04:42.032000,00:04:44.575000,<i>This turn of events is unfortunate.</i>,0.0,0.0
+40,00:04:44.659000,00:04:48.788000,"We must accelerate our plans.
+Begin landing your troops.",0.0,0.0
+41,00:04:48.872000,00:04:52.625000,"My lord, is that legal?",0.0,0.0
+42,00:04:52.709000,00:04:55.044000,I will make it legal.,0.0,0.0
+43,00:04:55.128000,00:04:57.463000,And the Jedi?,0.0,0.0
+44,00:04:57.547000,00:05:01.967000,"The chancellor should never have brought
+them into this. Kill them immediately.",0.0,0.0
+45,00:05:02.052000,00:05:06.388000,"Yes. Yes, my lord. Uh, as you wish.",0.0,0.0
+46,00:05:08.183000,00:05:10.017000,"Captain, look!",0.0,0.0
+47,00:05:10.101000,00:05:12.561000,Shields up!,0.0,0.0
+48,00:05:16.024000,00:05:17.900000,Sorry.,-0.5,-0.5
+49,00:05:19.611000,00:05:21.570000,Dioxis.,0.0,-0.5
+50,00:05:26.409000,00:05:29.036000,They must be dead by now.,0.0,-0.5
+51,00:05:29.120000,00:05:33.082000,Destroy what's left of them.,0.0,-0.5
+52,00:05:39.923000,00:05:42.341000,Oh! Excuse me.,0.0,-0.5
+53,00:05:42.425000,00:05:45.386000,"- Check it out, Corporal. We'll cover you.
+- Roger, roger.",0.0,-0.5
+54,00:05:45.470000,00:05:48.055000,Uh-oh. Blast them.,0.0,-0.5
+55,00:05:52.978000,00:05:55.354000,What is going on down there?,0.0,-0.5
+56,00:05:55.438000,00:05:57.439000,"We lost the transmission, sir.",0.0,-0.5
+57,00:06:01.862000,00:06:04.947000,"Have you ever encountered a
+Jedi knight before, sir?",0.0,-0.5
+58,00:06:05.031000,00:06:07.992000,"Well, no, but I don't-Seal off the bridge.",0.0,-0.5
+59,00:06:08.118000,00:06:10.828000,"Yes, sir.
+That won't be enough, sir.",0.0,-0.5
+60,00:06:10.912000,00:06:12.913000,I want droidekas up here at once!,0.0,-0.5
+61,00:06:12.998000,00:06:15.624000,We will not survive this.,0.0,-0.5
+62,00:06:27.137000,00:06:29.597000,Close the blast doors!,0.0,-0.5
+63,00:06:34.519000,00:06:37.354000,That will hold them.,0.0,-0.5
+64,00:06:45.822000,00:06:48.574000,They are still coming through.,0.0,-0.5
+65,00:06:48.658000,00:06:50.618000,This is impossible!,0.0,-0.5
+66,00:06:55.040000,00:06:57.958000,Where are those droidekas?,0.0,-0.5
+67,00:06:59.502000,00:07:01.295000,Master! Destroyers!,0.0,-0.5
+68,00:07:07.677000,00:07:10.429000,They have shield generators!,0.0,-0.5
+69,00:07:10.513000,00:07:13.223000,It's a standoff. Let's go.,0.0,-0.5
+70,00:07:17.395000,00:07:19.939000,They're no match for droidekas.,0.0,-0.5
+71,00:07:20.023000,00:07:24.526000,<i>Sir! They've gone up the ventilation shaft.</i>,0.0,-0.5
+72,00:07:33.286000,00:07:35.996000,"Battle droids.
+It's an invasion army.",0.0,-0.5
+73,00:07:37.707000,00:07:40.376000,"This is an odd play for
+the Trade Federation.",0.0,-0.5
+74,00:07:40.460000,00:07:43.629000,"We've got to warn the Naboo
+and contact Chancellor Valorum.",0.0,-0.5
+75,00:07:43.713000,00:07:48.634000,"<i>Let's split up. Stow aboard separate ships</i>
+<i>and meet down on the planet.</i>",0.0,-0.5
+76,00:07:48.718000,00:07:51.637000,"You were right about one thing, Master.",0.0,-0.5
+77,00:07:51.721000,00:07:55.224000,The negotiations were short.,0.0,-0.5
+78,00:07:55.433000,00:07:58.811000,"Sir, a transmission from the planet.",0.0,-0.5
+79,00:07:58.895000,00:08:01.021000,It's Queen Amidala herself.,0.0,-0.5
+80,00:08:01.106000,00:08:04.817000,At last we are getting results.,0.0,-0.5
+81,00:08:04.901000,00:08:07.945000,"Again you come before us, Your Highness.",0.0,-0.5
+82,00:08:08.029000,00:08:11.156000,"You will not be so pleased
+when you hear what I have to say, Viceroy.",0.0,-0.5
+83,00:08:11.241000,00:08:14.994000,Your trade boycott of our planet has ended.,0.0,-0.5
+84,00:08:15.078000,00:08:17.663000,I was not aware of such failure.,0.0,-0.5
+85,00:08:17.747000,00:08:20.499000,"<i>I have word that the chancellor's
+ambassadors are with you now...</i>",0.0,-0.5
+86,00:08:20.583000,00:08:23.335000,"and that you have been commanded
+to reach settlement.",0.0,-0.5
+87,00:08:23.420000,00:08:25.713000,<i>I know nothing of any ambassadors.</i>,0.0,-0.5
+88,00:08:25.797000,00:08:28.215000,You must be mistaken.,0.0,-0.5
+89,00:08:28.299000,00:08:30.342000,"Beware, Viceroy.",0.0,-0.5
+90,00:08:30.427000,00:08:33.137000,The Federation has gone too far this time.,0.0,-0.5
+91,00:08:33.221000,00:08:37.307000,"We would never do anything
+without the approval of the senate.",0.0,-0.5
+92,00:08:37.392000,00:08:39.977000,You assume too much.,0.0,-0.5
+93,00:08:40.061000,00:08:42.896000,We will see.,0.0,-0.5
+94,00:08:43.023000,00:08:47.026000,"She's right. The senate will never-
+It's too late now.",0.0,-0.5
+95,00:08:47.152000,00:08:50.154000,"Do you think she suspects an attack?
+<i>I don't know.</i>",0.0,-0.5
+96,00:08:50.238000,00:08:54.658000,"But we must move quickly
+to disrupt all communications down there.",0.0,-0.5
+97,00:08:59.497000,00:09:03.917000,"Negotiations haven't started
+because the ambassadors aren't there?",0.0,-0.5
+98,00:09:04.002000,00:09:06.211000,How could that be true?,0.0,-0.5
+99,00:09:06.296000,00:09:10.674000,"I have assurances from the chancellor
+his ambassadors did arrive.",0.0,-0.5
+100,00:09:10.759000,00:09:14.511000,It must-handiwork-negotiate-ambassadors...,0.0,-0.5
+101,00:09:14.637000,00:09:17.306000,"<i>nobody would-</i>
+Senator Palpatine.",0.0,-0.5
+102,00:09:17.390000,00:09:19.308000,What's happening?,0.0,-0.5
+103,00:09:19.392000,00:09:21.310000,Check the transmission generator.,0.0,-0.5
+104,00:09:21.394000,00:09:26.273000,"<i>A communications disruption</i>
+<I>CAN MEAN ONLY ONE THING: invasion.</i>",0.0,-0.5
+105,00:09:26.357000,00:09:28.692000,The Federation would not dare go that far.,0.0,-0.5
+106,00:09:28.777000,00:09:32.654000,"The senate would revoke their trade
+franchise, and they'd be finished.",0.0,-0.5
+107,00:09:32.739000,00:09:35.616000,<i>We must continue to rely on negotiation.</i>,0.0,-0.5
+108,00:09:35.700000,00:09:38.952000,<i>Negotiation? We've lost all communications.</i>,0.0,-0.5
+109,00:09:39.037000,00:09:41.371000,And where are the chancellor's ambassadors?,0.0,-0.5
+110,00:09:42.707000,00:09:45.167000,"This is a dangerous
+situation, Your Highness.",0.0,-0.5
+111,00:09:45.251000,00:09:49.671000,"Our security volunteers will be no match
+against a battle-hardened Federation army.",0.0,-0.5
+112,00:09:51.216000,00:09:55.844000,"I will not condone a course of action
+that will lead us to war.",0.0,-0.5
+113,00:10:31.339000,00:10:34.508000,"- Yes, Viceroy?
+- Captain, we've searched the ship,",0.0,-0.5
+114,00:10:34.592000,00:10:36.718000,and there is no trace of the Jedi.,0.0,-0.5
+115,00:10:36.803000,00:10:39.596000,"They may have gotten on
+one of your landing craft.",0.0,-0.5
+116,00:10:39.681000,00:10:42.182000,"If they're down here, sir, we'll find them.",0.0,-0.5
+117,00:10:42.267000,00:10:47.146000,"Use caution.
+These Jedi are not to be underestimated.",0.0,-0.5
+118,00:11:00.451000,00:11:02.995000,"- Oh, no!
+- Get away! Get out of here!",0.0,-0.5
+119,00:11:03.121000,00:11:06.165000,Get down!,0.0,-0.5
+120,00:11:06.249000,00:11:08.542000,Ay-yee-yee! Wha!,0.0,-0.5
+121,00:11:15.091000,00:11:18.635000,"Was'n dat? Hey, wait!",0.0,-0.5
+122,00:11:18.845000,00:11:20.679000,"Oh, mooie-mooie! I love you!",0.0,-0.5
+123,00:11:20.763000,00:11:22.973000,"You almost got us killed.
+Are you brainless?",0.0,-0.5
+124,00:11:23.099000,00:11:26.810000,"I spake. The ability to speak
+does not make you intelligent.",0.0,-0.5
+125,00:11:26.936000,00:11:29.855000,"Now, get out of here.
+No, no, mesa stay.",0.0,-0.5
+126,00:11:29.939000,00:11:32.983000,"Mesa culled JarJar Binks.
+Mesa your humble servant.",0.0,-0.5
+127,00:11:33.109000,00:11:35.235000,"That won't be necessary.
+Oh, but it 'tis.",0.0,-0.5
+128,00:11:35.320000,00:11:38.238000,"'Tis demanded by the gods, it 'tis.",0.0,-0.5
+129,00:11:38.323000,00:11:41.783000,"Oh, no! Whoo!
+Stay down!",0.0,-0.5
+130,00:11:47.707000,00:11:50.334000,You saved my again.,0.0,-0.5
+131,00:11:50.460000,00:11:52.336000,"What's this?
+A local.",0.0,-0.5
+132,00:11:52.462000,00:11:56.215000,"Let's get out of here before
+more droids show up. More?",0.0,-0.5
+133,00:11:56.299000,00:11:58.550000,"""More"" did you spake?",0.0,-0.5
+134,00:11:58.635000,00:12:03.555000,"Ex-squeeze-me, but de mostest
+safest place would be Gunga City.",0.0,-0.5
+135,00:12:03.640000,00:12:06.892000,Is where I grew up. 'Tis a hidden city.,0.0,-0.5
+136,00:12:08.478000,00:12:10.354000,"A city?
+Uh-huh.",0.0,-0.5
+137,00:12:10.480000,00:12:14.650000,"Can you take us there?
+Uh, on second thought, no.",0.0,-0.5
+138,00:12:14.734000,00:12:17.236000,"Not really, no.
+No?",0.0,-0.5
+139,00:12:17.320000,00:12:19.488000,"'Tis embarrassing,",0.0,-0.5
+140,00:12:19.572000,00:12:23.575000,"but, uh, my afraid my've been banished.",0.0,-0.5
+141,00:12:23.660000,00:12:26.787000,"My forgotten.
+Da bosses would do terrible tings to me.",0.0,-0.5
+142,00:12:26.871000,00:12:29.957000,Terrible tings to me if me goen back dare.,0.0,-0.5
+143,00:12:30.041000,00:12:33.126000,"You hear that?
+Yah.",0.0,-0.5
+144,00:12:33.211000,00:12:37.005000,"That is the sound of a thousand
+terrible things heading this way.",0.0,-0.5
+145,00:12:37.090000,00:12:39.675000,"If they find us, they will crush us,",0.0,-0.5
+146,00:12:39.759000,00:12:44.346000,"grind us into tiny pieces
+and blast us into oblivion.",0.0,-0.5
+147,00:12:44.430000,00:12:48.350000,Oh. Yousa point is well seen.,0.0,-0.5
+148,00:12:48.434000,00:12:50.852000,This way. Hurry!,0.0,-0.5
+149,00:12:56.109000,00:12:59.444000,"How much further?
+Wesa goen underwater, okeyday?",0.0,-0.5
+150,00:12:59.529000,00:13:01.446000,"Ah, my warning you.",0.0,-0.5
+151,00:13:01.531000,00:13:05.701000,"Gungans no liken outsiders,
+so don't spect a warm welcome.",0.0,-0.5
+152,00:13:05.785000,00:13:09.121000,"Oh, don't worry.
+This hasn't been our day forwarm welcomes.",0.0,-0.5
+153,00:13:09.205000,00:13:13.166000,"Ar, ar, ar! Ooh, ooh, ooh, ooh, ooh!",0.0,-0.5
+154,00:13:19.507000,00:13:22.009000,"Yousa follow me now, okeyday?",0.0,-0.5
+155,00:14:07.263000,00:14:10.182000,So good bein home!,0.0,-0.5
+156,00:14:16.397000,00:14:18.398000,"Oh, me gusa.
+Hata-hata.",0.0,-0.5
+157,00:14:25.114000,00:14:27.449000,"Hey, yousa.",0.0,-0.5
+158,00:14:27.533000,00:14:31.661000,"- Stopa dare!
+- Heyo-dales, Cap'n Tarpals.",0.0,-0.5
+159,00:14:31.746000,00:14:33.622000,Mesa back!,0.0,-0.5
+160,00:14:33.706000,00:14:36.708000,"Noah gain, JarJar. Yousa goen tada bosses.",0.0,-0.5
+161,00:14:36.793000,00:14:39.419000,Yousa in big dudu dis time.,0.0,-0.5
+162,00:14:39.504000,00:14:41.088000,Ohh.,0.0,-0.5
+163,00:14:41.172000,00:14:43.548000,"<i>Ay, ay.</i>",0.0,-0.5
+164,00:14:43.633000,00:14:46.843000,How wude.,0.0,-0.5
+165,00:14:53.434000,00:14:57.896000,"Tkk-tkk-tkk-tkk-tkk-tkk-tkk!
+Yousa cannot bees hair.",0.0,-0.5
+166,00:14:57.980000,00:15:02.526000,"Dis army of Mackineeks
+up dare is new weesong.",0.0,-0.5
+167,00:15:02.610000,00:15:07.531000,"A droid army is about to attack the Naboo.
+We must warn them.",0.0,-0.5
+168,00:15:07.615000,00:15:11.284000,"Wesa no like da Naboo.
+Tkk-tkk-tkk-tkk-tkk.",0.0,-0.5
+169,00:15:11.369000,00:15:14.162000,<i>Da Naboo tink day so smarty.</i>,0.0,-0.5
+170,00:15:14.247000,00:15:17.207000,Day tink day brains so big.,0.0,-0.5
+171,00:15:17.291000,00:15:21.461000,"Once those droids take control of the
+surface, they will take control of you.",0.0,-0.5
+172,00:15:21.546000,00:15:23.922000,Mesa no tink so.,0.0,-0.5
+173,00:15:24.006000,00:15:26.883000,Day not know of uss-en.,0.0,-0.5
+174,00:15:26.968000,00:15:29.970000,You and the Naboo form a symbiont circle.,0.0,-0.5
+175,00:15:30.054000,00:15:33.473000,"What happens to one of you will affect the other.
+You must understand this.",0.0,-0.5
+176,00:15:33.558000,00:15:38.353000,Wesa no carrrre-nn about da Naboo.,0.0,-0.5
+177,00:15:38.438000,00:15:41.022000,Then speed us on our way.,0.0,-0.5
+178,00:15:41.107000,00:15:43.692000,Wesa ganna speed yous away.,0.0,-0.5
+179,00:15:43.776000,00:15:46.570000,We could use a transport.,0.0,-0.5
+180,00:15:46.654000,00:15:49.489000,Wesa give yousa una bongo.,0.0,-0.5
+181,00:15:49.615000,00:15:52.742000,"Hmm?
+<i>Da speediest way tooda Naboo...</i>",0.0,-0.5
+182,00:15:52.827000,00:15:57.622000,'tis goen through the planet core.,0.0,-0.5
+183,00:15:57.707000,00:15:59.583000,Now...,0.0,-0.5
+184,00:15:59.667000,00:16:01.543000,go.,0.0,-0.5
+185,00:16:01.627000,00:16:03.879000,Thank you for your help. We leave in peace.,0.0,-0.5
+186,00:16:03.963000,00:16:06.089000,"Master, what's a bongo?",0.0,-0.5
+187,00:16:06.174000,00:16:08.175000,"A transport, I hope.",0.0,-0.5
+188,00:16:08.259000,00:16:10.343000,Deysa setten yousa up.,0.0,-0.5
+189,00:16:10.428000,00:16:14.139000,"Goen through da planet core?
+Bad bombin'.",0.0,-0.5
+190,00:16:14.223000,00:16:18.393000,Mmm... any help here would be hot.,0.0,-0.5
+191,00:16:19.729000,00:16:21.605000,"Master, we're short on time.",0.0,-0.5
+192,00:16:21.689000,00:16:25.400000,"We'll need a navigator
+to get us through the planet's core.",0.0,-0.5
+193,00:16:25.485000,00:16:27.444000,This Gungan may be of help.,0.0,-0.5
+194,00:16:29.572000,00:16:32.657000,What is to become of JarJar Binks here?,0.0,-0.5
+195,00:16:32.742000,00:16:37.621000,<i>Hisen to be pune-ished.</i>,0.0,-0.5
+196,00:16:37.747000,00:16:39.998000,"Ohh.
+<i>I saved his life.</i>",0.0,-0.5
+197,00:16:40.082000,00:16:42.584000,"He owes me what you call a ' ""life-debt.""",0.0,-0.5
+198,00:16:42.668000,00:16:46.546000,"Your gods demand
+that his life belongs to me now.",0.0,-0.5
+199,00:16:46.631000,00:16:49.049000,"Binkssssss,",0.0,-0.5
+200,00:16:49.133000,00:16:52.761000,yousa havena liveplay with thisen hisen?,0.0,-0.5
+201,00:16:52.845000,00:16:56.264000,"Mm, uh-huh.",0.0,-0.5
+202,00:16:59.852000,00:17:01.728000,Begone wit him!,0.0,-0.5
+203,00:17:04.315000,00:17:06.775000,Count me outta dis one.,0.0,-0.5
+204,00:17:06.859000,00:17:10.028000,Better dead here than dead in da core.,0.0,-0.5
+205,00:17:10.112000,00:17:13.281000,Yee gods! What mesa sayin?,0.0,-0.5
+206,00:17:31.467000,00:17:34.261000,"Dis is nutsen. Oh, gooberfish!",0.0,-0.5
+207,00:17:34.387000,00:17:37.639000,"Why were you banished, JarJar?
+It's a longo tale-o,",0.0,-0.5
+208,00:17:37.723000,00:17:42.811000,"buta small part of it would be mesa...
+clumsy.",0.0,-0.5
+209,00:17:42.895000,00:17:47.774000,"- You were banished because you were clumsy?
+- Yousa might'n be sayin dat.",0.0,-0.5
+210,00:18:00.621000,00:18:04.916000,"Mesa caused mabbe
+one, two-y lettle bitty axadentes, huh?",0.0,-0.5
+211,00:18:05.001000,00:18:07.085000,"Yud-say boom da gassar,",0.0,-0.5
+212,00:18:07.169000,00:18:10.005000,"den crashin der boss's heyblibber,
+den banished.",0.0,-0.5
+213,00:18:14.176000,00:18:17.137000,Wuh-oh!,0.0,-0.5
+214,00:18:17.221000,00:18:19.347000,Big gooberfish! Huge-o teeth!,0.0,-0.5
+215,00:18:30.067000,00:18:34.195000,"- There's always a bigger fish.
+- Mesa tink we goen back now.",0.0,-0.5
+216,00:18:45.541000,00:18:48.793000,"The invasion is on schedule, my lord.",0.0,-0.5
+217,00:18:48.878000,00:18:51.880000,"I have the senate
+bogged down in procedures.",0.0,-0.5
+218,00:18:51.964000,00:18:56.468000,"They will have no choice
+but to accept your control of the system.",0.0,-0.5
+219,00:18:56.552000,00:19:01.264000,"The queen has great faith
+that the senate will side with her.",0.0,-0.5
+220,00:19:01.349000,00:19:04.392000,Queen Amidala is young and naive.,0.0,-0.5
+221,00:19:04.477000,00:19:07.937000,"You will find controlling
+her will not be difficult.",0.0,-0.5
+222,00:19:08.022000,00:19:09.981000,"Yes, my lord.",0.0,-0.5
+223,00:19:11.359000,00:19:14.319000,You didn't tell him about the missing Jedi.,0.0,-0.5
+224,00:19:14.403000,00:19:18.948000,"No need to report that to him
+until we have something to report.",0.0,-0.5
+225,00:19:23.371000,00:19:27.165000,"Where wesa goin?
+Don't worry. The Force will guide us.",0.0,-0.5
+226,00:19:27.249000,00:19:30.043000,"Ohh, maxi big, da Force.",0.0,-0.5
+227,00:19:30.127000,00:19:32.921000,"Well, dat smells stinkowiff.",0.0,-0.5
+228,00:19:33.047000,00:19:35.006000,We're losing power.,0.0,-0.5
+229,00:19:35.091000,00:19:36.758000,"Ohhh, no!",0.0,-0.5
+230,00:19:42.640000,00:19:44.933000,Wesa dyin' here.,0.0,-0.5
+231,00:19:45.059000,00:19:47.727000,"Just relax. We're not in trouble yet.
+What ""yet""?",0.0,-0.5
+232,00:19:47.812000,00:19:50.855000,<i>Monsters out dare. Leak'n in here.</i>,0.0,-0.5
+233,00:19:50.940000,00:19:55.944000,"All sink'n and no power?
+Whena yousa tinkin wesa in trouble?",0.0,-0.5
+234,00:19:57.154000,00:19:59.531000,"Power's back.
+Huh?",0.0,-0.5
+235,00:19:59.615000,00:20:01.700000,"Aah, monster's back!",0.0,-0.5
+236,00:20:08.582000,00:20:10.834000,Relax.,0.0,-0.5
+237,00:20:10.960000,00:20:12.919000,"Ohh.
+You overdid it.",0.0,-0.5
+238,00:20:27.852000,00:20:30.687000,"Horrible.
+Head for that outcropping.",0.0,-0.5
+239,00:20:30.771000,00:20:33.773000,"Oh, boy.",0.0,-0.5
+240,00:21:09.059000,00:21:11.144000,"Viceroy, we have captured the queen.",0.0,-0.5
+241,00:21:11.228000,00:21:13.980000,"Ah, victory.",0.0,-0.5
+242,00:21:26.577000,00:21:29.621000,"Mmm, dis'n loverly.",0.0,-0.5
+243,00:21:34.752000,00:21:38.171000,"How will you explain this invasion
+to the senate?",0.0,-0.5
+244,00:21:38.255000,00:21:42.467000,"The queen and I will sign a treaty
+that will legitimize our occupation here.",0.0,-0.5
+245,00:21:42.551000,00:21:45.720000,"I have assurances
+it will be ratified by the senate.",0.0,-0.5
+246,00:21:45.846000,00:21:49.349000,"I will not cooperate.
+Now, now, Your Highness.",0.0,-0.5
+247,00:21:49.433000,00:21:53.561000,"In time, the suffering of your people
+will persuade you to see our point of view.",0.0,-0.5
+248,00:21:54.897000,00:21:56.815000,"Commander.
+Yes, sir.",0.0,-0.5
+249,00:21:56.941000,00:22:00.527000,"Process them.
+Captain, take them to Camp 4.",0.0,-0.5
+250,00:22:00.611000,00:22:02.570000,"Roger, roger.",0.0,-0.5
+251,00:22:42.862000,00:22:45.446000,Whoops!,0.0,-0.5
+252,00:22:45.531000,00:22:47.991000,Whoo-hoo-hoo!,0.0,-0.5
+253,00:22:57.084000,00:23:01.087000,"- We should leave the street, Your Highness.
+- Get their weapons.",0.0,-0.5
+254,00:23:01.171000,00:23:04.716000,Whoa! Yousa guys bombad!,0.0,-0.5
+255,00:23:06.802000,00:23:09.220000,"We're ambassadors for
+the supreme chancellor.",0.0,-0.5
+256,00:23:09.305000,00:23:11.222000,"Your negotiations seemed to
+have failed, Ambassador.",0.0,-0.5
+257,00:23:11.307000,00:23:13.141000,The negotiations never took place.,0.0,-0.5
+258,00:23:13.225000,00:23:15.643000,"<i>It's urgent that we make contact</i>
+<i>with the Republic.</i>",0.0,-0.5
+259,00:23:15.728000,00:23:19.188000,"- They've knocked out all our communications.
+- Do you have transports?",0.0,-0.5
+260,00:23:19.273000,00:23:21.733000,In the main hangar. This way.,0.0,-0.5
+261,00:23:26.238000,00:23:29.407000,"- There are too many of them.
+- That won't be a problem.",0.0,-0.5
+262,00:23:29.491000,00:23:33.036000,"Your Highness, under the circumstances,
+I suggest you come to Coruscant with us.",0.0,-0.5
+263,00:23:33.120000,00:23:36.247000,"Thank you, Ambassador,
+but my place is with my people.",0.0,-0.5
+264,00:23:36.332000,00:23:39.083000,"- They will kill you if you stay.
+- They wouldn't dare.",0.0,-0.5
+265,00:23:39.168000,00:23:42.921000,"They need her to sign a treaty to make this invasion legal.
+They can't afford to kill her.",0.0,-0.5
+266,00:23:43.005000,00:23:45.173000,"There is something else behind all this,
+Your Highness.",0.0,-0.5
+267,00:23:45.257000,00:23:47.258000,"There's no logic in the
+Federation's move here.",0.0,-0.5
+268,00:23:47.343000,00:23:49.302000,My feelings tell me they will destroy you.,0.0,-0.5
+269,00:23:49.386000,00:23:51.846000,"Our only hope is for the
+senate to side with us.",0.0,-0.5
+270,00:23:51.931000,00:23:54.390000,Senator Palpatine will need your help.,0.0,-0.5
+271,00:23:54.475000,00:23:58.519000,"Either choice presents great danger...
+to us all.",0.0,-0.5
+272,00:23:58.604000,00:24:00.521000,"We are brave, Your Highness.",0.0,-0.5
+273,00:24:00.606000,00:24:03.858000,"<i>If you are to leave, Your
+Highness, it must be now.</i>",0.0,-0.5
+274,00:24:03.943000,00:24:06.444000,Then I will plead our case to the senate.,0.0,-0.5
+275,00:24:06.528000,00:24:09.322000,"Be careful, Governor.",0.0,-0.5
+276,00:24:18.207000,00:24:21.417000,We'll need to free those pilots.,0.0,-0.5
+277,00:24:21.502000,00:24:23.461000,I'll deal with that.,0.0,-0.5
+278,00:24:26.882000,00:24:29.384000,"Halt! I'm ambassador to
+the supreme chancellor.",0.0,-0.5
+279,00:24:29.468000,00:24:31.469000,I'm taking these people to Coruscant.,0.0,-0.5
+280,00:24:31.553000,00:24:34.806000,"- Where are you taking them?
+- To Coruscant.",0.0,-0.5
+281,00:24:34.890000,00:24:37.558000,"Coruscant? Uh, that doesn't compute.",0.0,-0.5
+282,00:24:37.643000,00:24:39.560000,"Uh, wait. You're under arrest.",0.0,-0.5
+283,00:24:44.984000,00:24:47.360000,Come on. Move!,0.0,-0.5
+284,00:24:51.615000,00:24:54.242000,Go!,0.0,-0.5
+285,00:25:18.142000,00:25:21.477000,"Now, stay here and keep out of trouble.",0.0,-0.5
+286,00:25:25.232000,00:25:28.401000,"Hello, boyos.",0.0,-0.5
+287,00:25:33.699000,00:25:35.408000,There's the blockade.,0.0,-0.5
+288,00:25:44.209000,00:25:47.420000,The shield generator's been hit!,0.0,-0.5
+289,00:25:55.888000,00:25:57.513000,How wude!,0.0,-0.5
+290,00:26:07.524000,00:26:09.108000,We're losing droids fast.,0.0,-0.5
+291,00:26:09.193000,00:26:12.612000,"<i>If we can't get the shield generator fixed,</i>
+<i>we'll be sitting ducks.</i>",0.0,-0.5
+292,00:26:14.698000,00:26:18.826000,The shields are gone.,0.0,-0.5
+293,00:26:22.664000,00:26:25.458000,The power's back!,0.0,-0.5
+294,00:26:28.212000,00:26:31.756000,"That little droid did it.
+He bypassed the main power drive.",0.0,-0.5
+295,00:26:31.840000,00:26:34.467000,Deflector shields up at maximum.,0.0,-0.5
+296,00:26:43.977000,00:26:47.730000,"<i>There's not enough power to get us to Coruscant.
+The hyper-drive is leaking.</i>",0.0,-0.5
+297,00:26:47.815000,00:26:50.733000,"We'll have to land somewhere
+to refuel and repair the ship.",0.0,-0.5
+298,00:26:50.818000,00:26:53.027000,"Here, Master. Tatooine.",0.0,-0.5
+299,00:26:53.112000,00:26:56.739000,"Small, out of the way, poor. The Trade
+Federation have no presence there.",0.0,-0.5
+300,00:26:56.824000,00:26:58.699000,How can you be sure?,0.0,-0.5
+301,00:26:58.784000,00:27:00.743000,It's controlled by the Hutts.,0.0,-0.5
+302,00:27:00.828000,00:27:03.704000,"You can't take Her Royal Highness there.
+The Hutts are gangsters.",0.0,-0.5
+303,00:27:03.789000,00:27:06.124000,"- If they discovered her-
+- It'd be no different than if we landed...",0.0,-0.5
+304,00:27:06.208000,00:27:08.084000,"on a system controlled by the Federation,",0.0,-0.5
+305,00:27:08.168000,00:27:12.547000,"except that the Hutts aren't looking
+for her, which gives us the advantage.",0.0,-0.5
+306,00:27:16.969000,00:27:20.012000,"And Queen Amidala, has
+she signed the treaty?",0.0,-0.5
+307,00:27:20.097000,00:27:23.808000,"She has disappeared, my lord.",0.0,-0.5
+308,00:27:23.892000,00:27:28.062000,One Naboo cruiser got past the blockade.,0.0,-0.5
+309,00:27:28.147000,00:27:31.149000,I want that treaty signed.,0.0,-0.5
+310,00:27:31.233000,00:27:33.317000,"My lord,",0.0,-0.5
+311,00:27:33.402000,00:27:35.987000,it's impossible to locate the ship.,0.0,-0.5
+312,00:27:36.071000,00:27:38.322000,It's out of our range.,0.0,-0.5
+313,00:27:38.407000,00:27:41.159000,Not for a Sith.,0.0,-0.5
+314,00:27:41.243000,00:27:43.161000,"This is my apprentice,",0.0,-0.5
+315,00:27:43.245000,00:27:45.204000,<i>Darth Maul.</i>,0.0,-0.5
+316,00:27:46.456000,00:27:49.834000,He will find your lost ship.,0.0,-0.5
+317,00:27:54.131000,00:27:56.465000,This is getting out of hand.,0.0,-0.5
+318,00:27:56.550000,00:27:58.593000,Now there are two of them.,0.0,-0.5
+319,00:27:58.677000,00:28:01.762000,We should not have made this bargain.,0.0,-0.5
+320,00:28:06.977000,00:28:10.605000,"An extremely well-put-together
+little droid, Your Highness.",0.0,-0.5
+321,00:28:10.689000,00:28:13.608000,"Without a doubt,
+it saved the ship, as well as our lives.",0.0,-0.5
+322,00:28:13.692000,00:28:17.028000,It is to be commended. What is its number?,0.0,-0.5
+323,00:28:19.698000,00:28:21.866000,"R2-D2, Your Highness.",0.0,-0.5
+324,00:28:21.950000,00:28:27.079000,"Thank you, R2-D2.",0.0,-0.5
+325,00:28:27.164000,00:28:29.999000,Padmé.,0.0,-0.5
+326,00:28:30.083000,00:28:32.251000,Clean this droid up as best you can.,0.0,-0.5
+327,00:28:32.336000,00:28:34.337000,It deserves our gratitude.,0.0,-0.5
+328,00:28:36.089000,00:28:38.716000,"Continue, Captain.",0.0,-0.5
+329,00:28:39.760000,00:28:42.220000,"Your Highness, with your permission,",0.0,-0.5
+330,00:28:42.304000,00:28:45.389000,"we're heading for a remote planet
+called Tatooine.",0.0,-0.5
+331,00:28:45.474000,00:28:48.809000,"It's in a system far beyond the reach
+of the Trade Federation.",0.0,-0.5
+332,00:28:48.894000,00:28:51.562000,I do not agree with the Jedi on this.,0.0,-0.5
+333,00:28:51.647000,00:28:54.607000,"You must trust my judgment, Your Highness.",0.0,-0.5
+334,00:28:57.986000,00:28:59.695000,<i>Hello.</i>,0.0,-0.5
+335,00:28:59.780000,00:29:02.782000,Sorry. Husa are yousa?,0.0,-0.5
+336,00:29:02.866000,00:29:05.368000,I'm Padmé.,0.0,-0.5
+337,00:29:05.452000,00:29:08.496000,Mesa JarJar Binks.,0.0,-0.5
+338,00:29:08.580000,00:29:10.623000,"You're a Gungan, aren't you?",0.0,-0.5
+339,00:29:10.707000,00:29:12.792000,Uh-huh.,0.0,-0.5
+340,00:29:12.918000,00:29:16.545000,"How'd you end up here with us?
+My no know.",0.0,-0.5
+341,00:29:16.630000,00:29:20.341000,"Mesa day starten pitty okeyday
+witda brisky morning munchen.",0.0,-0.5
+342,00:29:20.425000,00:29:23.261000,Den boom! Getten berry scared...,0.0,-0.5
+343,00:29:23.345000,00:29:26.722000,"and grabben dat Jedi, and pow-mesa here.",0.0,-0.5
+344,00:29:26.848000,00:29:29.517000,"Huh. Mesa getten berry, berry scared.",0.0,-0.5
+345,00:29:36.191000,00:29:39.902000,"That's it-Tatooine.
+There's a settlement.",0.0,-0.5
+346,00:29:39.987000,00:29:44.156000,"Land near the outskirts.
+We don't want to attract attention.",0.0,-0.5
+347,00:30:01.383000,00:30:04.218000,"The hyper-drive generator's gone, Master.
+We'll need a new one.",0.0,-0.5
+348,00:30:04.303000,00:30:06.762000,That'll complicate things. Be wary.,0.0,-0.5
+349,00:30:06.888000,00:30:10.057000,"I sense a disturbance in the Force.
+I feel it also, Master.",0.0,-0.5
+350,00:30:10.142000,00:30:13.019000,Don't let them send any transmissions.,0.0,-0.5
+351,00:30:18.275000,00:30:20.735000,This sun doen murder to mesa skin.,0.0,-0.5
+352,00:30:20.819000,00:30:23.321000,<i>Wait!</i>,0.0,-0.5
+353,00:30:23.405000,00:30:25.364000,Wait.,0.0,-0.5
+354,00:30:28.243000,00:30:31.120000,"Her Highness commands you
+to take her handmaiden with you.",0.0,-0.5
+355,00:30:31.204000,00:30:35.041000,"No more commands
+from Her Highness today, Captain.",0.0,-0.5
+356,00:30:35.125000,00:30:37.209000,The spaceport is not going to be pleasant.,0.0,-0.5
+357,00:30:37.294000,00:30:39.503000,The queen wishes it.,0.0,-0.5
+358,00:30:39.588000,00:30:41.547000,She's curious about the planet.,0.0,-0.5
+359,00:30:42.591000,00:30:45.134000,This is not a good idea.,0.0,-0.5
+360,00:30:45.218000,00:30:47.178000,Stay close to me.,0.0,-0.5
+361,00:31:00.942000,00:31:03.819000,"Moisture farms, for the most part.",0.0,-0.5
+362,00:31:05.072000,00:31:08.824000,Some indigenous tribes and scavengers.,0.0,-0.5
+363,00:31:08.909000,00:31:13.245000,"The few spaceports like this one are havens
+for those that don't wish to be found.",0.0,-0.5
+364,00:31:13.330000,00:31:15.289000,Like us.,0.0,-0.5
+365,00:31:16.583000,00:31:19.210000,Dissen berry berry bad.,0.0,-0.5
+366,00:31:19.294000,00:31:22.505000,Oh! Icky icky goo!,0.0,-0.5
+367,00:31:35.477000,00:31:38.771000,We'll try one of the smaller dealers.,0.0,-0.5
+368,00:31:43.485000,00:31:45.611000,Good day to you.,0.0,-0.5
+369,00:31:47.114000,00:31:48.531000,What do you want?,0.0,-0.5
+370,00:31:48.615000,00:31:51.742000,I need parts for a J-type 327 Nubian.,0.0,-0.5
+371,00:31:51.827000,00:31:55.955000,"Ah, yes! Nubian. We have lots of that.",0.0,-0.5
+372,00:31:56.623000,00:31:58.541000,"Boy, get in here now!",0.0,-0.5
+373,00:31:58.625000,00:32:00.543000,My droid has a readout of what I need.,0.0,-0.5
+374,00:32:03.130000,00:32:04.839000,What took you so long?,0.0,-0.5
+375,00:32:05.549000,00:32:07.049000,I was cleaning the fan switches.,0.0,-0.5
+376,00:32:07.134000,00:32:09.677000,"Watch the store.
+I've got some selling to do.",0.0,-0.5
+377,00:32:09.761000,00:32:13.305000,"So... let me take thee out back, huh?",0.0,-0.5
+378,00:32:13.390000,00:32:17.268000,Ni you'll find what you need.,0.0,-0.5
+379,00:32:17.394000,00:32:19.770000,"Hmm?
+Don't touch anything.",0.0,-0.5
+380,00:32:19.855000,00:32:21.814000,Hmph!,0.0,-0.5
+381,00:32:27.028000,00:32:28.904000,Hmm.,0.0,-0.5
+382,00:32:29.030000,00:32:32.783000,"Are you an angel?
+What?",0.0,-0.5
+383,00:32:32.868000,00:32:36.620000,"An angel. I heard the deep
+space pilots talk about them.",0.0,-0.5
+384,00:32:36.705000,00:32:39.623000,"They're the most beautiful creatures
+in the universe.",0.0,-0.5
+385,00:32:39.708000,00:32:42.293000,"They live on the moons of lego, I think.",0.0,-0.5
+386,00:32:42.377000,00:32:44.753000,You're a funny little boy.,0.0,-0.5
+387,00:32:44.838000,00:32:46.797000,How do you know so much?,0.0,-0.5
+388,00:32:46.882000,00:32:50.759000,"I listen to all the traders and star pilots
+who come through here.",0.0,-0.5
+389,00:32:50.844000,00:32:55.139000,"I'm a pilot, you know, and someday
+I'm gonna fly away from this place.",0.0,-0.5
+390,00:32:55.265000,00:32:59.226000,"You're a pilot?
+Mm-hmm. All my life.",0.0,-0.5
+391,00:32:59.311000,00:33:01.687000,How long have you been here?,0.0,-0.5
+392,00:33:01.771000,00:33:05.816000,"Since I was very little. Three, I think.",0.0,-0.5
+393,00:33:05.901000,00:33:08.652000,"My mom and I were sold
+to Gardulla the Hutt,",0.0,-0.5
+394,00:33:08.737000,00:33:11.447000,but she lost us betting on the Podraces.,0.0,-0.5
+395,00:33:11.531000,00:33:13.324000,You're a slave?,0.0,-0.5
+396,00:33:13.450000,00:33:17.661000,"I'm a person, and my name is Anakin.
+I'm sorry.",0.0,-0.5
+397,00:33:17.746000,00:33:21.499000,"I don't fully understand.
+This is a strange place to me.",0.0,-0.5
+398,00:33:21.583000,00:33:24.335000,<i>Hmm. Hmm.</i>,0.0,-0.5
+399,00:33:24.419000,00:33:27.838000,Where-Wheres yousa goin?,0.0,-0.5
+400,00:33:27.964000,00:33:30.299000,Ugh!,0.0,-0.5
+401,00:33:32.427000,00:33:35.471000,I got ya. <i>Hey!</i>,0.0,-0.5
+402,00:33:35.555000,00:33:37.348000,"<i>What?</i>
+Hit the nose.",0.0,-0.5
+403,00:33:37.432000,00:33:40.017000,Oh! Uh.,0.0,-0.5
+404,00:33:42.020000,00:33:45.606000,"A T-14 hyper-drive generator.
+Thee in luck.",0.0,-0.5
+405,00:33:45.690000,00:33:48.359000,I'm the only one hereabouts who has one.,0.0,-0.5
+406,00:33:48.443000,00:33:51.946000,"But thee might as well buy a new ship.
+It would be cheaper, huh?",0.0,-0.5
+407,00:33:52.030000,00:33:55.032000,"Saying of which,",0.0,-0.5
+408,00:33:55.116000,00:33:57.493000,"how's thee gonna pay for all this, huh?",0.0,-0.5
+409,00:33:57.577000,00:33:59.703000,"I have 20,000 Republic dataries.",0.0,-0.5
+410,00:33:59.788000,00:34:01.664000,Republic credits?,0.0,-0.5
+411,00:34:01.748000,00:34:04.708000,"Republic credits are no good out here.
+I need something more real.",0.0,-0.5
+412,00:34:04.793000,00:34:07.920000,"I don't have anything else,
+but credits will do fine.",0.0,-0.5
+413,00:34:08.046000,00:34:11.715000,"No, they won't.
+Credits will do fine.",0.0,-0.5
+414,00:34:11.800000,00:34:13.634000,"No, they won't!",0.0,-0.5
+415,00:34:13.718000,00:34:17.972000,"What, you think you're some kind of Jedi,
+waving your hand around like that?",0.0,-0.5
+416,00:34:18.056000,00:34:22.309000,"I'm a Toydarian.
+Mind tricks don't work on me. Only money.",0.0,-0.5
+417,00:34:22.394000,00:34:26.564000,"No money, no parts, no deal.",0.0,-0.5
+418,00:34:26.648000,00:34:31.193000,"And no one else has a T-14 hyper-drive,
+I promise you that.",0.0,-0.5
+419,00:34:38.034000,00:34:41.829000,"Wouldn't have lasted long anyways
+if I wasn't so good at building things.",0.0,-0.5
+420,00:34:41.913000,00:34:44.415000,Oh! Aw! Ooh! Uh!,0.0,-0.5
+421,00:34:44.541000,00:34:48.127000,"Ai, ai! Whoa, ai!
+We're leaving. JarJar.",0.0,-0.5
+422,00:34:48.211000,00:34:50.462000,<i>Whaaa!</i>,0.0,-0.5
+423,00:34:50.547000,00:34:53.132000,"I'm glad to have met you, Anakin.",0.0,-0.5
+424,00:34:53.216000,00:34:55.134000,I was glad to meet you too.,0.0,-0.5
+425,00:34:57.220000,00:35:00.222000,What? Wha-Oh.,0.0,-0.5
+426,00:35:03.643000,00:35:08.022000,Outlanders. They think we know nothing.,0.0,-0.5
+427,00:35:08.106000,00:35:10.065000,They seemed nice to me.,0.0,-0.5
+428,00:35:10.150000,00:35:12.109000,Clean the racks...,0.0,-0.5
+429,00:35:12.193000,00:35:13.569000,then you can go home.,0.0,-0.5
+430,00:35:13.653000,00:35:15.529000,Yippee!,0.0,-0.5
+431,00:35:21.494000,00:35:23.954000,"And you're sure
+there's nothing left on board?",0.0,-0.5
+432,00:35:24.039000,00:35:25.956000,A few containers of supplies.,0.0,-0.5
+433,00:35:26.041000,00:35:29.126000,"The queen's wardrobe, maybe,
+but not enough for you to barter with,",0.0,-0.5
+434,00:35:29.210000,00:35:31.545000,not in the amount you're talking about.,0.0,-0.5
+435,00:35:31.630000,00:35:34.131000,"All right. I'm sure
+another solution will present itself.",0.0,-0.5
+436,00:35:34.215000,00:35:36.091000,I'll check back later.,0.0,-0.5
+437,00:35:36.176000,00:35:38.594000,Noah gain! Noah gain.,0.0,-0.5
+438,00:35:38.678000,00:35:41.513000,"Da beings hereabouts, cawazy!",0.0,-0.5
+439,00:35:41.598000,00:35:44.141000,Wesa be wobbed un crunched!,0.0,-0.5
+440,00:35:44.225000,00:35:47.394000,"Not likely. We have nothing of value.
+That's our problem.",0.0,-0.5
+441,00:35:55.820000,00:35:59.281000,"Hmm? Ah, mooie-mooie.",0.0,-0.5
+442,00:36:00.659000,00:36:02.534000,"<i>Hey, hey!</i>",0.0,-0.5
+443,00:36:02.619000,00:36:04.078000,Are you going to pay for that?,0.0,-0.5
+444,00:36:04.162000,00:36:05.996000,Huh? Wanga?,0.0,-0.5
+445,00:36:06.081000,00:36:07.956000,It costs seven wupiupi.,0.0,-0.5
+446,00:36:10.669000,00:36:13.170000,<i>Ah! Chubaa-</i>,0.0,-0.5
+447,00:36:13.254000,00:36:15.589000,Oops.,0.0,-0.5
+448,00:36:19.260000,00:36:21.053000,Is this yours?,0.0,-0.5
+449,00:36:21.137000,00:36:22.846000,"Who, mesa?",0.0,-0.5
+450,00:36:24.891000,00:36:26.892000,Ouch! Ouch!,0.0,-0.5
+451,00:36:26.976000,00:36:29.144000,"Careful, Sebulba.",0.0,-0.5
+452,00:36:29.229000,00:36:31.271000,He's a big-time outlander.,0.0,-0.5
+453,00:36:31.356000,00:36:34.942000,"I'd hate to see you diced
+before we race again.",0.0,-0.5
+454,00:36:35.026000,00:36:38.946000,"Next time we race, boy,
+it will be the end of you.",0.0,-0.5
+455,00:36:39.030000,00:36:42.116000,"If you weren't a slave,
+I'd squash you now.",0.0,-0.5
+456,00:36:42.784000,00:36:45.661000,"Yeah, it'd be a pity
+if you had to pay for me.",0.0,-0.5
+457,00:36:46.746000,00:36:49.915000,"- Hi.
+- Hi there.",0.0,-0.5
+458,00:36:49.999000,00:36:52.876000,"<i>Your buddy here was about to be</i>
+<i>turned into orange goo.</i>",0.0,-0.5
+459,00:36:52.961000,00:36:56.463000,"He picked a fight with a Dug,
+an especially dangerous Dug called Sebulba.",0.0,-0.5
+460,00:36:56.548000,00:37:00.217000,"Mesa haten crunchen.
+Das da las ting mesa want.",0.0,-0.5
+461,00:37:00.301000,00:37:04.346000,"Nevertheless, the boy is right.
+You were heading into trouble.",0.0,-0.5
+462,00:37:04.431000,00:37:06.306000,"Thanks, my young friend.",0.0,-0.5
+463,00:37:06.391000,00:37:08.475000,<i>But-But-</i>,0.0,-0.5
+464,00:37:08.560000,00:37:11.979000,But mesa doen nutten!,0.0,-0.5
+465,00:37:18.987000,00:37:21.613000,This storm will slow them down.,0.0,-0.5
+466,00:37:21.698000,00:37:24.408000,Looks pretty bad.,0.0,-0.5
+467,00:37:24.534000,00:37:27.119000,"Panaka. Receiving
+a message from home.",0.0,-0.5
+468,00:37:27.203000,00:37:29.455000,We'll be right there.,0.0,-0.5
+469,00:37:35.378000,00:37:37.546000,"<i>Here, you'll like these pallies.</i>",0.0,-0.5
+470,00:37:37.630000,00:37:40.299000,"Here.
+Thank you.",0.0,-0.5
+471,00:37:41.426000,00:37:43.719000,"Oh, my bones are aching.",0.0,-0.5
+472,00:37:43.803000,00:37:48.348000,"Storm's coming up, Ani.
+You better get home quick.",0.0,-0.5
+473,00:37:48.475000,00:37:51.393000,"Do you have shelter?
+We'll head back to our ship.",0.0,-0.5
+474,00:37:51.478000,00:37:54.104000,"Is it far?
+It's on the outskirts.",0.0,-0.5
+475,00:37:54.189000,00:37:56.607000,You'll never reach the outskirts in time.,0.0,-0.5
+476,00:37:56.691000,00:38:00.611000,"Sandstorms are very, Very dangerous.",0.0,-0.5
+477,00:38:00.695000,00:38:03.197000,Come on. I'll take you to my place.,0.0,-0.5
+478,00:38:16.711000,00:38:19.087000,Mom!,0.0,-0.5
+479,00:38:19.172000,00:38:22.883000,"<i>Mom, I'm home!
+Ahh, dissen cozy.</i>",0.0,-0.5
+480,00:38:23.009000,00:38:25.385000,"- These are my friends, Mom.
+- Hello.",0.0,-0.5
+481,00:38:25.512000,00:38:29.097000,"I'm Qui-Gon Jinn.
+I'm building a droid. You wanna see?",0.0,-0.5
+482,00:38:29.182000,00:38:31.558000,"Your son was kind enough
+to offer us shelter.",0.0,-0.5
+483,00:38:31.684000,00:38:35.187000,"Come on. I'll show you 3PO.
+Oh, mooie-mooie.",0.0,-0.5
+484,00:38:42.862000,00:38:46.156000,Isn't he great? He's not finished yet.,0.0,-0.5
+485,00:38:46.241000,00:38:48.116000,He's wonderful.,0.0,-0.5
+486,00:38:48.243000,00:38:51.119000,<i>You really like him?</i>,0.0,-0.5
+487,00:38:51.204000,00:38:54.206000,He's a protocol droid to help Mom. Watch.,0.0,-0.5
+488,00:38:55.625000,00:38:59.878000,Oh. Oh. Uh-Where is everybody?,0.0,-0.5
+489,00:38:59.963000,00:39:03.298000,Whoops. Yeah.,0.0,-0.5
+490,00:39:03.383000,00:39:05.592000,"Oh, hello.",0.0,-0.5
+491,00:39:05.677000,00:39:09.012000,"I am C-3PO, human-cyborg relations.",0.0,-0.5
+492,00:39:09.097000,00:39:10.973000,How might I serve you?,0.0,-0.5
+493,00:39:11.099000,00:39:13.934000,"He's perfect.
+Oh. Perfect.",0.0,-0.5
+494,00:39:14.018000,00:39:17.563000,"When the storm is over, I'll show you my racer.
+I'm building a Podracer.",0.0,-0.5
+495,00:39:17.647000,00:39:21.525000,I'm not sure this floor is entirely stable.,0.0,-0.5
+496,00:39:21.609000,00:39:24.820000,"Oh, hello.
+I don't believe we have been introduced.",0.0,-0.5
+497,00:39:26.698000,00:39:29.032000,R2-D2. A pleasure to meet you.,0.0,-0.5
+498,00:39:29.117000,00:39:32.160000,"I am C-3PO, human-cyborg relations.",0.0,-0.5
+499,00:39:34.789000,00:39:38,"I beg your pardon,
+but what do you mean, ' ""naked""?",0.0,-0.5
+500,00:39:39.669000,00:39:42.963000,My parts are showing? My goodness! Oh!,0.0,-0.5
+501,00:39:47.510000,00:39:50.053000,The death toll is catastrophic.,0.0,-0.5
+502,00:39:50.138000,00:39:52.514000,We must bow to their wishes.,0.0,-0.5
+503,00:39:52.599000,00:39:54.683000,You must contact me.,0.0,-0.5
+504,00:39:54.767000,00:39:57.519000,It's a trick. Send no reply.,0.0,-0.5
+505,00:39:57.604000,00:40:01.106000,Send no transmissions of any kind.,0.0,-0.5
+506,00:40:01.190000,00:40:04.776000,"It sounds like bait to
+establish a connection trace.",0.0,-0.5
+507,00:40:04.861000,00:40:08.864000,"What if it is true, and
+the people are dying?",0.0,-0.5
+508,00:40:08.948000,00:40:11.491000,"Either way, we're running out of time.",0.0,-0.5
+509,00:40:25.089000,00:40:27.257000,Tatooine is sparsely populated.,0.0,-0.5
+510,00:40:27.342000,00:40:30.177000,"If the trace was correct,
+I will find them quickly, Master.",0.0,-0.5
+511,00:40:30.261000,00:40:32.179000,Move against the Jedi first.,0.0,-0.5
+512,00:40:32.263000,00:40:35.015000,"You will then have no difficulty
+in taking the queen to Naboo...",0.0,-0.5
+513,00:40:35.099000,00:40:37.017000,to sign the treaty.,0.0,-0.5
+514,00:40:37.101000,00:40:39.311000,"At last we will reveal
+ourselves to the Jedi.",0.0,-0.5
+515,00:40:39.395000,00:40:41.855000,At last we will have revenge.,0.0,-0.5
+516,00:40:41.940000,00:40:44.858000,"You have been well-trained,
+my young apprentice.",0.0,-0.5
+517,00:40:44.943000,00:40:47.361000,They will be no match for you.,0.0,-0.5
+518,00:40:52.200000,00:40:57.204000,"All slaves have a transmitter
+placed inside their bodies somewhere.",0.0,-0.5
+519,00:40:57.288000,00:41:00.290000,"I've been working on a scanner
+to try and locate mine.",0.0,-0.5
+520,00:41:00.416000,00:41:03.919000,"Any attempt to escape-
+And they blow you up!",0.0,-0.5
+521,00:41:04.003000,00:41:06.463000,"Boom!
+How wude!",0.0,-0.5
+522,00:41:06.547000,00:41:09.007000,"I can't believe
+there's still slavery in the galaxy.",0.0,-0.5
+523,00:41:09.092000,00:41:11.009000,The Republic's antislavery laws-,0.0,-0.5
+524,00:41:11.094000,00:41:13.470000,The Republic doesn't exist out here.,0.0,-0.5
+525,00:41:13.554000,00:41:16.598000,<i>We must survive on our own.</i>,0.0,-0.5
+526,00:41:16.683000,00:41:19.351000,Xcuse me.,0.0,-0.5
+527,00:41:19.435000,00:41:22.854000,Has anybody ever seen a Podrace?,0.0,-0.5
+528,00:41:22.939000,00:41:27.609000,"<i>They have Podracing on Malastare.</i>
+<i>Very fast, very dangerous.</i>",0.0,-0.5
+529,00:41:27.694000,00:41:30.278000,I'm the only human who can do it.,0.0,-0.5
+530,00:41:30.363000,00:41:33.573000,"You must have Jedi reflexes
+if you race pods.",0.0,-0.5
+531,00:41:33.658000,00:41:35.951000,Don't do that again.,0.0,-0.5
+532,00:41:41.374000,00:41:43.959000,"You're a Jedi knight, aren't you?",0.0,-0.5
+533,00:41:46.004000,00:41:48.463000,What makes you think that?,0.0,-0.5
+534,00:41:48.548000,00:41:52.843000,"I saw your laser sword.
+Only Jedis carry that kind of weapon.",0.0,-0.5
+535,00:41:52.927000,00:41:55.846000,"Perhaps I killed a Jedi
+and took it from him.",0.0,-0.5
+536,00:41:55.930000,00:41:57.848000,I don't think so.,0.0,-0.5
+537,00:41:57.932000,00:42:00.100000,No one can kill a Jedi.,0.0,-0.5
+538,00:42:00.184000,00:42:03.020000,I wish that were so.,0.0,-0.5
+539,00:42:03.104000,00:42:05.188000,I had a dream I was a Jedi.,0.0,-0.5
+540,00:42:05.273000,00:42:08.400000,I came back here and freed all the slaves.,0.0,-0.5
+541,00:42:08.526000,00:42:11.945000,"Have you come to free us?
+No, I'm afraid not.",0.0,-0.5
+542,00:42:12.030000,00:42:16.408000,"I think you have.
+Why else would you be here?",0.0,-0.5
+543,00:42:21.247000,00:42:23.999000,"I can see there's no fooling you, Anakin.",0.0,-0.5
+544,00:42:24.083000,00:42:27.169000,"We're on our way to Coruscant,
+the central system in the Republic,",0.0,-0.5
+545,00:42:27.253000,00:42:29.254000,on a very important mission.,0.0,-0.5
+546,00:42:29.338000,00:42:32.466000,"How did you end up out
+here in the outer rim?",0.0,-0.5
+547,00:42:32.550000,00:42:36.178000,"<i>Our ship was damaged, and we're
+stranded here until we can repair it.</i>",0.0,-0.5
+548,00:42:36.262000,00:42:38.388000,I can help.,0.0,-0.5
+549,00:42:38.514000,00:42:42.267000,<i>I can fix anything. I believe you can.</i>,0.0,-0.5
+550,00:42:42.351000,00:42:45.228000,"But first we must acquire
+the parts we need.",0.0,-0.5
+551,00:42:45.313000,00:42:48.065000,Wit no-nutten mula to trade.,0.0,-0.5
+552,00:42:48.149000,00:42:51.693000,"These junk dealers must have
+a weakness of some kind.",0.0,-0.5
+553,00:42:51.778000,00:42:56.281000,"Gambling. Everything here revolves around
+betting on those awful races.",0.0,-0.5
+554,00:42:56.365000,00:43:00.577000,<i>Podracing. Greed can be a powerful ally.</i>,0.0,-0.5
+555,00:43:00.661000,00:43:03.580000,I built a racer. It's the fastest ever.,0.0,-0.5
+556,00:43:03.664000,00:43:06.166000,There's a big race tomorrow on Boonta Eve.,0.0,-0.5
+557,00:43:06.292000,00:43:08.877000,"- You could enter my pod.
+<i>- Anakin!</i>",0.0,-0.5
+558,00:43:08.961000,00:43:12.089000,"- Watto won't let you.
+- Watto doesn't know I've built it.",0.0,-0.5
+559,00:43:12.173000,00:43:14.049000,You could make him think it was yours...,0.0,-0.5
+560,00:43:14.133000,00:43:16.426000,<i>and get him to let me pilot it for you.</i>,0.0,-0.5
+561,00:43:16.511000,00:43:20.722000,"<i>I don't want you to race. It's awful.</i>
+<i>I die every time Watto makes you do it.</i>",0.0,-0.5
+562,00:43:20.807000,00:43:23.016000,"<i>But, Mom, I love it.</i>",0.0,-0.5
+563,00:43:23.101000,00:43:26.645000,"The prize money would more than pay
+for the parts they need.",0.0,-0.5
+564,00:43:26.729000,00:43:29.064000,Anakin.,0.0,-0.5
+565,00:43:29.148000,00:43:31.983000,Your mother's right.,0.0,-0.5
+566,00:43:32.068000,00:43:35.195000,"Is there anyone friendly to the Republic
+who can help us?",0.0,-0.5
+567,00:43:36.489000,00:43:38.406000,No.,0.0,-0.5
+568,00:43:43.412000,00:43:48.041000,"Mom, you say the biggest problem in this
+universe is nobody helps each other.",0.0,-0.5
+569,00:43:52.046000,00:43:55.799000,"I'm sure Qui-Gon doesn't want
+to put your son in danger.",0.0,-0.5
+570,00:43:55.883000,00:43:57.801000,We'll find some other way.,0.0,-0.5
+571,00:43:57.885000,00:44:00.178000,No.,0.0,-0.5
+572,00:44:00.263000,00:44:02.764000,There is no other way.,0.0,-0.5
+573,00:44:02.849000,00:44:07.185000,"I may not like it, but he can help you.",0.0,-0.5
+574,00:44:07.270000,00:44:09.896000,He was meant to help you.,0.0,-0.5
+575,00:44:23.494000,00:44:25.370000,Are you sure about this?,0.0,-0.5
+576,00:44:25.454000,00:44:28.165000,<i>Trusting our fate to a boy we hardly know?</i>,0.0,-0.5
+577,00:44:28.249000,00:44:30.292000,The queen will not approve.,0.0,-0.5
+578,00:44:30.376000,00:44:33.336000,The queen doesn't need to know.,0.0,-0.5
+579,00:44:33.421000,00:44:35.005000,"Well, I don't approve.",0.0,-0.5
+580,00:44:35.131000,00:44:38.842000,"The boy tells me you
+want to sponsor him in the race.",0.0,-0.5
+581,00:44:38.926000,00:44:43.972000,"How can you do this?
+Not on the Republic credits, I think, huh?",0.0,-0.5
+582,00:44:44.056000,00:44:46.266000,<i>My ship will be the entry fee.</i>,0.0,-0.5
+583,00:44:46.350000,00:44:48.476000,"<i>Oh, not bad!</i>",0.0,-0.5
+584,00:44:48.561000,00:44:51.563000,"Not bad, huh? A Nubian, huh?",0.0,-0.5
+585,00:44:51.647000,00:44:54.983000,"It's in good order,
+except for the parts I need.",0.0,-0.5
+586,00:44:55.067000,00:44:57.611000,<i>What would the boy ride?</i>,0.0,-0.5
+587,00:44:57.695000,00:45:01.281000,"He smashed up my pod in the last race.
+It will take some long time to fix it.",0.0,-0.5
+588,00:45:01.365000,00:45:05.535000,"It wasn't my fault, really.
+Sebulba flashed me with his vents.",0.0,-0.5
+589,00:45:05.620000,00:45:09.039000,"<i>I actually saved the pod, mostly.</i>",0.0,-0.5
+590,00:45:09.123000,00:45:12.626000,"<i>Mmm. That you did, huh.</i>",0.0,-0.5
+591,00:45:12.710000,00:45:15.545000,"The boy's good. No doubts there, huh?",0.0,-0.5
+592,00:45:15.630000,00:45:19.966000,"I have acquired a pod in a game of chance,
+the fastest ever built.",0.0,-0.5
+593,00:45:20.051000,00:45:25.180000,"<i>I hope you didn't kill
+anyone I know for it, huh?</i>",0.0,-0.5
+594,00:45:27.141000,00:45:30.227000,"So, you supply the pod and the entry fee,",0.0,-0.5
+595,00:45:30.311000,00:45:32.229000,and I supply the boy.,0.0,-0.5
+596,00:45:32.313000,00:45:36.233000,"<i>We split the winnings,</i>
+<i>um, 50-50, I think, huh?</i>",0.0,-0.5
+597,00:45:36.317000,00:45:40.987000,"If it's going to be 50-50,
+I suggest you front the cash for the entry.",0.0,-0.5
+598,00:45:41.072000,00:45:43.156000,"If we win,",0.0,-0.5
+599,00:45:43.241000,00:45:47.077000,"you keep all the winnings,
+minus the cost of the parts I need.",0.0,-0.5
+600,00:45:47.161000,00:45:50.413000,"And if we lose, you keep my ship.",0.0,-0.5
+601,00:45:51.666000,00:45:54.251000,"Either way, you win.",0.0,-0.5
+602,00:46:00.049000,00:46:02.384000,Deal!,0.0,-0.5
+603,00:46:07.181000,00:46:10.850000,"Your friend is a foolish one, methinks.",0.0,-0.5
+604,00:46:18.776000,00:46:21.778000,"What if this plan fails, Master?",0.0,-0.5
+605,00:46:21.862000,00:46:24.614000,We could be stuck here a very long time.,0.0,-0.5
+606,00:46:24.699000,00:46:27.242000,"Well, it's too dangerous
+to call for help,",0.0,-0.5
+607,00:46:27.326000,00:46:30.787000,"and a ship without a power supply
+isn't going to get us anywhere.",0.0,-0.5
+608,00:46:30.871000,00:46:32.872000,And...,0.0,-0.5
+609,00:46:32.957000,00:46:35.834000,there's something about this boy.,0.0,-0.5
+610,00:46:40.923000,00:46:44.009000,You should be very proud of your son.,0.0,-0.5
+611,00:46:44.093000,00:46:47.137000,<i>He gives without any thought of reward.</i>,0.0,-0.5
+612,00:46:47.221000,00:46:50.098000,"Well, he knows nothing of greed.",0.0,-0.5
+613,00:46:50.224000,00:46:54.185000,"He has a-
+He has special powers.",0.0,-0.5
+614,00:46:55.313000,00:46:57.188000,Yes.,0.0,-0.5
+615,00:46:57.273000,00:46:59.983000,He can see things before they happen.,0.0,-0.5
+616,00:47:00.067000,00:47:02.902000,"That's why he appears to
+have such quick reflexes.",0.0,-0.5
+617,00:47:02.987000,00:47:04.863000,<i>It's a Jedi trait.</i>,0.0,-0.5
+618,00:47:04.989000,00:47:07.824000,"<i>He deserves better than a slave's life.</i>
+Why, certainly.",0.0,-0.5
+619,00:47:07.908000,00:47:11.286000,"Had he been born in the Republic,
+we would have identified him early.",0.0,-0.5
+620,00:47:13.664000,00:47:16.333000,"The Force is unusually strong with him.
+That much is clear.",0.0,-0.5
+621,00:47:17.418000,00:47:19.377000,Who was his father?,0.0,-0.5
+622,00:47:22.048000,00:47:23.965000,There was no father.,0.0,-0.5
+623,00:47:25.426000,00:47:28.762000,"<i>I carried him, I gave birth, I raised him.</i>",0.0,-0.5
+624,00:47:28.846000,00:47:32.140000,I can't explain what happened.,0.0,-0.5
+625,00:47:33.809000,00:47:35.602000,Can you help him?,0.0,-0.5
+626,00:47:35.686000,00:47:37.645000,I don't know.,0.0,-0.5
+627,00:47:40.107000,00:47:43.777000,I didn't actually come here to free slaves.,0.0,-0.5
+628,00:47:50.910000,00:47:52.869000,"Hey, hi, Ani.",0.0,-0.5
+629,00:47:52.953000,00:47:55.455000,Hi.,0.0,-0.5
+630,00:47:55.581000,00:47:58.792000,"Wow, a real astro droid.",0.0,-0.5
+631,00:48:00.628000,00:48:04.381000,"How did you get so lucky?
+That isn't the half of it.",0.0,-0.5
+632,00:48:04.507000,00:48:07.509000,"I'm in the Boonta race tomorrow.
+<i>What?</i>",0.0,-0.5
+633,00:48:07.593000,00:48:09.344000,With this?,0.0,-0.5
+634,00:48:09.428000,00:48:12.222000,"You're such a joker, Ani.",0.0,-0.5
+635,00:48:12.348000,00:48:15.600000,"You've been working on that thing for years.
+It's never gonna run.",0.0,-0.5
+636,00:48:15.684000,00:48:17.894000,<i>Come on. Let's go and play ball.</i>,0.0,-0.5
+637,00:48:17.978000,00:48:21.272000,"Keep racing, Ani.
+You're gonna be bug squash.",0.0,-0.5
+638,00:48:27.780000,00:48:29.656000,"Hey, JarJar.",0.0,-0.5
+639,00:48:29.782000,00:48:32.200000,<i>Keep away from those energy binders.</i>,0.0,-0.5
+640,00:48:32.284000,00:48:35.787000,"If your hand gets caught in the beam,
+it's gonna go numb for hours.",0.0,-0.5
+641,00:48:35.871000,00:48:37.956000,Sorry. Okay.,0.0,-0.5
+642,00:48:41.377000,00:48:43.545000,My tongue is fat.,0.0,-0.5
+643,00:48:43.629000,00:48:46.798000,My tongue-Wrench.,0.0,-0.5
+644,00:48:46.882000,00:48:49.551000,"Where is da wrench? Oh, dare it is.",0.0,-0.5
+645,00:48:49.635000,00:48:52.262000,Hey. Uh-oh.,0.0,-0.5
+646,00:48:52.346000,00:48:55.557000,"Uh, Ani, I'm stuck. Ani...",0.0,-0.5
+647,00:48:55.641000,00:48:59.686000,"You know, I find that JarJar creature
+to be a little odd.",0.0,-0.5
+648,00:49:01.522000,00:49:04.399000,"You don't even know
+if this thing's gonna run.",0.0,-0.5
+649,00:49:04.483000,00:49:06.609000,"It will.
+I think it's time we found out.",0.0,-0.5
+650,00:49:06.694000,00:49:08.945000,"Here, use this power charge.
+Yes, sir!",0.0,-0.5
+651,00:49:09.029000,00:49:11.114000,"Come on, Kitster. Let's move away.",0.0,-0.5
+652,00:49:11.198000,00:49:13.408000,My-My mouth.,0.0,-0.5
+653,00:49:13.492000,00:49:17.162000,"<i>Ani, I'm stuck.</i>",0.0,-0.5
+654,00:49:18.747000,00:49:22.292000,"Uh, hey. My tongue is fat. Ani!",0.0,-0.5
+655,00:49:22.376000,00:49:25.378000,You're quite right. He's very odd indeed.,0.0,-0.5
+656,00:49:26.422000,00:49:29.132000,Oh. Th-Thank you.,0.0,-0.5
+657,00:49:29.216000,00:49:31.134000,Go.,0.0,-0.5
+658,00:49:45.608000,00:49:49.277000,It's working! It's working!,0.0,-0.5
+659,00:49:59.914000,00:50:02.415000,"Stay still, Ani. Let me clean this cut.",0.0,-0.5
+660,00:50:02.500000,00:50:06.503000,"There's so many.
+Do they all have a system of planets?",0.0,-0.5
+661,00:50:06.587000,00:50:08.463000,Most of them.,0.0,-0.5
+662,00:50:08.547000,00:50:10.590000,Has anyone been to 'em all?,0.0,-0.5
+663,00:50:10.674000,00:50:13.510000,Not likely.,0.0,-0.5
+664,00:50:13.594000,00:50:16.679000,I wanna be the first one to see 'em all.,0.0,-0.5
+665,00:50:17.973000,00:50:20.433000,"<i>Ani, bedtime!</i> Ow!",0.0,-0.5
+666,00:50:20.518000,00:50:23.269000,There we are. Good as new.,0.0,-0.5
+667,00:50:23.354000,00:50:26.231000,"Ani, I'm not gonna tell you again.",0.0,-0.5
+668,00:50:26.357000,00:50:29.859000,"What are you doing?
+Checking your blood for infections.",0.0,-0.5
+669,00:50:29.944000,00:50:33.613000,Go on. You have a big day tomorrow.,0.0,-0.5
+670,00:50:33.697000,00:50:35.615000,"Sleep well, Ani.",0.0,-0.5
+671,00:50:38.327000,00:50:40.370000,"Obi-Wan?
+Yes, Master?",0.0,-0.5
+672,00:50:40.454000,00:50:43.122000,"I need an analysis
+of this blood sample I'm sending you.",0.0,-0.5
+673,00:50:43.249000,00:50:46.584000,Wait a minute.,0.0,-0.5
+674,00:50:46.669000,00:50:48.670000,I need a midi-chlorian count.,0.0,-0.5
+675,00:50:51.632000,00:50:54.300000,The reading is off the chart.,0.0,-0.5
+676,00:50:54.385000,00:50:56.261000,"Over 20,000.",0.0,-0.5
+677,00:50:56.345000,00:51:00.056000,"Even Master Yoda doesn't have
+a midi-chlorian count that high.",0.0,-0.5
+678,00:51:00.140000,00:51:01.933000,No Jedi has.,0.0,-0.5
+679,00:51:02.017000,00:51:04.102000,What does that mean?,0.0,-0.5
+680,00:51:04.186000,00:51:06.145000,I'm not sure.,0.0,-0.5
+681,00:52:16.508000,00:52:19.469000,"I wanna see your spaceship
+the moment the race is over.",0.0,-0.5
+682,00:52:19.553000,00:52:23.306000,"Patience, my blue friend. You'll have
+your winnings before the suns set.",0.0,-0.5
+683,00:52:23.390000,00:52:25.642000,And we'll be far away from here.,0.0,-0.5
+684,00:52:25.726000,00:52:29.312000,"Not if your ship belongs to me,
+I think, huh?",0.0,-0.5
+685,00:52:29.396000,00:52:33.274000,"I warn you, no funny business.",0.0,-0.5
+686,00:52:33.400000,00:52:36.527000,"You don't think Anakin can win?
+Don't get me wrong, no.",0.0,-0.5
+687,00:52:36.612000,00:52:39.155000,I have great faith in the boy.,0.0,-0.5
+688,00:52:39.239000,00:52:41.407000,"He's a credit to your race,",0.0,-0.5
+689,00:52:41.492000,00:52:44.744000,"but, uh, Sebulba there is
+going to win, I think.",0.0,-0.5
+690,00:52:46.830000,00:52:48.581000,"Oh, no!",0.0,-0.5
+691,00:52:52.711000,00:52:54.587000,Why do you think that?,0.0,-0.5
+692,00:52:54.672000,00:52:58.508000,He always wins!,0.0,-0.5
+693,00:52:58.592000,00:53:01.094000,I am betting heavily on Sebulba.,0.0,-0.5
+694,00:53:02.888000,00:53:06.224000,"- I'll take that bet.
+- You what?",0.0,-0.5
+695,00:53:06.308000,00:53:09.727000,"I'll wager my new racing pod against, say,",0.0,-0.5
+696,00:53:09.812000,00:53:11.729000,the boy and his mother.,0.0,-0.5
+697,00:53:11.814000,00:53:15.525000,"No pod is worth two slaves,
+not by a long shot.",0.0,-0.5
+698,00:53:15.609000,00:53:18.194000,"The boy, then.",0.0,-0.5
+699,00:53:18.278000,00:53:20.988000,"Hmm. Well, uh...",0.0,-0.5
+700,00:53:24.410000,00:53:26.953000,"We'll let fate decide, huh?",0.0,-0.5
+701,00:53:27.037000,00:53:30.498000,I just happen to have a chance cube here.,0.0,-0.5
+702,00:53:30.582000,00:53:33.668000,"Blue, it's the boy.",0.0,-0.5
+703,00:53:33.752000,00:53:37.964000,"Red, uh... his mother.",0.0,-0.5
+704,00:53:47.641000,00:53:52.311000,"You won this small toss, outlander,
+but you won't win the race!",0.0,-0.5
+705,00:53:52.396000,00:53:54.522000,So it makes little difference!,0.0,-0.5
+706,00:54:04.324000,00:54:09.245000,"Better stop your friend's
+betting or I'll end up owning him too.",0.0,-0.5
+707,00:54:13,00:54:15.543000,"What'd he mean by that?
+I'll tell you later.",0.0,-0.5
+708,00:54:15.627000,00:54:17.712000,Good morning.,0.0,-0.5
+709,00:54:17.796000,00:54:19.797000,"Oh, my.",0.0,-0.5
+710,00:54:19.882000,00:54:21.883000,Space travel sounds rather perilous.,0.0,-0.5
+711,00:54:23.927000,00:54:27.972000,"I can assure you, they will never get me
+onto one of those dreadful starships.",0.0,-0.5
+712,00:54:28.056000,00:54:31.476000,"This is so wizard, Ani.
+I'm sure you'll do it this time.",0.0,-0.5
+713,00:54:31.560000,00:54:35.855000,"- Do what?
+- Finish the race, of course.",0.0,-0.5
+714,00:54:35.939000,00:54:40.568000,"- You've never won a race?
+- Well, not exactly.",0.0,-0.5
+715,00:54:40.652000,00:54:42.695000,Not even finished?,0.0,-0.5
+716,00:54:42.780000,00:54:45.323000,Kitster's right. I will this time.,0.0,-0.5
+717,00:54:45.407000,00:54:47.492000,Of course you will.,0.0,-0.5
+718,00:55:14.853000,00:55:16.979000,Podracers.,0.0,-0.5
+719,00:55:17.064000,00:55:18.981000,That's absolutely right.,0.0,-0.5
+720,00:55:19.066000,00:55:24.153000,"And a big turnout here from all corners
+of the outer rim territories.",0.0,-0.5
+721,00:55:24.238000,00:55:27.865000,"<i>I see the contestants are making their way</i>
+<i>out onto the starting grid.</i>",0.0,-0.5
+722,00:55:29.952000,00:55:32.829000,<i>I see Ben Quadinaros from the Tund System.</i>,0.0,-0.5
+723,00:55:38.460000,00:55:40.920000,<i>Two-time winner Boles Roor.</i>,0.0,-0.5
+724,00:55:43.423000,00:55:46.092000,<i>Sebulba!</i>,0.0,-0.5
+725,00:55:55.644000,00:55:58.771000,"And in the front row,
+nearside pole position,",0.0,-0.5
+726,00:55:58.856000,00:56:00.940000,<i>Mawhonic!</i>,0.0,-0.5
+727,00:56:02.109000,00:56:04.151000,<i>A hearty hello...</i>,0.0,-0.5
+728,00:56:04.236000,00:56:08.030000,<i>to Clegg Holdfast and his Voltec KT9 Wasp!</i>,0.0,-0.5
+729,00:56:08.115000,00:56:10.867000,Mm-hmm. Mm-hmm.,0.0,-0.5
+730,00:56:10.951000,00:56:14.036000,"<i>And back again, it's the mighty Dud Bolt...</i>",0.0,-0.5
+731,00:56:14.121000,00:56:18.749000,"<i>with that incredible racing machine,</i>
+<i>the Vulptereen 327.</i>",0.0,-0.5
+732,00:56:22.004000,00:56:24.380000,"<i>And hoping for a big win today,</i>",0.0,-0.5
+733,00:56:24.464000,00:56:28.885000,"<i>Ody Mandrell,</i>
+<i>with his record-setting pit droid team.</i>",0.0,-0.5
+734,00:56:33.724000,00:56:37.059000,"<i>And a late entry, young Anakin Skywalker,</i>",0.0,-0.5
+735,00:56:37.144000,00:56:39.645000,<i>a local boy.</i>,0.0,-0.5
+736,00:56:41.106000,00:56:43.441000,"I see the flags are moving
+out onto the track.",0.0,-0.5
+737,00:56:53.452000,00:56:55.912000,Huh?,0.0,-0.5
+738,00:56:58.498000,00:57:00.541000,Pee yousa!,0.0,-0.5
+739,00:57:03.253000,00:57:05.171000,Be safe.,0.0,-0.5
+740,00:57:05.255000,00:57:08.674000,"I will, Mom. I promise.",0.0,-0.5
+741,00:57:18.268000,00:57:21.020000,Uh-oh.,0.0,-0.5
+742,00:57:23.774000,00:57:26.484000,You won't walk away from this one...,0.0,-0.5
+743,00:57:26.568000,00:57:28.861000,you slave scum.,0.0,-0.5
+744,00:57:28.946000,00:57:32.239000,"Don't count on it, slime ball.",0.0,-0.5
+745,00:57:32.324000,00:57:34.575000,You're bantha fodder!,0.0,-0.5
+746,00:57:39.373000,00:57:41.540000,"You all set, Ani?
+Yep.",0.0,-0.5
+747,00:57:41.625000,00:57:43.542000,"Right.
+Whoa!",0.0,-0.5
+748,00:57:47.005000,00:57:50.049000,"Remember, concentrate on the moment.",0.0,-0.5
+749,00:57:50.133000,00:57:53.928000,"Feel, don't think. Use your instincts.",0.0,-0.5
+750,00:57:54.012000,00:57:55.680000,I will.,0.0,-0.5
+751,00:57:55.764000,00:57:58.015000,May the Force be with you.,0.0,-0.5
+752,00:58:06.942000,00:58:09.986000,Jabba the Hutt.,0.0,-0.5
+753,00:58:12.406000,00:58:14.907000,Mmm.,0.0,-0.5
+754,00:58:19.246000,00:58:22.832000,Welcome.,0.8,0.30000000000000004
+755,00:58:24.584000,00:58:27.461000,Begin the race!,0.0,0.30000000000000004
+756,00:58:38.348000,00:58:41.559000,"<i>Hey, it looks
+like they're clearing the grid.</i>",0.0,0.30000000000000004
+757,00:58:42.728000,00:58:44.645000,"Is he nervous?
+He's fine.",0.0,0.30000000000000004
+758,00:58:46.231000,00:58:49.150000,"You Jedi are far too reckless.
+The queen is not...",0.0,0.30000000000000004
+759,00:58:49.234000,00:58:52.153000,"The queen trusts my judgment,
+young handmaiden.",0.0,0.30000000000000004
+760,00:58:52.237000,00:58:54.155000,You should too.,0.0,0.30000000000000004
+761,00:58:54.239000,00:58:56.699000,You assume too much.,0.0,0.30000000000000004
+762,00:58:56.783000,00:58:59.869000,<i>Start your engines.</i>,0.0,0.30000000000000004
+763,00:59:39.117000,00:59:42.495000,"Oh, dissen gonna be messy.
+Me no watch'n!",0.0,0.30000000000000004
+764,00:59:52.506000,00:59:54.381000,Oh!,0.0,0.30000000000000004
+765,01:00:02.474000,01:00:05.142000,"Oh, no! No!",0.0,0.30000000000000004
+766,01:00:09.397000,01:00:12.733000,Wait. Little Skywalker has stalled.,0.0,0.30000000000000004
+767,01:00:23.161000,01:00:27.414000,"<i>Well, it looks like
+Quadinaros is having engine trouble also.</i>",0.0,0.30000000000000004
+768,01:00:28.959000,01:00:31.502000,"Come on, Ani!",0.0,0.30000000000000004
+769,01:00:36.716000,01:00:39.885000,"<i>- And there goes Skywalker!</i>
+- Go, Ani, go!",0.0,0.30000000000000004
+770,01:00:39.970000,01:00:42.179000,"<i>He will be hard-pressed</i>
+<i>to catch up with the leaders.</i>",0.0,0.30000000000000004
+771,01:00:44.182000,01:00:47.893000,Ehh!,0.0,0.30000000000000004
+772,01:00:54.025000,01:00:56.277000,Haaaa!,0.0,0.30000000000000004
+773,01:01:55.754000,01:02:00.591000,"<i>Looks like a few Tusken Raiders</i>
+<i>are camped out on the canyon dune turn.</i>",0.0,0.30000000000000004
+774,01:02:07.474000,01:02:10.517000,<i>Doowat macroon!</i>,0.0,0.30000000000000004
+775,01:02:12.812000,01:02:16.523000,"Ooh, there goes Quadinaros' power coupling.",0.0,0.30000000000000004
+776,01:02:18.193000,01:02:20.110000,<i>Cheespa wata!</i>,0.0,0.30000000000000004
+777,01:02:20.195000,01:02:21.820000,Ooh!,0.0,0.30000000000000004
+778,01:02:21.905000,01:02:25.824000,"- Chubba ni chees Sebulba!
+<i>- Paketa!</i>",0.0,0.30000000000000004
+779,01:02:25.909000,01:02:27.618000,<i>Kulkah meeka!</i>,0.0,0.30000000000000004
+780,01:02:27.827000,01:02:32.373000,Ody Mandrell coona wa wunda dungo!,0.0,0.30000000000000004
+781,01:02:39.214000,01:02:40.798000,Whoa!,0.0,0.30000000000000004
+782,01:02:44.219000,01:02:46.428000,"Oh, no!",0.0,0.30000000000000004
+783,01:02:46.554000,01:02:49.390000,Oh.,0.0,0.30000000000000004
+784,01:02:51.226000,01:02:54.353000,Where is Master Anakin?,0.0,0.30000000000000004
+785,01:02:56.356000,01:02:58.649000,Look. Here he comes.,0.0,0.30000000000000004
+786,01:03:00.902000,01:03:03.821000,"<i>It looks like
+Skywalker is moving up in the field.</i>",0.0,0.30000000000000004
+787,01:03:03.905000,01:03:06.156000,Yay! Yippee!,0.0,0.30000000000000004
+788,01:03:12.163000,01:03:15.165000,He has to complete two more circuits?,0.0,0.30000000000000004
+789,01:03:15.250000,01:03:17.209000,"Oh, dear.",0.0,0.30000000000000004
+790,01:04:07.802000,01:04:09.428000,Ah.,0.0,0.30000000000000004
+791,01:04:09.512000,01:04:11.930000,Ha!,0.0,0.30000000000000004
+792,01:04:14.392000,01:04:17.311000,Arrr!,0.0,0.30000000000000004
+793,01:04:24.778000,01:04:26.653000,Skywalker's spinning out of control!,0.0,0.30000000000000004
+794,01:05:24.587000,01:05:28.549000,"Oh, I don't care what universe you're from.
+That's gotta hurt!",0.0,0.30000000000000004
+795,01:05:35.557000,01:05:37.349000,Here he comes! Owoo!,0.0,0.30000000000000004
+796,01:05:37.434000,01:05:40.602000,"<i>At the start of the
+final lap, Sebulba's in the lead,</i>",0.0,0.30000000000000004
+797,01:05:40.687000,01:05:43.188000,<i>followed closely by Skywalker!</i>,0.0,0.30000000000000004
+798,01:05:43.273000,01:05:44.857000,"Go, Ani!",0.0,0.30000000000000004
+799,01:06:09.591000,01:06:13.552000,"Skywalker's been forced
+onto the service ramp!",0.0,0.30000000000000004
+800,01:06:17.932000,01:06:20.684000,Whoa-oa!,0.0,0.30000000000000004
+801,01:06:30.570000,01:06:32.404000,Huh?,0.0,0.30000000000000004
+802,01:06:35.241000,01:06:38.911000,"- It's Skywalker!
+- Sebulba!",0.0,0.30000000000000004
+803,01:06:38.995000,01:06:43.332000,"Amazing! A quick control thrust,
+and he's back on course!",0.0,0.30000000000000004
+804,01:06:43.416000,01:06:45.209000,Did he crash-ed?,0.0,0.30000000000000004
+805,01:06:49.631000,01:06:51.965000,<i>Wah hota!</i>,0.0,0.30000000000000004
+806,01:07:26.125000,01:07:29.336000,"Skywalker's in trouble!
+Sebulba takes the lead!",0.0,0.30000000000000004
+807,01:08:22.307000,01:08:25.017000,"He's catching Sebulba!
+<i>Inkabunga!</i>",0.0,0.30000000000000004
+808,01:08:25.101000,01:08:27.686000,"Careful, Ani. Careful, Ani!",0.0,0.30000000000000004
+809,01:08:28.980000,01:08:31.148000,<i>Wha-Chuba da noya!</i>,0.0,0.30000000000000004
+810,01:08:57.967000,01:09:01.345000,"That little human being is out of his mind.
+<i>Punda tah punda!</i>",0.0,0.30000000000000004
+811,01:09:01.471000,01:09:04.056000,"<i>They're side by side!</i>
+Bangu du bangu!",0.0,0.30000000000000004
+812,01:09:11.272000,01:09:13.398000,Wa-waaaaah!,0.0,0.30000000000000004
+813,01:09:20.865000,01:09:22.783000,Aaah!,0.0,0.30000000000000004
+814,01:09:23.993000,01:09:25.911000,<i>Poo doo!</i>,0.0,0.30000000000000004
+815,01:09:31.292000,01:09:33.210000,"Yippee!
+Yay!",0.0,0.30000000000000004
+816,01:09:33.294000,01:09:35.921000,Ya eeka buta! Whoo-hoo-hoo!,0.0,0.30000000000000004
+817,01:09:36.005000,01:09:39.174000,I can't believe it.,0.0,0.30000000000000004
+818,01:09:39.258000,01:09:41.176000,The crowds are going nuts!,0.0,0.30000000000000004
+819,01:09:41.260000,01:09:43.428000,Oh! Ah! Oh! Ah!,0.0,0.30000000000000004
+820,01:09:45.598000,01:09:49.976000,Ooh! Ah! Ooh! Ah! Ooh! Ah! Ooh! Ah!,0.0,0.30000000000000004
+821,01:09:50.061000,01:09:52.145000,"Yay, Ani!",0.0,0.30000000000000004
+822,01:09:53.439000,01:09:56.525000,"Mom, I did it! Yeah!",0.0,0.30000000000000004
+823,01:10:03.991000,01:10:05.951000,Ohh!,0.0,0.30000000000000004
+824,01:10:06.994000,01:10:08.912000,"Good going, Ani!",0.0,0.30000000000000004
+825,01:10:13.251000,01:10:15.252000,"We owe you everything, Ani.",0.0,0.30000000000000004
+826,01:10:15.336000,01:10:17.754000,"Mmm!
+<i>Aww.</i>",0.0,0.30000000000000004
+827,01:10:17.839000,01:10:20.006000,"It's so wonderful, Ani.",0.0,0.30000000000000004
+828,01:10:20.091000,01:10:22.843000,"You have brought hope
+to those who have none.",0.0,0.30000000000000004
+829,01:10:22.927000,01:10:25.178000,I'm so very proud of you.,0.0,0.30000000000000004
+830,01:10:27.265000,01:10:29.182000,<i>Aww.</i>,0.0,0.30000000000000004
+831,01:10:29.267000,01:10:31.685000,<i>Oy chuba no.</i>,0.0,0.30000000000000004
+832,01:10:35.606000,01:10:37.524000,You.,0.0,0.30000000000000004
+833,01:10:37.608000,01:10:39.943000,You swindled me!,0.0,0.30000000000000004
+834,01:10:40.027000,01:10:43.905000,"You knew the boy was going to win.
+Somehow you knew it.",0.0,0.30000000000000004
+835,01:10:43.990000,01:10:45.907000,I lost everything.,0.0,0.30000000000000004
+836,01:10:45.992000,01:10:48.910000,"Whenever you gamble,
+my friend, eventually you'll lose.",0.0,0.30000000000000004
+837,01:10:48.995000,01:10:51.913000,Bring the parts to the main hangar.,0.0,0.30000000000000004
+838,01:10:51.998000,01:10:55.333000,"I'll come by your shop later on
+so you can release the boy.",0.0,0.30000000000000004
+839,01:10:55.418000,01:10:58.795000,You can't have him. It wasn't a fair bet.,0.0,0.30000000000000004
+840,01:11:01.507000,01:11:04.426000,"Would you like to discuss it
+with the Hutts?",0.0,0.30000000000000004
+841,01:11:04.510000,01:11:06.595000,I'm sure they can settle this.,0.0,0.30000000000000004
+842,01:11:09.056000,01:11:11.016000,Take him.,0.0,0.30000000000000004
+843,01:11:17.899000,01:11:19.816000,Hidoe!,0.0,0.30000000000000004
+844,01:11:19.901000,01:11:22.819000,"Well, we have
+all the essential parts we need.",0.0,0.30000000000000004
+845,01:11:22.904000,01:11:26.072000,"I'm going back.
+Some unfinished business. I won't be long.",0.0,0.30000000000000004
+846,01:11:26.157000,01:11:29.659000,"Why do I sense we've picked up
+another pathetic life-form?",0.0,0.30000000000000004
+847,01:11:29.744000,01:11:33.622000,"It's the boy who's responsible
+for getting us these parts.",0.0,0.30000000000000004
+848,01:11:33.706000,01:11:35.624000,<i>Get this hyper-drive generator installed.</i>,0.0,0.30000000000000004
+849,01:11:35.708000,01:11:38.293000,"Yes, Master. That shouldn't take long.",0.0,0.30000000000000004
+850,01:11:38.377000,01:11:40.545000,Come on. Hup!,0.0,0.30000000000000004
+851,01:11:45.134000,01:11:48.303000,Hey. These are yours.,0.0,0.30000000000000004
+852,01:11:48.387000,01:11:50.347000,Yes!,0.0,0.30000000000000004
+853,01:11:51.808000,01:11:53.683000,"Mom, we sold the pod!",0.0,0.30000000000000004
+854,01:11:53.810000,01:11:56.186000,"Look at all the money we have!
+My goodness!",0.0,0.30000000000000004
+855,01:11:56.312000,01:11:59.231000,"But that's so wonderful, Ani.
+<i>And he has been freed.</i>",0.0,0.30000000000000004
+856,01:11:59.315000,01:12:02.108000,"- What?
+- You're no longer a slave.",0.0,0.30000000000000004
+857,01:12:03.986000,01:12:05.946000,Did you hear that?,0.0,0.30000000000000004
+858,01:12:06.030000,01:12:09.199000,"Now you can make your
+dreams come true, Ani.",0.0,0.30000000000000004
+859,01:12:09.283000,01:12:12.035000,You are free.,0.0,0.30000000000000004
+860,01:12:15.122000,01:12:17.040000,Will you take him with you?,0.0,0.30000000000000004
+861,01:12:17.124000,01:12:19.459000,"Is he to become a Jedi?
+Yes.",0.0,0.30000000000000004
+862,01:12:19.544000,01:12:21.461000,Our meeting was not a coincidence.,0.0,0.30000000000000004
+863,01:12:21.546000,01:12:24.005000,<i>Nothing happens by accident.</i>,0.0,0.30000000000000004
+864,01:12:24.090000,01:12:27.676000,"You mean I get to come
+with you in your starship?",0.0,0.30000000000000004
+865,01:12:27.760000,01:12:29.678000,"Anakin,",0.0,0.30000000000000004
+866,01:12:31.055000,01:12:34.391000,"training to become a Jedi
+is not an easy challenge,",0.0,0.30000000000000004
+867,01:12:34.475000,01:12:37.394000,"and even if you succeed, it's a hard life.",0.0,0.30000000000000004
+868,01:12:37.478000,01:12:40.689000,"But I wanna go.
+It's what I've always dreamed of doing.",0.0,0.30000000000000004
+869,01:12:40.773000,01:12:43.650000,"Can I go, Mom?",0.0,0.30000000000000004
+870,01:12:43.734000,01:12:45.986000,"Anakin,",0.0,0.30000000000000004
+871,01:12:46.070000,01:12:49.322000,this path has been placed before you.,0.0,0.30000000000000004
+872,01:12:49.407000,01:12:51.950000,The choice is yours alone.,0.0,0.30000000000000004
+873,01:12:55.538000,01:12:57.455000,I wanna do it.,0.0,0.30000000000000004
+874,01:12:59,01:13:01.251000,"<i>Then pack your things.</i>
+<i>We haven't much time.</i>",0.0,0.30000000000000004
+875,01:13:01.335000,01:13:03.461000,Yippee!,0.0,0.30000000000000004
+876,01:13:08.551000,01:13:10.468000,What about Mom?,0.0,0.30000000000000004
+877,01:13:13.556000,01:13:15.473000,Is she free too?,0.0,0.30000000000000004
+878,01:13:15.558000,01:13:19.102000,"I tried to free your mother, Ani,
+but Watto wouldn't have it.",0.0,0.30000000000000004
+879,01:13:19.186000,01:13:22.147000,"You're coming with us, aren't you, Mom?",0.0,0.30000000000000004
+880,01:13:29.739000,01:13:33.450000,"Son, my place is here. My future is here.",0.0,0.30000000000000004
+881,01:13:33.534000,01:13:36.953000,<i>It is time for you to let go.</i>,0.0,0.30000000000000004
+882,01:13:37.038000,01:13:39.247000,I don't want things to change.,0.0,0.30000000000000004
+883,01:13:39.332000,01:13:41.750000,But you can't stop the change...,0.0,0.30000000000000004
+884,01:13:41.834000,01:13:44.920000,"any more than you can stop
+the suns from setting.",0.0,0.30000000000000004
+885,01:13:46.005000,01:13:47.923000,"Oh, I love you.",0.0,0.30000000000000004
+886,01:13:53.554000,01:13:55.513000,Now hurry.,0.0,0.30000000000000004
+887,01:14:00.519000,01:14:02.437000,Thank you.,0.0,0.30000000000000004
+888,01:14:02.521000,01:14:05.440000,I'll watch after him. You have my word.,0.0,0.30000000000000004
+889,01:14:07.401000,01:14:10.111000,Will you be all right?,0.0,0.30000000000000004
+890,01:14:10.196000,01:14:12.155000,Yeah.,0.0,0.30000000000000004
+891,01:14:14.325000,01:14:16.785000,"Oh! Oh, my. Oh!",0.0,0.30000000000000004
+892,01:14:16.869000,01:14:18.787000,"Hello, Master Anakin.",0.0,0.30000000000000004
+893,01:14:18.871000,01:14:20.956000,"Well, 3PO, I've been freed...",0.0,0.30000000000000004
+894,01:14:21.040000,01:14:23.458000,and I'm going away in a starship.,0.0,0.30000000000000004
+895,01:14:23.542000,01:14:26.503000,"Master Anakin,
+you are my maker and I wish you well.",0.0,0.30000000000000004
+896,01:14:26.587000,01:14:30.840000,"However, I should prefer it
+if I were a little more completed.",0.0,0.30000000000000004
+897,01:14:30.925000,01:14:36.304000,"I'm sorry I wasn't able to finish you, 3PO,
+give you coverings and all.",0.0,0.30000000000000004
+898,01:14:36.389000,01:14:40.350000,"<i>I'm gonna miss working on you.</i>
+<i>You've been a great pal.</i>",0.0,0.30000000000000004
+899,01:14:40.434000,01:14:43.353000,"I'll make sure
+Mom doesn't sell you or anything.",0.0,0.30000000000000004
+900,01:14:43.437000,01:14:45.188000,Sell me?,0.0,0.30000000000000004
+901,01:14:45.272000,01:14:46.940000,Bye.,0.0,0.30000000000000004
+902,01:14:47.024000,01:14:48.942000,"Oh, my.",0.0,0.30000000000000004
+903,01:15:12.383000,01:15:15.301000,"I can't do it, Mom. I just can't do it.",0.0,0.30000000000000004
+904,01:15:15.386000,01:15:18.096000,Ani.,0.0,0.30000000000000004
+905,01:15:19.390000,01:15:21.599000,Will I ever see you again?,0.0,0.30000000000000004
+906,01:15:23.019000,01:15:25.937000,What does your heart tell you?,0.0,0.30000000000000004
+907,01:15:27.273000,01:15:29.524000,I hope so.,0.0,0.30000000000000004
+908,01:15:29.608000,01:15:31.526000,Yes.,0.0,0.30000000000000004
+909,01:15:31.610000,01:15:33.528000,I guess.,0.0,0.30000000000000004
+910,01:15:33.612000,01:15:36.531000,Then we will see each other again.,0.0,0.30000000000000004
+911,01:15:39.535000,01:15:42.454000,"I will come back and free you, Mom.",0.0,0.30000000000000004
+912,01:15:42.538000,01:15:44.497000,I promise.,0.0,0.30000000000000004
+913,01:15:52.339000,01:15:55.717000,"Now, be brave...",0.0,0.30000000000000004
+914,01:15:55.801000,01:15:58.511000,and don't look back.,0.0,0.30000000000000004
+915,01:15:58.596000,01:16:00.513000,Don't look back.,0.0,0.30000000000000004
+916,01:16:45.726000,01:16:48.728000,"- Qui-Gon, sir, wait! I'm tired!
+- Anakin! Drop!",0.0,0.30000000000000004
+917,01:16:51.190000,01:16:54.150000,Go! Tell them to take off!,0.0,0.30000000000000004
+918,01:17:07.706000,01:17:09.624000,Qui-Gon's in trouble.,0.0,0.30000000000000004
+919,01:17:09.708000,01:17:11.417000,Take off.,0.0,0.30000000000000004
+920,01:17:12.503000,01:17:14.337000,Over there. Fly low.,0.0,0.30000000000000004
+921,01:17:35.234000,01:17:37.152000,Are you all right?,0.0,0.30000000000000004
+922,01:17:37.236000,01:17:39.154000,I think so.,0.0,0.30000000000000004
+923,01:17:39.238000,01:17:41.156000,What was it?,0.0,0.30000000000000004
+924,01:17:41.240000,01:17:44.659000,"I'm not sure,
+but it was well-trained in the Jedi arts.",0.0,0.30000000000000004
+925,01:17:44.743000,01:17:47.745000,My guess is it was after the queen.,0.0,0.30000000000000004
+926,01:17:47.830000,01:17:50.373000,What are we gonna do about it?,0.0,0.30000000000000004
+927,01:17:52.293000,01:17:54.210000,We shall be patient.,0.0,0.30000000000000004
+928,01:17:54.295000,01:17:57.130000,"Anakin Skyalker, meet Obi-Wan Kenobi.",0.0,0.30000000000000004
+929,01:17:57.214000,01:17:59.424000,- Hi.,0.0,0.30000000000000004
+930,01:17:59.508000,01:18:03.261000,You're a Jedi too? Pleased to meet you.,0.0,0.30000000000000004
+931,01:18:10.436000,01:18:13.354000,"Your queen is lost, your
+people are starving,",0.0,0.30000000000000004
+932,01:18:13.439000,01:18:15.356000,"and you, Governor, are going to die...",0.0,0.30000000000000004
+933,01:18:15.441000,01:18:18.359000,"much sooner than your people, I'm afraid.",0.0,0.30000000000000004
+934,01:18:18.444000,01:18:20.612000,This invasion will gain you nothing.,0.0,0.30000000000000004
+935,01:18:20.696000,01:18:23.740000,We're a democracy. The people have decided.,0.0,0.30000000000000004
+936,01:18:23.824000,01:18:25.783000,Take him away.,0.0,0.30000000000000004
+937,01:18:29.163000,01:18:32.081000,"My troops are in position
+to begin searching the swamps...",0.0,0.30000000000000004
+938,01:18:32.166000,01:18:34.584000,for these rumored underwater villages.,0.0,0.30000000000000004
+939,01:18:34.668000,01:18:37.128000,They will not stay hidden for long.,0.0,0.30000000000000004
+940,01:18:48.140000,01:18:50.892000,The death toll is catastrophic.,0.0,0.30000000000000004
+941,01:18:50.976000,01:18:53.603000,We must bow to their wishes.,0.0,0.30000000000000004
+942,01:18:53.687000,01:18:55.980000,You must contact me.,0.0,0.30000000000000004
+943,01:19:10.037000,01:19:11.996000,You all right?,0.0,0.30000000000000004
+944,01:19:12.081000,01:19:14.791000,It's very cold.,0.0,0.30000000000000004
+945,01:19:22.758000,01:19:25.677000,"You come from a warm planet, Ani.",0.0,0.30000000000000004
+946,01:19:25.761000,01:19:28.179000,A little too warm for my taste.,0.0,0.30000000000000004
+947,01:19:28.264000,01:19:30.556000,Space is cold.,0.0,0.30000000000000004
+948,01:19:30.641000,01:19:32.850000,You seem sad.,0.0,0.30000000000000004
+949,01:19:33.936000,01:19:36.271000,The queen is worried.,0.0,0.30000000000000004
+950,01:19:36.355000,01:19:38.731000,"Her people are suffering, dying.",0.0,0.30000000000000004
+951,01:19:38.816000,01:19:42.402000,"She must convince the
+senate to intervene, or...",0.0,0.30000000000000004
+952,01:19:43.862000,01:19:46.197000,I'm not sure what'll happen.,0.0,0.30000000000000004
+953,01:19:47.574000,01:19:49.701000,I made this for you...,0.0,0.30000000000000004
+954,01:19:51.120000,01:19:53.037000,so you'd remember me.,0.0,0.30000000000000004
+955,01:19:53.122000,01:19:56.457000,I carved it out of a japor snippet.,0.0,0.30000000000000004
+956,01:19:56.542000,01:19:59.377000,It'll bring you good fortune.,0.0,0.30000000000000004
+957,01:19:59.461000,01:20:01.379000,It's beautiful.,0.0,0.30000000000000004
+958,01:20:01.463000,01:20:03.881000,But I don't need this to remember you by.,0.0,0.30000000000000004
+959,01:20:07.511000,01:20:10.930000,"Many things will change
+when we reach the capital, Ani,",0.0,0.30000000000000004
+960,01:20:11.015000,01:20:13.599000,but my caring for you will remain.,0.0,0.30000000000000004
+961,01:20:16.270000,01:20:19.480000,"I care for you, too, only I...",0.0,0.30000000000000004
+962,01:20:19.565000,01:20:21.733000,Miss your mother.,0.0,0.30000000000000004
+963,01:20:40.169000,01:20:44.380000,"Coruscant.
+The entire planet is one big city.",0.0,0.30000000000000004
+964,01:20:44.465000,01:20:46.257000,There's Chancellor Valorum's shuttle.,0.0,0.30000000000000004
+965,01:20:46.342000,01:20:49.635000,"<i>And look over there.</i>
+<i>Senator Palpatine is waiting for us.</i>",0.0,0.30000000000000004
+966,01:21:18.916000,01:21:22.168000,"It is a great gift to see
+you alive, Your Majesty.",0.0,0.30000000000000004
+967,01:21:22.252000,01:21:25.088000,"<i>With the communications breakdown,</i>
+<i>we've been very concerned.</i>",0.0,0.30000000000000004
+968,01:21:25.172000,01:21:27.882000,"<i>I'm anxious to hear your
+report on the situation.</i>",0.0,0.30000000000000004
+969,01:21:27.966000,01:21:30.593000,May I present Supreme Chancellor Valorum.,0.0,0.30000000000000004
+970,01:21:30.677000,01:21:34.847000,"Welcome, Your Highness. It's an honor
+to finally meet you in person.",0.0,0.30000000000000004
+971,01:21:34.932000,01:21:37.558000,"Thank you, Supreme Chancellor.",0.0,0.30000000000000004
+972,01:21:37.643000,01:21:40.812000,"I must relay to you how distressed
+everyone is over the current situation.",0.0,0.30000000000000004
+973,01:21:40.896000,01:21:43.657000,"I've called for a special session
+of the senate to hear your position.",0.0,0.30000000000000004
+974,01:21:44.733000,01:21:47.652000,"I'm grateful for your concern, Chancellor.",0.0,0.30000000000000004
+975,01:21:47.736000,01:21:49.654000,"There is a question of procedure,",0.0,0.30000000000000004
+976,01:21:49.738000,01:21:52.490000,but I'm confident we can overcome it.,0.0,0.30000000000000004
+977,01:21:52.574000,01:21:55.493000,"I must speak with the Jedi
+Council immediately.",0.0,0.30000000000000004
+978,01:21:55.577000,01:21:58.454000,"The situation has become
+much more complicated.",0.0,0.30000000000000004
+979,01:22:04.169000,01:22:06.129000,"Ani, come on.",0.0,0.30000000000000004
+980,01:22:16.598000,01:22:20.017000,"The queen's a bein'
+grossly nice, mesa tinks.",0.0,0.30000000000000004
+981,01:22:21.353000,01:22:23.354000,Pitty hot.,0.0,0.30000000000000004
+982,01:22:51.175000,01:22:55.511000,"<i>There is no civility, only politics.</i>",0.0,0.30000000000000004
+983,01:22:55.596000,01:22:59.515000,<i>The Republic is not what it once was.</i>,0.0,0.30000000000000004
+984,01:22:59.600000,01:23:04.896000,"The senate is full of greedy,
+squabbling delegates.",0.0,0.30000000000000004
+985,01:23:04.980000,01:23:06.898000,There is no interest...,0.0,0.30000000000000004
+986,01:23:06.982000,01:23:09.108000,in the common good.,0.0,0.30000000000000004
+987,01:23:09.193000,01:23:11.444000,"I must be frank, Your Majesty.",0.0,0.30000000000000004
+988,01:23:11.528000,01:23:14.447000,"There is little chance
+the senate will act on the invasion.",0.0,0.30000000000000004
+989,01:23:14.531000,01:23:17.450000,"Chancellor Valorum
+seems to think there is hope.",0.0,0.30000000000000004
+990,01:23:17.534000,01:23:21.662000,"<i>If I may say so, Your Majesty,</i>
+<i>the chancellor has little real power.</i>",0.0,0.30000000000000004
+991,01:23:21.747000,01:23:25.625000,"He is mired by baseless
+accusations of corruption.",0.0,0.30000000000000004
+992,01:23:25.751000,01:23:29.504000,"<i>The bureaucrats are in charge now.</i>
+What options have we?",0.0,0.30000000000000004
+993,01:23:29.588000,01:23:33.174000,"Our best choice would be
+to push for the election...",0.0,0.30000000000000004
+994,01:23:33.258000,01:23:35.176000,"of a stronger supreme chancellor,",0.0,0.30000000000000004
+995,01:23:35.260000,01:23:37.762000,one who could control the bureaucrats...,0.0,0.30000000000000004
+996,01:23:37.846000,01:23:39.722000,and give us justice.,0.0,0.30000000000000004
+997,01:23:39.806000,01:23:44.101000,"You could call for a
+Vote of no confidence...",0.0,0.30000000000000004
+998,01:23:44.186000,01:23:46.103000,in Chancellor Valorum.,0.0,0.30000000000000004
+999,01:23:46.188000,01:23:48.731000,He has been our strongest supporter.,0.0,0.30000000000000004
+1000,01:23:48.815000,01:23:54.070000,"Our only other choice
+would be to submit a plea to the courts.",0.0,0.30000000000000004
+1001,01:23:54.154000,01:23:57.532000,"The courts take even longer to
+decide things than the senate.",0.0,0.30000000000000004
+1002,01:23:57.616000,01:24:00.535000,"<i>Our people are dying, Senator.</i>",0.0,0.30000000000000004
+1003,01:24:00.619000,01:24:04.372000,"We must do something quickly
+to stop the Federation.",0.0,0.30000000000000004
+1004,01:24:04.456000,01:24:07.083000,"To be realistic, Your Majesty,",0.0,0.30000000000000004
+1005,01:24:07.167000,01:24:12.255000,"I think we're going to have to accept
+Federation control for the time being.",0.0,0.30000000000000004
+1006,01:24:13.966000,01:24:16.050000,That is something I cannot do.,0.0,0.30000000000000004
+1007,01:24:23.350000,01:24:25.977000,He was trained in the Jedi arts.,0.0,0.30000000000000004
+1008,01:24:26.061000,01:24:30.022000,"My only conclusion can be
+that it was a Sith lord.",0.0,0.30000000000000004
+1009,01:24:30.107000,01:24:34.318000,"Impossible. The Sith have been
+extinct for a millennium.",0.0,0.30000000000000004
+1010,01:24:34.403000,01:24:38.614000,"<i>I do not believe the Sith</i>
+<i>could have returned without us knowing.</i>",0.0,0.30000000000000004
+1011,01:24:38.699000,01:24:41.826000,"Ah, hard to see, the dark side is.",0.0,0.30000000000000004
+1012,01:24:41.910000,01:24:44.829000,"<i>We will use all our resources</i>
+<i>to unravel this mystery.</i>",0.0,0.30000000000000004
+1013,01:24:44.913000,01:24:47.957000,"We will discover the identity
+of your attacker.",0.0,0.30000000000000004
+1014,01:24:48.041000,01:24:50.001000,May the Force be with you.,0.0,0.30000000000000004
+1015,01:24:53.505000,01:24:55.464000,Master Qui-Gon.,0.0,0.30000000000000004
+1016,01:24:55.549000,01:24:58.009000,<i>More to say have you?</i>,0.0,0.30000000000000004
+1017,01:25:00.220000,01:25:02.179000,"With your permission, my master,",0.0,0.30000000000000004
+1018,01:25:03.640000,01:25:06.684000,I have encountered a vergence in the Force.,0.0,0.30000000000000004
+1019,01:25:07.769000,01:25:09.812000,"A vergence, you say?",0.0,0.30000000000000004
+1020,01:25:09.896000,01:25:12.064000,Located around a person?,0.0,0.30000000000000004
+1021,01:25:12.149000,01:25:14.066000,A boy.,0.0,0.30000000000000004
+1022,01:25:14.151000,01:25:17.987000,"His cells have the highest concentration of
+midi-chlorians I have seen in a life-form.",0.0,0.30000000000000004
+1023,01:25:18.071000,01:25:21.032000,"It is possible he was conceived
+by the midi-chlorians.",0.0,0.30000000000000004
+1024,01:25:22.659000,01:25:25.036000,<i>You refer to the prophecy...</i>,0.0,0.30000000000000004
+1025,01:25:25.120000,01:25:27.538000,"<i>of the one who will bring
+balance to the Force.</i>",0.0,0.30000000000000004
+1026,01:25:27.623000,01:25:29.457000,You believe it's this boy?,0.0,0.30000000000000004
+1027,01:25:29.583000,01:25:32.209000,"I don't presume to-
+<i>But you do.</i>",0.0,0.30000000000000004
+1028,01:25:32.294000,01:25:34.962000,Revealed your opinion is.,0.0,0.30000000000000004
+1029,01:25:35.047000,01:25:37.089000,"I request the boy be tested, Master.",0.0,0.30000000000000004
+1030,01:25:37.174000,01:25:42.428000,"<i>Oh? Trained as a Jedi you
+request for him, hmm?</i>",0.0,0.30000000000000004
+1031,01:25:42.512000,01:25:45.306000,Finding him was the will of the Force.,0.0,0.30000000000000004
+1032,01:25:45.390000,01:25:47.350000,I have no doubt of that.,0.0,0.30000000000000004
+1033,01:25:53.482000,01:25:56.067000,"Bring him before us, then.",0.0,0.30000000000000004
+1034,01:26:06.078000,01:26:08.996000,The boy's here to see Padmé.,0.0,0.30000000000000004
+1035,01:26:09.081000,01:26:11.040000,Let him in.,0.0,0.30000000000000004
+1036,01:26:13.919000,01:26:17.838000,"I'm sorry, Ani,
+but Padmé's not here right now.",0.0,0.30000000000000004
+1037,01:26:17.923000,01:26:20.257000,<i>Who is it?</i>,0.0,0.30000000000000004
+1038,01:26:20.342000,01:26:23.386000,"<i>Anakin Skywalker to see Padmé,</i>
+<i>Your Highness.</i>",0.0,0.30000000000000004
+1039,01:26:23.470000,01:26:25.388000,I've sent Padmé on an errand.,0.0,0.30000000000000004
+1040,01:26:25.472000,01:26:30.393000,"I'm on my way to the Jedi temple
+to start my training, I hope.",0.0,0.30000000000000004
+1041,01:26:30.477000,01:26:34.355000,"I may never see her again,
+so I came to say good-bye.",0.0,0.30000000000000004
+1042,01:26:34.439000,01:26:36.357000,We will tell her for you.,0.0,0.30000000000000004
+1043,01:26:36.441000,01:26:39.068000,We are sure her heart goes with you.,0.0,0.30000000000000004
+1044,01:26:39.152000,01:26:41.278000,"Thank you, Your Highness.",0.0,0.30000000000000004
+1045,01:26:55.210000,01:26:59.338000,"The chair recognizes the senator
+from the sovereign system of Naboo.",0.0,0.30000000000000004
+1046,01:27:06.096000,01:27:10.516000,"Supreme Chancellor,
+delegates of the senate,",0.0,0.30000000000000004
+1047,01:27:10.600000,01:27:13.018000,a tragedy has occurred...,0.0,0.30000000000000004
+1048,01:27:13.103000,01:27:16.647000,"which started right here
+with the taxation of trade routes...",0.0,0.30000000000000004
+1049,01:27:16.732000,01:27:19.775000,and has now engulfed our entire planet...,0.0,0.30000000000000004
+1050,01:27:19.860000,01:27:21.902000,in the oppression of the Trade Federation.,0.0,0.30000000000000004
+1051,01:27:21.987000,01:27:24.238000,This is outrageous!,0.0,0.30000000000000004
+1052,01:27:24.322000,01:27:26.907000,I object to the senator's statements.,0.0,0.30000000000000004
+1053,01:27:26.992000,01:27:31.078000,"The chair does not recognize the senator
+from the Trade Federation at this time.",0.0,0.30000000000000004
+1054,01:27:31.163000,01:27:35.082000,"To state our allegations,
+I present Queen Amidala,",0.0,0.30000000000000004
+1055,01:27:35.167000,01:27:37.168000,"recently elected ruler of the Naboo,",0.0,0.30000000000000004
+1056,01:27:37.252000,01:27:39.170000,who speaks on our behalf.,0.0,0.30000000000000004
+1057,01:27:45.177000,01:27:47.928000,"Honorable representatives of the Republic,",0.0,0.30000000000000004
+1058,01:27:48.013000,01:27:51.140000,"I come to you
+under the gravest of circumstances.",0.0,0.30000000000000004
+1059,01:27:51.224000,01:27:54.268000,"The Naboo system has been invaded
+by the droid armies of the Trade-",0.0,0.30000000000000004
+1060,01:27:54.352000,01:27:57.813000,<i>I object! There is no proof!</i>,0.0,0.30000000000000004
+1061,01:27:57.898000,01:27:59.815000,This is incredible.,0.0,0.30000000000000004
+1062,01:27:59.900000,01:28:03.986000,"We recommend a commission be sent to Naboo
+to ascertain the truth.",0.0,0.30000000000000004
+1063,01:28:04.070000,01:28:06.322000,<i>The Congress of Malastare concurs...</i>,0.0,0.30000000000000004
+1064,01:28:06.406000,01:28:09.241000,"with the honorable delegate
+from the Trade Federation.",0.0,0.30000000000000004
+1065,01:28:09.326000,01:28:11.744000,"A commission must be appointed.
+The point...",0.0,0.30000000000000004
+1066,01:28:11.828000,01:28:14.997000,"Excuse me, Chancellor. <i>
+Enter the bureaucrat.</i>",0.0,0.30000000000000004
+1067,01:28:15.081000,01:28:17.792000,The true rulers of the Republic.,0.0,0.30000000000000004
+1068,01:28:17.876000,01:28:22.046000,"And on the payroll of the Trade Federation,
+I might add.",0.0,0.30000000000000004
+1069,01:28:22.130000,01:28:26.383000,"This is where Chancellor Valorum's strength
+will disappear.",0.0,0.30000000000000004
+1070,01:28:27.928000,01:28:30.304000,<i>The point is conceded.</i>,0.0,0.30000000000000004
+1071,01:28:30.388000,01:28:33.307000,"Will you defer your motion
+to allow a commission...",0.0,0.30000000000000004
+1072,01:28:33.391000,01:28:35.935000,"to explore the validity
+of your accusations?",0.0,0.30000000000000004
+1073,01:28:36.019000,01:28:37.937000,I will not defer.,0.0,0.30000000000000004
+1074,01:28:38.021000,01:28:41.565000,"I've come before you to resolve this attack
+on our sovereignty now.",0.0,0.30000000000000004
+1075,01:28:41.650000,01:28:44.693000,"<i>I was not elected</i>
+<i>to watch my people suffer and die...</i>",0.0,0.30000000000000004
+1076,01:28:44.778000,01:28:47.530000,"<i>while you discuss this invasion</i>
+<i>in a committee.</i>",0.0,0.30000000000000004
+1077,01:28:49.741000,01:28:52.827000,"If this body is not capable of action,",0.0,0.30000000000000004
+1078,01:28:52.911000,01:28:55.955000,I suggest new leadership is needed.,0.0,0.30000000000000004
+1079,01:28:57.707000,01:29:00.584000,I move for a Vote of no confidence...,0.0,0.30000000000000004
+1080,01:29:00.669000,01:29:02.670000,in Chancellor Valorum's leadership.,0.0,0.30000000000000004
+1081,01:29:09.761000,01:29:11.929000,<i>Vote now! Vote now!</i>,0.0,0.30000000000000004
+1082,01:29:12.013000,01:29:14.807000,Vote now! Vote now!,0.0,0.30000000000000004
+1083,01:29:14.933000,01:29:17.685000,"Vote now!
+Vote now! Order!",0.0,0.30000000000000004
+1084,01:29:17.769000,01:29:20.688000,"Now they will elect a new chancellor,",0.0,0.30000000000000004
+1085,01:29:20.772000,01:29:22.690000,"a strong chancellor,",0.0,0.30000000000000004
+1086,01:29:22.774000,01:29:25.693000,one who will not let our tragedy continue.,0.0,0.30000000000000004
+1087,01:29:27.362000,01:29:31.699000,"The boy will not pass the council's
+test, Master. He's too old.",0.0,0.30000000000000004
+1088,01:29:31.783000,01:29:34.743000,"Anakin will become a Jedi, I promise you.",0.0,0.30000000000000004
+1089,01:29:34.828000,01:29:37.746000,"Do not defy the council, Master,
+not again.",0.0,0.30000000000000004
+1090,01:29:37.831000,01:29:40.624000,"I shall do what I must, Obi-Wan.",0.0,0.30000000000000004
+1091,01:29:42.460000,01:29:46.255000,"If you would just follow the code,
+you would be on the council.",0.0,0.30000000000000004
+1092,01:29:46.339000,01:29:49.508000,"They will not
+go along with you this time.",0.0,0.30000000000000004
+1093,01:29:49.593000,01:29:52.511000,"You still have much to learn,
+my young apprentice.",0.0,0.30000000000000004
+1094,01:29:55.807000,01:29:57.182000,A ship.,0.0,0.30000000000000004
+1095,01:29:58.810000,01:30:00.769000,A cup.,0.0,0.30000000000000004
+1096,01:30:00.854000,01:30:02.688000,<i>A ship.</i>,0.0,0.30000000000000004
+1097,01:30:03.773000,01:30:06.317000,A speeder.,0.0,0.30000000000000004
+1098,01:30:08.278000,01:30:10.195000,Hmm.,0.0,0.30000000000000004
+1099,01:30:12.824000,01:30:14.742000,How feel you?,0.0,0.30000000000000004
+1100,01:30:14.826000,01:30:16.744000,"Cold, sir.",0.0,0.30000000000000004
+1101,01:30:17.954000,01:30:19.872000,Afraid are you?,0.0,0.30000000000000004
+1102,01:30:19.956000,01:30:21.916000,"No, sir.",0.0,0.30000000000000004
+1103,01:30:22,01:30:24.627000,See through you we can.,0.0,0.30000000000000004
+1104,01:30:24.711000,01:30:26.629000,Be mindful of your feelings.,0.0,0.30000000000000004
+1105,01:30:26.713000,01:30:29.506000,<i>Your thoughts dwell on your mother.</i>,0.0,0.30000000000000004
+1106,01:30:31.176000,01:30:33.719000,I miss her. <i> Mmm.</i>,0.0,0.30000000000000004
+1107,01:30:33.803000,01:30:36.305000,"Afraid to lose her, I think, mmm?",0.0,0.30000000000000004
+1108,01:30:36.389000,01:30:38.599000,What has that got to do with anything?,0.0,0.30000000000000004
+1109,01:30:38.683000,01:30:41.018000,Everything.,0.0,0.30000000000000004
+1110,01:30:41.102000,01:30:44.188000,Fear is the path to the dark side.,0.0,0.30000000000000004
+1111,01:30:44.272000,01:30:47.191000,Fear leads to anger. Anger leads to hate.,0.0,0.30000000000000004
+1112,01:30:47.275000,01:30:50.694000,Hate leads to suffering.,0.0,0.30000000000000004
+1113,01:30:57.202000,01:31:00.120000,I sense much fear in you.,0.0,0.30000000000000004
+1114,01:31:13.009000,01:31:16.428000,"Yousa tinking
+yousa people ganna die?",0.0,0.30000000000000004
+1115,01:31:16.513000,01:31:18.430000,I don't know.,0.0,0.30000000000000004
+1116,01:31:18.515000,01:31:21.100000,"Gungans get pasted too, eh?",0.0,0.30000000000000004
+1117,01:31:22.852000,01:31:25.604000,I hope not.,0.0,0.30000000000000004
+1118,01:31:25.689000,01:31:28.315000,Gungans no dyin' without a fight.,0.0,0.30000000000000004
+1119,01:31:28.400000,01:31:30.317000,Wesa warriors.,0.0,0.30000000000000004
+1120,01:31:30.402000,01:31:33.821000,Wesa got a grand army.,0.0,0.30000000000000004
+1121,01:31:33.905000,01:31:37.324000,"<i>Dat's why you no liken us,</i>
+<i>mesa tinks.</i>",0.0,0.30000000000000004
+1122,01:31:37.409000,01:31:40.285000,<i>Your Highness?</i>,0.0,0.30000000000000004
+1123,01:31:41.413000,01:31:43.580000,Your Highness.,0.0,0.30000000000000004
+1124,01:31:43.665000,01:31:46.834000,"Senator Palpatine has been nominated
+to succeed Valorum...",0.0,0.30000000000000004
+1125,01:31:46.918000,01:31:49.003000,<i>as supreme chancellor.</i>,0.0,0.30000000000000004
+1126,01:31:49.087000,01:31:52.006000,"A surprise, to be sure, but a welcome one.",0.0,0.30000000000000004
+1127,01:31:52.090000,01:31:56.802000,"Your Majesty, if I am elected,
+I promise to put an end to corruption.",0.0,0.30000000000000004
+1128,01:31:56.886000,01:31:58.595000,Who else has been nominated?,0.0,0.30000000000000004
+1129,01:31:58.680000,01:32:03.017000,"Bail Antilles of Alderaan
+and Ainlee Teem of Malastare.",0.0,0.30000000000000004
+1130,01:32:03.101000,01:32:08.063000,"I feel confident our situation
+will create a strong sympathy vote for us.",0.0,0.30000000000000004
+1131,01:32:09.774000,01:32:11.775000,I will be chancellor.,0.0,0.30000000000000004
+1132,01:32:11.860000,01:32:14.528000,"I fear by the time you have control
+of the bureaucrats,",0.0,0.30000000000000004
+1133,01:32:14.612000,01:32:17.865000,"<i>there'll be nothing left of our people,</i>
+<i>our way of life.</i>",0.0,0.30000000000000004
+1134,01:32:17.949000,01:32:19.867000,"I understand your concern, Your Majesty.",0.0,0.30000000000000004
+1135,01:32:19.951000,01:32:23.495000,"Unfortunately, the Federation
+has possession of our planet.",0.0,0.30000000000000004
+1136,01:32:25.248000,01:32:29.376000,"Senator, this is your arena.",0.0,0.30000000000000004
+1137,01:32:29.461000,01:32:31.420000,I feel I must return to mine.,0.0,0.30000000000000004
+1138,01:32:34.007000,01:32:36.925000,I've decided to go back to Naboo.,0.0,0.30000000000000004
+1139,01:32:37.010000,01:32:39.011000,"Go back?
+But, Your Majesty, be realistic.",0.0,0.30000000000000004
+1140,01:32:39.095000,01:32:41.013000,They'll force you to sign the treaty.,0.0,0.30000000000000004
+1141,01:32:41.097000,01:32:43.515000,"I will sign no treaty, Senator.",0.0,0.30000000000000004
+1142,01:32:43.600000,01:32:46.143000,"My fate will be no different
+than that of our people.",0.0,0.30000000000000004
+1143,01:32:46.227000,01:32:48.145000,"Captain.
+<i>Your Highness.</i>",0.0,0.30000000000000004
+1144,01:32:48.229000,01:32:50.147000,Ready my ship.,0.0,0.30000000000000004
+1145,01:32:50.231000,01:32:53.942000,"Please, Your Majesty, stay
+here where it's safe.",0.0,0.30000000000000004
+1146,01:32:54.027000,01:32:57.237000,"It is clear to me now
+that the Republic no longer functions.",0.0,0.30000000000000004
+1147,01:32:57.322000,01:33:01.658000,"<i>I pray you will bring</i>
+<i>sanity and compassion back to the senate.</i>",0.0,0.30000000000000004
+1148,01:33:11.836000,01:33:14.421000,The Force is strong with him.,0.0,0.30000000000000004
+1149,01:33:14.506000,01:33:16.465000,"He is to be trained, then?",0.0,0.30000000000000004
+1150,01:33:17.884000,01:33:20.969000,"No, he will not be trained.",0.0,0.30000000000000004
+1151,01:33:21.054000,01:33:22.805000,No?,0.0,0.30000000000000004
+1152,01:33:24.766000,01:33:26.850000,He is too old.,0.0,0.30000000000000004
+1153,01:33:26.935000,01:33:30.771000,He is the chosen one. You must see it.,0.0,0.30000000000000004
+1154,01:33:30.855000,01:33:35.526000,Mmm. Clouded this boy's future is.,0.0,0.30000000000000004
+1155,01:33:37.695000,01:33:39.530000,"I will train him, then.",0.0,0.30000000000000004
+1156,01:33:43.868000,01:33:46.703000,I take Anakin as my Padawan learner.,0.0,0.30000000000000004
+1157,01:33:46.788000,01:33:49.790000,"An apprentice you have, Qui-Gon.",0.0,0.30000000000000004
+1158,01:33:49.874000,01:33:52.251000,Impossible to take on a second.,0.0,0.30000000000000004
+1159,01:33:52.335000,01:33:54.002000,The code forbids it.,0.0,0.30000000000000004
+1160,01:33:54.129000,01:33:57.548000,"Obi-Wan is ready.
+I am ready to face the trials.",0.0,0.30000000000000004
+1161,01:33:57.632000,01:34:01.301000,"Our own counsel we will
+keep on who is ready.",0.0,0.30000000000000004
+1162,01:34:01.386000,01:34:03.303000,"He is headstrong,",0.0,0.30000000000000004
+1163,01:34:03.388000,01:34:06.765000,"and he has much to learn of the
+living Force, but he is capable.",0.0,0.30000000000000004
+1164,01:34:06.850000,01:34:08.892000,There is little more he can learn from me.,0.0,0.30000000000000004
+1165,01:34:11.437000,01:34:13.355000,<i>Young Skywalker's fate...</i>,0.0,0.30000000000000004
+1166,01:34:13.439000,01:34:15.315000,will be decided later.,0.0,0.30000000000000004
+1167,01:34:15.400000,01:34:17.985000,Now is not the time for this.,0.0,0.30000000000000004
+1168,01:34:18.069000,01:34:20.737000,"<i>The senate is voting for a
+new supreme chancellor,</i>",0.0,0.30000000000000004
+1169,01:34:20.822000,01:34:23.532000,"<i>and Queen Amidala is returning home,</i>",0.0,0.30000000000000004
+1170,01:34:23.616000,01:34:26.869000,"which will put pressure on the Federation
+and could widen the confrontation.",0.0,0.30000000000000004
+1171,01:34:26.953000,01:34:29.288000,And draw out the queen's attacker.,0.0,0.30000000000000004
+1172,01:34:29.372000,01:34:33.792000,"<i>Go with the queen to Naboo and discover
+the identity of this dark warrior.</i>",0.0,0.30000000000000004
+1173,01:34:35.044000,01:34:36.962000,This is the clue we need...,0.0,0.30000000000000004
+1174,01:34:37.046000,01:34:39.339000,to unravel the mystery of the Sith.,0.0,0.30000000000000004
+1175,01:34:39.424000,01:34:42.259000,May the Force be with you.,0.0,0.30000000000000004
+1176,01:34:55.440000,01:34:58.358000,"It's not disrespect, Master.
+It's the truth.",0.0,0.30000000000000004
+1177,01:34:58.443000,01:35:00.360000,From your point of view.,0.0,0.30000000000000004
+1178,01:35:00.445000,01:35:03.864000,"The boy is dangerous.
+They all sense it. Why can't you?",0.0,0.30000000000000004
+1179,01:35:03.948000,01:35:06.867000,His fate is uncertain. He's not dangerous.,0.0,0.30000000000000004
+1180,01:35:06.951000,01:35:09.369000,The council will decide Anakin's future.,0.0,0.30000000000000004
+1181,01:35:09.454000,01:35:12.372000,"That should be enough for you.
+Now get on board.",0.0,0.30000000000000004
+1182,01:35:18.213000,01:35:21.798000,"Qui-Gon, sir,
+I don't want to be a problem.",0.0,0.30000000000000004
+1183,01:35:21.883000,01:35:24.134000,"You won't be, Ani.",0.0,0.30000000000000004
+1184,01:35:24.219000,01:35:28.347000,"I'm not allowed to train you,
+so I want you to watch me and be mindful.",0.0,0.30000000000000004
+1185,01:35:31.434000,01:35:34.102000,Your focus determines your reality.,0.0,0.30000000000000004
+1186,01:35:34.187000,01:35:37.397000,Stay close to me and you'll be safe.,0.0,0.30000000000000004
+1187,01:35:37.482000,01:35:39.316000,"Master, sir,",0.0,0.30000000000000004
+1188,01:35:39.400000,01:35:43.028000,I heard Yoda talking about midi-chlorians.,0.0,0.30000000000000004
+1189,01:35:43.112000,01:35:46.657000,"I've been wondering-
+What are midi-chlorians?",0.0,0.30000000000000004
+1190,01:35:47.909000,01:35:50.327000,"Midi-chlorians are a
+microscopic life-form...",0.0,0.30000000000000004
+1191,01:35:50.411000,01:35:52.704000,that resides within all living cells.,0.0,0.30000000000000004
+1192,01:35:54.123000,01:35:57,"They live inside me?
+Inside your cells, yes.",0.0,0.30000000000000004
+1193,01:35:57.126000,01:36:00.629000,"And we are symbionts with them.
+Symbionts?",0.0,0.30000000000000004
+1194,01:36:00.713000,01:36:04.633000,"Life-forms living together
+for mutual advantage.",0.0,0.30000000000000004
+1195,01:36:04.717000,01:36:07.636000,"Without the midi-chlorians,
+life could not exist...",0.0,0.30000000000000004
+1196,01:36:07.720000,01:36:10.555000,"and we would have no
+knowledge of the Force.",0.0,0.30000000000000004
+1197,01:36:10.640000,01:36:12.557000,"They continually speak to us,",0.0,0.30000000000000004
+1198,01:36:12.642000,01:36:15.352000,telling us the will of the Force.,0.0,0.30000000000000004
+1199,01:36:15.436000,01:36:17.604000,"When you learn to quiet your mind,",0.0,0.30000000000000004
+1200,01:36:17.689000,01:36:19.606000,you'll hear them speaking to you.,0.0,0.30000000000000004
+1201,01:36:19.691000,01:36:21.608000,I don't understand.,0.0,0.30000000000000004
+1202,01:36:21.693000,01:36:25.195000,"With time and training, Ani, you will.
+You will.",0.0,0.30000000000000004
+1203,01:36:29.033000,01:36:33.287000,"Your Majesty, it is our pleasure to
+continue to serve and protect you.",0.0,0.30000000000000004
+1204,01:36:33.371000,01:36:35.289000,I welcome your help.,0.0,0.30000000000000004
+1205,01:36:35.373000,01:36:38.792000,"Senator Palpatine fears
+that the Federation means to destroy me.",0.0,0.30000000000000004
+1206,01:36:38.876000,01:36:42.087000,"I assure you I will not
+allow that to happen.",0.0,0.30000000000000004
+1207,01:36:42.171000,01:36:45.090000,Wesa goin' ho-o-o-me!,0.0,0.30000000000000004
+1208,01:36:45.174000,01:36:48.093000,"Come on, R2.",0.0,0.30000000000000004
+1209,01:36:56.644000,01:36:59.730000,Is the planet secure?,0.0,0.30000000000000004
+1210,01:36:59.814000,01:37:03.734000,"We have taken over the last pockets
+of primitive life-forms.",0.0,0.30000000000000004
+1211,01:37:03.818000,01:37:06.945000,"We are in complete control
+of the planet now.",0.0,0.30000000000000004
+1212,01:37:07.030000,01:37:12.909000,"Good. I will see to it that in the senate
+things stay as they are.",0.0,0.30000000000000004
+1213,01:37:12.994000,01:37:16.913000,"I am sending my apprentice,
+Darth Maul, to join you.",0.0,0.30000000000000004
+1214,01:37:16.998000,01:37:18.915000,"Yes, my lord.",0.0,0.30000000000000004
+1215,01:37:19,01:37:20.917000,A Sith here?,0.0,0.30000000000000004
+1216,01:37:26.299000,01:37:28.800000,Those are the forward stabilizers.,0.0,0.30000000000000004
+1217,01:37:28.885000,01:37:31.303000,And those two control the pitch?,0.0,0.30000000000000004
+1218,01:37:32.847000,01:37:34.765000,You catch on pretty quick.,0.0,0.30000000000000004
+1219,01:37:34.849000,01:37:36.767000,"<i>As soon as we land,</i>",0.0,0.30000000000000004
+1220,01:37:36.851000,01:37:39.603000,"<i>the Federation will arrest you</i>
+<i>and force you to sign the treaty.</i>",0.0,0.30000000000000004
+1221,01:37:39.687000,01:37:43.440000,"<i>I agree. I'm not sure</i>
+<i>what you wish to accomplish by this.</i>",0.0,0.30000000000000004
+1222,01:37:43.524000,01:37:46.443000,I will take back what's ours.,0.0,0.30000000000000004
+1223,01:37:46.527000,01:37:48.987000,"<i>There are too few of us, Your Highness.</i>",0.0,0.30000000000000004
+1224,01:37:49.072000,01:37:50.989000,We have no army.,0.0,0.30000000000000004
+1225,01:37:51.074000,01:37:54.659000,"<i>And I can only protect you.</i>
+<i>I can't fight a war for you.</i>",0.0,0.30000000000000004
+1226,01:37:54.744000,01:37:56.745000,JarJar Binks.,0.0,0.30000000000000004
+1227,01:37:56.829000,01:37:59.873000,"Mesa, Your Highness?",0.0,0.30000000000000004
+1228,01:37:59.957000,01:38:02.876000,Yes. I need your help.,0.0,0.30000000000000004
+1229,01:38:08.091000,01:38:10.342000,I have one battleship on my scope.,0.0,0.30000000000000004
+1230,01:38:10.426000,01:38:12.552000,<i>It's a droid control ship.</i>,0.0,0.30000000000000004
+1231,01:38:12.637000,01:38:14.554000,<i>They've probably spotted us.</i>,0.0,0.30000000000000004
+1232,01:38:14.639000,01:38:16.681000,We haven't much time.,0.0,0.30000000000000004
+1233,01:38:28.152000,01:38:32.072000,"JarJar is on his way to the
+Gungan city, Master. Good.",0.0,0.30000000000000004
+1234,01:38:32.156000,01:38:35.075000,"Do you think
+the queen's idea will work?",0.0,0.30000000000000004
+1235,01:38:35.159000,01:38:38.078000,The Gungans will not be easily swayed.,0.0,0.30000000000000004
+1236,01:38:38.162000,01:38:41.039000,And we cannot use our power to help her.,0.0,0.30000000000000004
+1237,01:38:42.792000,01:38:45.919000,"I'm-I'm sorry for my behavior, Master.",0.0,0.30000000000000004
+1238,01:38:46.003000,01:38:49.798000,"It's not my place
+to disagree with you about the boy.",0.0,0.30000000000000004
+1239,01:38:51.676000,01:38:55.011000,"And I am grateful you think
+I'm ready to take the trials.",0.0,0.30000000000000004
+1240,01:38:56.097000,01:38:58.014000,"You've been a good apprentice, Obi-Wan.",0.0,0.30000000000000004
+1241,01:38:59.434000,01:39:02.352000,And you're a much wiser man than I am.,0.0,0.30000000000000004
+1242,01:39:02.437000,01:39:06.189000,"I foresee you will become
+a great Jedi knight.",0.0,0.30000000000000004
+1243,01:39:19.162000,01:39:21.580000,Desa nobody dare.,0.0,0.30000000000000004
+1244,01:39:21.664000,01:39:23.874000,The Gungan city is deserted.,0.0,0.30000000000000004
+1245,01:39:23.958000,01:39:26.543000,"<i>Some kinda fight, mesa tinks.</i>",0.0,0.30000000000000004
+1246,01:39:26.627000,01:39:29.754000,"Do you think they have been
+taken to the camps?",0.0,0.30000000000000004
+1247,01:39:29.839000,01:39:32.174000,More likely they were wiped out.,0.0,0.30000000000000004
+1248,01:39:32.300000,01:39:35.385000,"Mesa no tink so.
+Do you know where they are, JarJar?",0.0,0.30000000000000004
+1249,01:39:35.470000,01:39:38.930000,"When in trouble, Gungans
+go to sacred place.",0.0,0.30000000000000004
+1250,01:39:39.015000,01:39:41.933000,Mesa show you. Come on. Mesa show you!,0.0,0.30000000000000004
+1251,01:39:59.452000,01:40:03.914000,"Your Honor, Queen Amidala of the Naboo.",0.0,0.30000000000000004
+1252,01:40:09.086000,01:40:13.882000,"Uh, h-heyo dadee,
+Big Boss Nass, Your Honor.",0.0,0.30000000000000004
+1253,01:40:13.966000,01:40:17.093000,JarJar Binks.,0.0,0.30000000000000004
+1254,01:40:17.178000,01:40:21.348000,Who's da uss-en uthers?,0.0,0.30000000000000004
+1255,01:40:21.432000,01:40:23.725000,I am Queen Amidala of the Naboo.,0.0,0.30000000000000004
+1256,01:40:23.809000,01:40:26.978000,I come before you in peace.,0.0,0.30000000000000004
+1257,01:40:27.063000,01:40:29.940000,"<i>Ah, Naboo biggen.</i>",0.0,0.30000000000000004
+1258,01:40:30.024000,01:40:33.235000,Yousa bringen da Mackineeks.,0.0,0.30000000000000004
+1259,01:40:33.319000,01:40:37.072000,Yousa all bombad.,0.0,0.30000000000000004
+1260,01:40:37.156000,01:40:40.784000,"<i>We have searched you out</i>
+<i>because we wish to form an alliance.</i>",0.0,0.30000000000000004
+1261,01:40:40.868000,01:40:42.786000,Your Honor.,0.0,0.30000000000000004
+1262,01:40:44.455000,01:40:47.374000,Whosa dis?,0.0,0.30000000000000004
+1263,01:40:47.500000,01:40:50.418000,"I am Queen Amidala.
+Huh?",0.0,0.30000000000000004
+1264,01:40:51.379000,01:40:53.296000,"This is my decoy,",0.0,0.30000000000000004
+1265,01:40:53.381000,01:40:56.758000,"my protection, my loyal bodyguard.",0.0,0.30000000000000004
+1266,01:40:56.842000,01:41:01.179000,"<i>I'm sorry for my deception,</i>
+<i>but it was necessary to protect myself.</i>",0.0,0.30000000000000004
+1267,01:41:01.264000,01:41:04.182000,"<i>Although we do not always
+agree, Your Honor,</i>",0.0,0.30000000000000004
+1268,01:41:04.267000,01:41:07.185000,"our two great societies
+have always lived in peace.",0.0,0.30000000000000004
+1269,01:41:07.270000,01:41:09.187000,"- Ah.
+- The Trade Federation...",0.0,0.30000000000000004
+1270,01:41:09.272000,01:41:11.481000,"has destroyed all
+that we have worked so hard to build.",0.0,0.30000000000000004
+1271,01:41:11.566000,01:41:14.901000,"<i>If we do not act quickly,</i>
+<i>all will be lost forever.</i>",0.0,0.30000000000000004
+1272,01:41:14.986000,01:41:17.237000,I ask you to help us.,0.0,0.30000000000000004
+1273,01:41:17.321000,01:41:20.073000,"No, I beg you to help us.",0.0,0.30000000000000004
+1274,01:41:20.157000,01:41:22.534000,<i>We are your humble servants.</i>,0.0,0.30000000000000004
+1275,01:41:24.996000,01:41:28.582000,Our fate is in your hands.,0.0,0.30000000000000004
+1276,01:41:28.666000,01:41:31.167000,Mmm.,0.0,0.30000000000000004
+1277,01:41:39.552000,01:41:42.512000,<i>Ha!</i>,0.0,0.30000000000000004
+1278,01:41:45.766000,01:41:50.061000,"Yousa no tinken yousa
+greater den da Gungans?",0.0,0.30000000000000004
+1279,01:41:52.523000,01:41:56.443000,Me-e-esa lika dis!,0.0,0.30000000000000004
+1280,01:41:56.527000,01:41:58.361000,<i>Maybe...</i>,0.0,0.30000000000000004
+1281,01:41:58.446000,01:42:01.031000,wesa...,0.0,0.30000000000000004
+1282,01:42:01.115000,01:42:03.033000,bein friends.,0.0,0.30000000000000004
+1283,01:42:08.205000,01:42:11.124000,Yippee! Ya-hoo!,0.0,0.30000000000000004
+1284,01:42:11.208000,01:42:13.543000,We've sent our patrols.,0.0,0.30000000000000004
+1285,01:42:13.628000,01:42:17.130000,"We already located
+their starship in the swamp.",0.0,0.30000000000000004
+1286,01:42:17.214000,01:42:19.424000,"It won't be long, my lord.",0.0,0.30000000000000004
+1287,01:42:19.508000,01:42:22.677000,This is an unexpected move for her.,0.0,0.30000000000000004
+1288,01:42:22.762000,01:42:24.804000,It's too aggressive.,0.0,0.30000000000000004
+1289,01:42:24.889000,01:42:27.349000,"Lord Maul, be mindful.",0.0,0.30000000000000004
+1290,01:42:27.433000,01:42:30.018000,<i>Let them make the first move.</i>,0.0,0.30000000000000004
+1291,01:42:30.102000,01:42:32.062000,"Yes, my master.",0.0,0.30000000000000004
+1292,01:42:35.524000,01:42:37.233000,Deysa comin!,0.0,0.30000000000000004
+1293,01:42:37.318000,01:42:39.736000,All right!,0.0,0.30000000000000004
+1294,01:42:41.572000,01:42:43.490000,They're here!,0.0,0.30000000000000004
+1295,01:42:43.574000,01:42:45.533000,Good. They made it.,0.0,0.30000000000000004
+1296,01:42:50.039000,01:42:51.915000,Yousa doen grand.,0.0,0.30000000000000004
+1297,01:42:52.041000,01:42:55.960000,"JarJar bring
+uss-en and da Naboo together.",0.0,0.30000000000000004
+1298,01:42:56.045000,01:42:57.962000,"Ah, no, no, no.",0.0,0.30000000000000004
+1299,01:42:58.047000,01:43:01.049000,"So, wesa make you...",0.0,0.30000000000000004
+1300,01:43:01.133000,01:43:03.176000,bombad general.,0.0,0.30000000000000004
+1301,01:43:03.260000,01:43:05.679000,General?,0.05000000000000002,0.3500000000000001
+1302,01:43:07.765000,01:43:09.766000,Captain.,0.0,0.3500000000000001
+1303,01:43:09.850000,01:43:12.519000,"Your Highness.
+What is the situation?",0.0,0.3500000000000001
+1304,01:43:12.603000,01:43:14.521000,Almost everyone's in camps.,0.0,0.3500000000000001
+1305,01:43:14.605000,01:43:17.857000,"A few hundred police and guards have
+formed an underground resistance movement.",0.0,0.3500000000000001
+1306,01:43:17.942000,01:43:20.527000,"<i>I brought back</i>
+<i>as many of the leaders as I could.</i>",0.0,0.3500000000000001
+1307,01:43:20.611000,01:43:25.281000,"The Federation army's also much larger
+than we thought, and much stronger.",0.0,0.3500000000000001
+1308,01:43:25.366000,01:43:29.703000,"Your Highness, this is a battle
+I do not think that we can win.",0.0,0.3500000000000001
+1309,01:43:29.787000,01:43:31.705000,The battle is a diversion.,0.0,0.3500000000000001
+1310,01:43:31.789000,01:43:34.999000,"The Gungans must draw the droid army
+away from the cities.",0.0,0.3500000000000001
+1311,01:43:35.084000,01:43:37.669000,<i>R2.</i>,0.0,0.3500000000000001
+1312,01:43:37.753000,01:43:41.381000,"We can enter the city using the secret
+passages on the waterfall side.",0.0,0.3500000000000001
+1313,01:43:41.465000,01:43:43.383000,"Once we get to the main entrance,",0.0,0.3500000000000001
+1314,01:43:43.467000,01:43:46.302000,Captain Panaka will create a diversion.,0.0,0.3500000000000001
+1315,01:43:46.387000,01:43:49.347000,"<i>Then we can enter the palace</i>
+<i>and capture the viceroy.</i>",0.0,0.3500000000000001
+1316,01:43:49.432000,01:43:52.726000,"Without the viceroy,
+they will be lost and confused.",0.0,0.3500000000000001
+1317,01:43:52.810000,01:43:54.728000,"What do you think, Master Jedi?",0.0,0.3500000000000001
+1318,01:43:54.812000,01:43:56.980000,The viceroy will be well-guarded.,0.0,0.3500000000000001
+1319,01:43:57.064000,01:43:59.482000,"The difficulty is getting
+into the throne room.",0.0,0.3500000000000001
+1320,01:43:59.567000,01:44:02.026000,"Once we're inside,
+we shouldn't have a problem.",0.0,0.3500000000000001
+1321,01:44:02.111000,01:44:06.865000,"There is a possibility, with this
+diversion, many Gungans will be killed.",0.0,0.3500000000000001
+1322,01:44:06.949000,01:44:10.285000,Wesa ready to do our-san part.,0.0,0.3500000000000001
+1323,01:44:10.369000,01:44:13.580000,"<i>We have a plan which should</i>
+<i>immobilize the droid army.</i>",0.0,0.3500000000000001
+1324,01:44:13.664000,01:44:15.582000,We will send what pilots we have...,0.0,0.3500000000000001
+1325,01:44:15.666000,01:44:18.710000,"to knock out the droid control ship
+orbiting the planet.",0.0,0.3500000000000001
+1326,01:44:18.794000,01:44:21.921000,"A well-conceived plan.
+However, there's great risk.",0.0,0.3500000000000001
+1327,01:44:22.006000,01:44:24.924000,"<i>The weapons on your fighters</i>
+<i>may not penetrate the shields.</i>",0.0,0.3500000000000001
+1328,01:44:25.009000,01:44:26.926000,<i>There's an even bigger danger.</i>,0.0,0.3500000000000001
+1329,01:44:27.011000,01:44:28.928000,"If the viceroy escapes, Your Highness,",0.0,0.3500000000000001
+1330,01:44:29.013000,01:44:31.264000,he will return with another droid army.,0.0,0.3500000000000001
+1331,01:44:31.348000,01:44:34.601000,"Well, that is why we must not
+fail to get the viceroy.",0.0,0.3500000000000001
+1332,01:44:34.685000,01:44:36.603000,Everything depends on it.,0.0,0.3500000000000001
+1333,01:44:42.026000,01:44:44.611000,She is more foolish than I thought.,0.0,0.3500000000000001
+1334,01:44:44.695000,01:44:49.657000,"We are sending all troops to meet this army
+assembling near the swamp.",0.0,0.3500000000000001
+1335,01:44:49.742000,01:44:52.452000,It appears to be made up of primitives.,0.0,0.3500000000000001
+1336,01:44:52.536000,01:44:55.121000,This will work to our advantage.,0.0,0.3500000000000001
+1337,01:44:55.206000,01:44:57.999000,"I have your approval to
+proceed, then, my lord?",0.0,0.3500000000000001
+1338,01:44:58.083000,01:45:00.543000,Wipe them out.,0.0,0.3500000000000001
+1339,01:45:02.213000,01:45:04.172000,All of them.,0.0,0.3500000000000001
+1340,01:45:34.954000,01:45:36.913000,Halt!,0.0,0.3500000000000001
+1341,01:45:39.792000,01:45:42.085000,Starting up the shield.,0.0,0.3500000000000001
+1342,01:46:11.282000,01:46:12.824000,Open fire.,0.0,0.3500000000000001
+1343,01:46:28.257000,01:46:32.176000,"Once we get inside, you find a
+safe place to hide and stay there.",0.0,0.3500000000000001
+1344,01:46:32.303000,01:46:34.220000,"Sure.
+Stay there.",0.0,0.3500000000000001
+1345,01:46:50.154000,01:46:52.280000,Roger. Roger.,0.0,0.3500000000000001
+1346,01:47:00.247000,01:47:03.374000,"I thought the battle
+was going to take place far from here.",0.0,0.3500000000000001
+1347,01:47:03.459000,01:47:06.002000,This is too close.,0.0,0.3500000000000001
+1348,01:47:11.091000,01:47:12.634000,"Ani, find cover.",0.0,0.3500000000000001
+1349,01:47:14.428000,01:47:16.721000,"Quick!
+Get to your ships!",0.0,0.3500000000000001
+1350,01:47:28.984000,01:47:30.860000,Aah!,0.0,0.3500000000000001
+1351,01:47:43.082000,01:47:45.041000,Aah!,0.0,0.3500000000000001
+1352,01:48:15.447000,01:48:17.865000,"- Fighters straight ahead.
+- Roger, Bravo Leader.",0.0,0.3500000000000001
+1353,01:48:17.950000,01:48:19.242000,"Roger, Bravo Leader.",0.0,0.3500000000000001
+1354,01:48:27.084000,01:48:28.960000,Cease fire.,0.0,0.3500000000000001
+1355,01:48:36.510000,01:48:38.970000,Steady. Steady.,0.0,0.3500000000000001
+1356,01:49:12.046000,01:49:15.298000,"Activate the droids.
+Yes, sir.",0.0,0.3500000000000001
+1357,01:49:31.815000,01:49:33.691000,Ouch time.,0.0,0.3500000000000001
+1358,01:49:47.790000,01:49:50.166000,Fire!,0.0,0.3500000000000001
+1359,01:49:50.250000,01:49:52.460000,Whoa-ohh!,0.0,0.3500000000000001
+1360,01:50:02.846000,01:50:05.139000,Aah! Whoa!,0.0,0.3500000000000001
+1361,01:50:10.479000,01:50:13.022000,"My guess is the viceroy's
+in the throne room.",0.0,0.3500000000000001
+1362,01:50:13.107000,01:50:16.526000,"<i>Red group! Blue group! Everybody, this way!</i>",0.0,0.3500000000000001
+1363,01:50:16.610000,01:50:18.653000,"Hey, wait for me!",0.0,0.3500000000000001
+1364,01:50:18.737000,01:50:21.155000,Stay where you are. You'll be safe there.,0.0,0.3500000000000001
+1365,01:50:21.240000,01:50:23.699000,"- But I-
+- Stay in that cockpit.",0.0,0.3500000000000001
+1366,01:50:35.420000,01:50:38.714000,"- We'll handle this.
+- We'll take the long way.",0.0,0.3500000000000001
+1367,01:50:58.861000,01:51:00.862000,"We gotta do something, R2.",0.0,0.3500000000000001
+1368,01:51:23.594000,01:51:26.596000,"I'm trying to!
+I don't know where the trigger is!",0.0,0.3500000000000001
+1369,01:51:29.933000,01:51:33.102000,"Oops, wrong one. Maybe it's this one.",0.0,0.3500000000000001
+1370,01:51:33.187000,01:51:36.606000,Nope. Wait. Here it is.,0.0,0.3500000000000001
+1371,01:51:37.774000,01:51:40.276000,<i>Yeah!</i>,0.0,0.3500000000000001
+1372,01:51:45.115000,01:51:47.617000,Let's go!,0.0,0.3500000000000001
+1373,01:51:47.701000,01:51:49.952000,It's on automatic pilot.,0.0,0.3500000000000001
+1374,01:51:59.004000,01:52:02.423000,Try to override it.,0.0,0.3500000000000001
+1375,01:53:00.399000,01:53:02.900000,"We don't have time for this, Captain.",0.0,0.3500000000000001
+1376,01:53:09.032000,01:53:10.908000,Look! There they are.,0.0,0.3500000000000001
+1377,01:53:10.993000,01:53:13.369000,<i>That's where the autopilot's taking us.</i>,0.0,0.3500000000000001
+1378,01:53:24.006000,01:53:27.091000,Huh? Waaah! Aah! Aah!,0.0,0.3500000000000001
+1379,01:53:27.175000,01:53:29.135000,Aah!,0.0,0.3500000000000001
+1380,01:53:29.219000,01:53:33.014000,"Aaah! Hmm!
+Dumb droid. Take that!",0.0,0.3500000000000001
+1381,01:53:33.098000,01:53:36.350000,Get off! Get off! Get off! Get off!,0.0,0.3500000000000001
+1382,01:53:36.435000,01:53:38.436000,Ooh! Ooh! Mooie!,0.0,0.3500000000000001
+1383,01:53:38.520000,01:53:40.896000,Whoo-hoo! Aah!,0.0,0.3500000000000001
+1384,01:53:46.403000,01:53:48.779000,The deflector shield is too strong.,0.0,0.3500000000000001
+1385,01:53:57.122000,01:53:59.457000,This is tense!,0.0,0.3500000000000001
+1386,01:54:00.834000,01:54:03.794000,"<i>Whoa! R2, get us off this autopilot.</i>",0.0,0.3500000000000001
+1387,01:54:03.879000,01:54:06.047000,It's gonna get us both killed.,0.0,0.3500000000000001
+1388,01:54:06.131000,01:54:10.176000,"<i>You did it, R2!</i>",0.0,0.3500000000000001
+1389,01:54:10.260000,01:54:11.969000,"Okay, let's go left.",0.0,0.3500000000000001
+1390,01:54:15.057000,01:54:17.850000,<i>Go back?</i>,0.0,0.3500000000000001
+1391,01:54:17.934000,01:54:22.271000,"Qui-Gon told me to stay in this cockpit,
+so that's what I'm gonna do.",0.0,0.3500000000000001
+1392,01:54:29.112000,01:54:31.572000,I'll try spinning. That's a good trick.,0.0,0.3500000000000001
+1393,01:54:31.656000,01:54:33.657000,Whoa!,0.0,0.3500000000000001
+1394,01:54:35.619000,01:54:39.789000,I know we're in trouble.Just hang on.,0.0,0.3500000000000001
+1395,01:54:46.630000,01:54:48.672000,Go!,0.0,0.3500000000000001
+1396,01:54:52.469000,01:54:54.261000,Ascension guns!,0.0,0.3500000000000001
+1397,01:57:00.305000,01:57:01.972000,Retreat! Retreat!,0.0,0.3500000000000001
+1398,01:57:03.725000,01:57:05.643000,Dis is nutsen.,0.0,0.3500000000000001
+1399,01:57:05.727000,01:57:07.728000,Hyah!,0.0,0.3500000000000001
+1400,01:57:08.939000,01:57:10.856000,O-O-Ohh!,0.0,0.3500000000000001
+1401,01:57:15.487000,01:57:17.488000,Uh-oh. Big boomers.,0.0,0.3500000000000001
+1402,01:57:17.572000,01:57:20.282000,Ohh! Ohh!,0.0,0.3500000000000001
+1403,01:57:24.829000,01:57:27.039000,Uh-oh! Aaah!,0.0,0.3500000000000001
+1404,01:57:35.715000,01:57:38.133000,Hey! Hey!,0.0,0.3500000000000001
+1405,01:57:38.218000,01:57:41.845000,Give me a lift! Aaah! Oh!,0.0,0.3500000000000001
+1406,01:57:42.973000,01:57:45.015000,Aaah!,0.0,0.3500000000000001
+1407,01:57:46.142000,01:57:47.768000,Ohh!,0.0,0.3500000000000001
+1408,01:57:47.852000,01:57:49.520000,"JarJar, usen da booma!",0.0,0.3500000000000001
+1409,01:57:49.604000,01:57:51.564000,What? Mesa no have a booma!,0.0,0.3500000000000001
+1410,01:57:51.648000,01:57:53.607000,Here. Taken dis one.,0.0,0.3500000000000001
+1411,01:57:53.692000,01:57:56.819000,Whoa! Whoa! Whoa! Whoa! Whoa! Aah!,0.0,0.3500000000000001
+1412,01:57:57.988000,01:57:59.613000,Aah! Aah! Aah!,0.0,0.3500000000000001
+1413,01:57:59.698000,01:58:02.741000,Whoa-ohh!,0.0,0.3500000000000001
+1414,01:58:02.826000,01:58:04.743000,Oh! Oh! Oh!,0.0,0.3500000000000001
+1415,01:58:04.828000,01:58:06.370000,Aaah!,0.0,0.3500000000000001
+1416,01:58:06.454000,01:58:08.706000,Help me!,0.0,0.3500000000000001
+1417,01:58:09.833000,01:58:13.294000,"JarJar! Jump, JarJar, jump!",0.0,0.3500000000000001
+1418,01:58:22.929000,01:58:26.181000,Put down your weapons. They win this round.,0.0,0.3500000000000001
+1419,01:58:39.070000,01:58:41.322000,"We're hit, R2! Aah!",0.0,0.3500000000000001
+1420,01:58:46.244000,01:58:48.579000,Aaah!,0.0,0.3500000000000001
+1421,01:58:54.419000,01:58:57.504000,I'm trying to stop! I'm trying to stop!,0.0,0.3500000000000001
+1422,01:59:04.638000,01:59:06.180000,Everything's overheated.,0.0,0.3500000000000001
+1423,01:59:06.264000,01:59:09.683000,Oops. This is not good.,0.0,0.3500000000000001
+1424,01:59:55.188000,01:59:59.108000,No!,0.0,0.3500000000000001
+1425,02:00:21.756000,02:00:24.299000,"No giben up, General JarJar.",0.0,0.3500000000000001
+1426,02:00:24.384000,02:00:26.260000,Mesa tink of something.,0.0,0.3500000000000001
+1427,02:00:26.344000,02:00:28.804000,"- Hands up.
+- My give up.",0.0,0.3500000000000001
+1428,02:00:28.930000,02:00:30.806000,My give up.,0.0,0.3500000000000001
+1429,02:00:39.482000,02:00:42.609000,"Your little insurrection
+is at an end, Your Highness.",0.0,0.3500000000000001
+1430,02:00:42.694000,02:00:46.655000,"<i>Time for you to sign the treaty and end
+this pointless debate in the senate.</i>",0.0,0.3500000000000001
+1431,02:00:46.740000,02:00:48.532000,<i>Viceroy!</i>,0.0,0.3500000000000001
+1432,02:00:48.616000,02:00:50.617000,Your occupation here has ended.,0.0,0.3500000000000001
+1433,02:00:52.120000,02:00:55.497000,After her. This one's a decoy.,0.0,0.3500000000000001
+1434,02:01:02.046000,02:01:04.673000,<i>Captain!</i>,0.0,0.3500000000000001
+1435,02:01:12.223000,02:01:14.850000,Jam the doors.,0.0,0.3500000000000001
+1436,02:01:17.645000,02:01:21.190000,"Now, Viceroy,
+we will discuss a new treaty.",0.0,0.3500000000000001
+1437,02:02:23.461000,02:02:25.754000,<i>Yes! We have power.</i>,0.0,0.3500000000000001
+1438,02:02:25.839000,02:02:28.382000,Shields up.,0.0,0.3500000000000001
+1439,02:02:30.134000,02:02:31.885000,Take this!,0.0,0.3500000000000001
+1440,02:02:33.221000,02:02:35.681000,And this!,0.0,0.3500000000000001
+1441,02:02:35.765000,02:02:37.724000,Whoa!,0.0,0.3500000000000001
+1442,02:02:42.188000,02:02:44.106000,"- Oops.
+- We're losing power.",0.0,0.3500000000000001
+1443,02:02:44.232000,02:02:47.442000,"There seems to be a problem with
+the main reactor. <i>Impossible!</i>",0.0,0.3500000000000001
+1444,02:02:47.527000,02:02:49.444000,Nothing can get through our shield.,0.0,0.3500000000000001
+1445,02:02:50.655000,02:02:53.448000,Let's get outta here.,0.0,0.3500000000000001
+1446,02:03:00.540000,02:03:03.250000,"What's that?
+It's blowing up from the inside!",0.0,0.3500000000000001
+1447,02:03:06.212000,02:03:07.796000,We didn't hit it.,0.0,0.3500000000000001
+1448,02:03:10.884000,02:03:14.428000,"Now, this is Podracing.",0.0,0.3500000000000001
+1449,02:03:14.512000,02:03:18.307000,"- Look, one of ours, out of the main hold!
+- Whoo!",0.0,0.3500000000000001
+1450,02:03:22.687000,02:03:25.689000,"- Whoo!
+- Yeah!
+- Hee-hee!",0.0,0.3500000000000001
+1451,02:03:35.950000,02:03:39.119000,What the-,0.0,0.3500000000000001
+1452,02:03:39.203000,02:03:41.496000,Was'n they doing?,0.0,0.3500000000000001
+1453,02:03:41.581000,02:03:45.167000,The control ship has been destroyed. Look!,0.0,0.3500000000000001
+1454,02:03:46.878000,02:03:49.254000,They all broke-ed.,0.0,0.3500000000000001
+1455,02:04:37.637000,02:04:41.056000,"No, it-it's too late.",0.0,0.3500000000000001
+1456,02:04:41.140000,02:04:43.517000,"No.
+Obi-Wan.",0.0,0.3500000000000001
+1457,02:04:44.727000,02:04:46.645000,Promise...,0.0,0.3500000000000001
+1458,02:04:46.729000,02:04:48.981000,Promise me you will train the boy.,0.0,0.3500000000000001
+1459,02:04:49.065000,02:04:51.024000,"Yes, Master.",0.0,0.3500000000000001
+1460,02:04:54.612000,02:04:57.656000,He is the chosen one.,0.0,0.3500000000000001
+1461,02:04:57.740000,02:05:01.034000,He... will bring balance.,0.0,0.3500000000000001
+1462,02:05:02.203000,02:05:04.121000,Train him.,0.0,0.3500000000000001
+1463,02:05:31.107000,02:05:32.941000,"Now, Viceroy,",0.0,0.3500000000000001
+1464,02:05:33.026000,02:05:36.486000,"you're going to have to go back to
+the senate and explain all this.",0.0,0.3500000000000001
+1465,02:05:38.197000,02:05:41.491000,"I think you can kiss
+your trade franchise good-bye.",0.0,0.3500000000000001
+1466,02:05:55.256000,02:05:58.800000,"We are indebted to you for your bravery,
+Obi-Wan Kenobi.",0.0,0.3500000000000001
+1467,02:05:58.885000,02:06:00.761000,"And you, young Skyalker.",0.0,0.3500000000000001
+1468,02:06:00.845000,02:06:04.931000,"We will watch your career
+with great interest.",0.0,0.3500000000000001
+1469,02:06:11.355000,02:06:13.982000,"Congratulations on your
+election, Chancellor.",0.0,0.3500000000000001
+1470,02:06:14.067000,02:06:17.527000,"Your boldness has saved
+our people, Your Majesty.",0.0,0.3500000000000001
+1471,02:06:17.612000,02:06:20.030000,It's you who should be congratulated.,0.0,0.3500000000000001
+1472,02:06:20.114000,02:06:24.076000,"Together we shall bring
+peace and prosperity to the Republic.",0.0,0.3500000000000001
+1473,02:06:28.456000,02:06:33.543000,"Confer on you the level of Jedi knight
+the council does.",0.0,0.3500000000000001
+1474,02:06:33.628000,02:06:38.381000,"But agree with your taking this boy
+as your Padawan learner...",0.0,0.3500000000000001
+1475,02:06:38.466000,02:06:40.425000,I do not.,0.0,0.3500000000000001
+1476,02:06:40.510000,02:06:42.552000,Qui-Gon believed in him.,0.0,0.3500000000000001
+1477,02:06:45.014000,02:06:47.933000,The chosen one the boy may be.,0.0,0.3500000000000001
+1478,02:06:48.017000,02:06:49.935000,"Nevertheless,",0.0,0.3500000000000001
+1479,02:06:50.019000,02:06:52.938000,grave danger I fear in his training.,0.0,0.3500000000000001
+1480,02:06:53.022000,02:06:56.608000,"Master Yoda, I gave Qui-Gon my word.",0.0,0.3500000000000001
+1481,02:06:56.692000,02:06:58.610000,I will train Anakin.,0.0,0.3500000000000001
+1482,02:06:58.694000,02:07:01.113000,Ohh!,0.0,0.3500000000000001
+1483,02:07:01.197000,02:07:04.116000,"Without the approval of the
+council, if I must.",0.0,0.3500000000000001
+1484,02:07:04.200000,02:07:06.618000,Qui-Gon's defiance I sense in you.,0.0,0.3500000000000001
+1485,02:07:06.702000,02:07:08.620000,Need that you do not.,0.0,0.3500000000000001
+1486,02:07:10.706000,02:07:14,Agree with you the council does.,0.0,0.3500000000000001
+1487,02:07:15.044000,02:07:18.380000,Your apprentice Skywalker will be.,0.0,0.3500000000000001
+1488,02:07:45.449000,02:07:47.951000,What will happen to me now?,0.0,0.3500000000000001
+1489,02:07:48.035000,02:07:51.163000,"The council have granted me
+permission to train you.",0.0,0.3500000000000001
+1490,02:07:51.247000,02:07:54.624000,"You will be a Jedi, I promise.",0.0,0.3500000000000001
+1491,02:08:03.426000,02:08:06.511000,"There's no doubt
+the mysterious warrior was a Sith.",0.0,0.3500000000000001
+1492,02:08:06.596000,02:08:10.056000,Mmm. Always two there are.,0.0,0.3500000000000001
+1493,02:08:10.141000,02:08:13.268000,"No more, no less.",0.0,0.3500000000000001
+1494,02:08:13.352000,02:08:16.146000,A master and an apprentice.,0.0,0.3500000000000001
+1495,02:08:16.230000,02:08:18.148000,But which was destroyed?,0.0,0.3500000000000001
+1496,02:08:18.232000,02:08:21.151000,The master or the apprentice?,0.0,0.3500000000000001
+1497,02:08:45.801000,02:08:47.886000,"Hello, everybody!",0.0,0.3500000000000001
+1498,02:09:34.517000,02:09:36.434000,Peace!,0.0,0.3500000000000001
+1499,02:09:36.519000,02:09:39.396000,Ya-hoo!,0.0,0.3500000000000001
